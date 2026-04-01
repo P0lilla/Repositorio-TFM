@@ -1,0 +1,24 @@
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-insufficient-physical-activity-among-adults-aged-18-years-%28age-standardized-estimate%29-%28-%29
+
+Indicator name:
+Physical activity, insufficient among adults aged 18+ years, prevalence
+Topic:
+Risk factors
+Definition:
+Percent of population attaining less than 150 minutes of moderate-intensity physical activity per week, or less than 75 minutes of vigorous-intensity physical activity per week, or equivalent.
+Disaggregation:
+Sex and age
+Method of measurement
+ Self-report
+Method of estimation:
+The estimates are based on self-reported physical activity captured using the GPAQ (Global Physical Activity Questionnaire), the IPAQ (International Physical Activity Questionnaire) or a similar questionnaire covering activity at work/in the household, for transport, and during leisure time. Where necessary, adjustments were made for the reported definition (in case it was different to the indicator definition), for known over-reporting of activity in questionnaires such as the IPAQ, and for survey coverage (in case a survey only covered urban areas). A Bayesian hierarchical model was used to produce estimates for each country or territory, age, sex and year. Age-standardized estimates are produced by applying the crude estimates to the WHO Standard Population. Further details may be found at: Strain T, Flaxman SR, Guthold R, Semenova E, et al. National, regional and global trends in insufficient physical activity among adults from 2000 to 2022: a pooled analysis of 507 surveys with 5.7 million participants. Lancet Global Health, 2024 (https://doi.org/10.1016/S2214-109X(24)00150-5).
+Method of estimation of global and regional aggregates:
+Country estimates were combined for each age group and sex, weighting them by population, to obtain regional and global aggregates. For World Bank income groups, groupings for the year 2022 were used.
+Preferred data sources:
+Population-based surveys
+Contact person email:
+rileyl@who.int
+Name:
+Leanne Riley
+IMRID:
+2381 

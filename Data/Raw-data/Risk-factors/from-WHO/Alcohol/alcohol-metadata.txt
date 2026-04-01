@@ -1,0 +1,18 @@
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/average-daily-intake-in-grams-of-alcohol--population-15
+
+Indicator name:
+Alcohol, average daily intake in grams among drinkers
+Short name:
+Grams of pure alcohol per day
+Topic:
+Risk factors
+Definition:
+Grams of pure alcohol per day is a measure of alcohol consumption.
+Method of estimation:
+Given the specific weight of alcohol of 0.793 g/cm3 (at 20 °C), per capita consumption in litres of pure ethanol per year can be converted into grams per day as follows: g/day = APC x 1000 x 0.793/365 days
+Contact person email:
+msb@who.int
+Name:
+NMH/MSD/MBD
+IMRID:
+4403 

@@ -1,0 +1,30 @@
+Cancer code,ICD Code,Country,Label,Sex,Number,95% UI low,95% UI high,Number,ASR (World),Crude rate,Cumulative risk
+39,C00-97,90,All cancers,1,166,135,205,166,70.8,45.3,7.3
+1,C00-06,90,"Lip, oral cavity",1,7,0,103,7,3.0,1.9,0.31
+2,C07-08,90,Salivary glands,1,3,0,44,3,1.2,0.82,0.12
+3,C09-10,90,Oropharynx,1,1,0,15,1,0.39,0.27,0.04
+4,C11,90,Nasopharynx,1,2,0,29,2,0.81,0.55,0.09
+5,C12-13,90,Hypopharynx,1,0,0,0,0,0.00,0.00,0.00
+6,C15,90,Oesophagus,1,6,3,13,6,2.3,1.6,0.15
+7,C16,90,Stomach,1,5,4,7,5,2.4,1.4,0.26
+41,C18-C21,90,Colorectum,1,4,-,-,4,2.4,1.1,0.29
+11,C22,90,Liver and intrahepatic bile ducts,1,40,26,62,40,17.3,10.9,1.9
+12,C23,90,Gallbladder,1,0,0,0,0,0.00,0.00,0.00
+13,C25,90,Pancreas,1,5,3,8,5,2.6,1.4,0.26
+14,C32,90,Larynx,1,4,0,45,4,1.7,1.1,0.13
+15,C33-34,90,"Trachea, bronchus and lung",1,16,11,23,16,7.6,4.4,0.84
+16,C43,90,Melanoma of skin,1,0,0,0,0,0.00,0.00,0.00
+17,C44,90,Non-melanoma skin cancer,1,0,0,0,0,0.00,0.00,0.00
+18,C45,90,Mesothelioma,1,0,0,0,0,0.00,0.00,0.00
+19,C46,90,Kaposi sarcoma,1,0,0,0,0,0.00,0.00,0.00
+26,C60,90,Penis,1,2,0,13,2,0.72,0.55,0.03
+27,C61,90,Prostate,1,27,19,39,27,13.2,7.4,1.7
+28,C62,90,Testis,1,0,0,0,0,0.00,0.00,0.00
+29,C64,90,Kidney,1,0,0,0,0,0.00,0.00,0.00
+30,C67,90,Bladder,1,2,1,3,2,1.1,0.55,0.16
+31,C70-72,90," Brain, central nervous system",1,1,0,15,1,0.36,0.27,0.03
+32,C73,90,Thyroid,1,1,0,15,1,0.58,0.27,0.10
+33,C81,90,Hodgkin lymphoma,1,0,0,0,0,0.00,0.00,0.00
+34,C82-86+C88,90,Non-Hodgkin lymphoma,1,7,4,12,7,2.2,1.9,0.17
+35,C90,90,Multiple myeloma,1,4,1,31,4,1.6,1.1,0.16
+36,C91-95,90,Leukaemia,1,9,6,14,9,2.7,2.5,0.23

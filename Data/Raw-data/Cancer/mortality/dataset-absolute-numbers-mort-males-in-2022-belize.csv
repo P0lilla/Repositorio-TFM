@@ -1,0 +1,30 @@
+Cancer code,ICD Code,Country,Label,Sex,Number,95% UI low,95% UI high,Number,ASR (World),Crude rate,Cumulative risk
+39,C00-97,84,All cancers,1,106,85,131,106,62.2,51.8,6.5
+1,C00-06,84,"Lip, oral cavity",1,0,0,0,0,0.00,0.00,0.00
+2,C07-08,84,Salivary glands,1,0,0,0,0,0.00,0.00,0.00
+3,C09-10,84,Oropharynx,1,0,0,0,0,0.00,0.00,0.00
+4,C11,84,Nasopharynx,1,0,0,0,0,0.00,0.00,0.00
+5,C12-13,84,Hypopharynx,1,0,0,0,0,0.00,0.00,0.00
+6,C15,84,Oesophagus,1,3,0,28,3,2.0,1.5,0.27
+7,C16,84,Stomach,1,9,3,27,9,4.7,4.4,0.40
+41,C18-C21,84,Colorectum,1,8,-,-,8,4.9,3.9,0.62
+11,C22,84,Liver and intrahepatic bile ducts,1,13,5,34,13,8.2,6.4,1.1
+12,C23,84,Gallbladder,1,0,0,0,0,0.00,0.00,0.00
+13,C25,84,Pancreas,1,2,0,18,2,1.2,0.98,0.17
+14,C32,84,Larynx,1,5,1,46,5,2.5,2.4,0.12
+15,C33-34,84,"Trachea, bronchus and lung",1,19,8,43,19,12.2,9.3,1.5
+16,C43,84,Melanoma of skin,1,0,0,0,0,0.00,0.00,0.00
+17,C44,84,Non-melanoma skin cancer,1,0,0,0,0,0.00,0.00,0.00
+18,C45,84,Mesothelioma,1,0,0,0,0,0.00,0.00,0.00
+19,C46,84,Kaposi sarcoma,1,0,0,0,0,0.00,0.00,0.00
+26,C60,84,Penis,1,0,0,0,0,0.00,0.00,0.00
+27,C61,84,Prostate,1,29,16,52,29,16.0,14.2,1.2
+28,C62,84,Testis,1,0,0,0,0,0.00,0.00,0.00
+29,C64,84,Kidney,1,1,0,9,1,0.69,0.49,0.09
+30,C67,84,Bladder,1,0,0,0,0,0.00,0.00,0.00
+31,C70-72,84," Brain, central nervous system",1,2,0,18,2,1.3,0.98,0.19
+32,C73,84,Thyroid,1,0,0,0,0,0.00,0.00,0.00
+33,C81,84,Hodgkin lymphoma,1,0,0,0,0,0.00,0.00,0.00
+34,C82-86+C88,84,Non-Hodgkin lymphoma,1,2,0,18,2,1.3,0.98,0.19
+35,C90,84,Multiple myeloma,1,0,0,0,0,0.00,0.00,0.00
+36,C91-95,84,Leukaemia,1,3,0,28,3,1.6,1.5,0.21

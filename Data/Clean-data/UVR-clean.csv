@@ -1,0 +1,192 @@
+,alpha3,Dim1,Indicator,Location,Time period,Dim1 type,Value,country-code
+0,AFG,,UV radiation,Afghanistan,2004,,4132,4
+1,AGO,,UV radiation,Angola,2004,,5287,24
+2,ALB,,UV radiation,Albania,2004,,2542,8
+3,AND,,UV radiation,Andorra,2004,,2469,20
+4,ARE,,UV radiation,United Arab Emirates,2004,,4862,784
+5,ARG,,UV radiation,Argentina,2004,,3476,32
+6,ARM,,UV radiation,Armenia,2004,,2899,51
+7,ATG,,UV radiation,Antigua and Barbuda,2004,,5148,28
+8,AUS,,UV radiation,Australia,2004,,3206,36
+9,AUT,,UV radiation,Austria,2004,,1888,40
+10,AZE,,UV radiation,Azerbaijan,2004,,2702,31
+11,BDI,,UV radiation,Burundi,2004,,5111,108
+12,BEL,,UV radiation,Belgium,2004,,1645,56
+13,BEN,,UV radiation,Benin,2004,,5168,204
+14,BFA,,UV radiation,Burkina Faso,2004,,5567,854
+15,BGD,,UV radiation,Bangladesh,2004,,4029,50
+16,BGR,,UV radiation,Bulgaria,2004,,2331,100
+17,BHR,,UV radiation,Bahrain,2004,,4419,48
+18,BHS,,UV radiation,Bahamas,2004,,4119,44
+19,BIH,,UV radiation,Bosnia and Herzegovina,2004,,2205,70
+20,BLR,,UV radiation,Belarus,2004,,1795,112
+21,BLZ,,UV radiation,Belize,2004,,4639,84
+22,BOL,,UV radiation,Bolivia (Plurinational State of),2004,,5344,68
+23,BRA,,UV radiation,Brazil,2004,,4552,76
+24,BRB,,UV radiation,Barbados,2004,,5787,52
+25,BRN,,UV radiation,Brunei Darussalam,2004,,5148,96
+26,BTN,,UV radiation,Bhutan,2004,,4180,64
+27,BWA,,UV radiation,Botswana,2004,,4868,72
+28,CAF,,UV radiation,Central African Republic,2004,,5498,140
+29,CAN,,UV radiation,Canada,2004,,1887,124
+30,CHE,,UV radiation,Switzerland,2004,,2158,756
+31,CHL,,UV radiation,Chile,2004,,3982,152
+32,CHN,,UV radiation,China,2004,,2908,156
+33,CIV,,UV radiation,Cote d'Ivoire,2004,,4931,384
+34,CMR,,UV radiation,Cameroon,2004,,5185,120
+35,COD,,UV radiation,Democratic Republic of the Congo,2004,,5100,180
+36,COG,,UV radiation,Congo,2004,,4943,178
+37,COK,,UV radiation,Cook Islands,2004,,4708,184
+38,COL,,UV radiation,Colombia,2004,,5385,170
+39,COM,,UV radiation,Comoros,2004,,5524,174
+40,CPV,,UV radiation,Cabo Verde,2004,,5372,132
+41,CRI,,UV radiation,Costa Rica,2004,,4884,188
+42,CUB,,UV radiation,Cuba,2004,,4401,192
+43,CYP,,UV radiation,Cyprus,2004,,3439,196
+44,CZE,,UV radiation,Czechia,2004,,1707,203
+45,DEU,,UV radiation,Germany,2004,,1812,276
+46,DJI,,UV radiation,Djibouti,2004,,5461,262
+47,DMA,,UV radiation,Dominica,2004,,5464,212
+48,DNK,,UV radiation,Denmark,2004,,1691,208
+49,DOM,,UV radiation,Dominican Republic,2004,,4880,214
+50,DZA,,UV radiation,Algeria,2004,,3253,12
+51,ECU,,UV radiation,Ecuador,2004,,4929,218
+52,EGY,,UV radiation,Egypt,2004,,4202,818
+53,ERI,,UV radiation,Eritrea,2004,,5914,232
+54,ESP,,UV radiation,Spain,2004,,2705,724
+55,EST,,UV radiation,Estonia,2004,,1781,233
+56,ETH,,UV radiation,Ethiopia,2004,,5929,231
+57,FIN,,UV radiation,Finland,2004,,1494,246
+58,FJI,,UV radiation,Fiji,2004,,4431,242
+59,FRA,,UV radiation,France,2004,,1907,250
+60,FSM,,UV radiation,Micronesia (Federated States of),2004,,4587,583
+61,GAB,,UV radiation,Gabon,2004,,4654,266
+62,GBR,,UV radiation,United Kingdom of Great Britain and Northern Ireland,2004,,1576,826
+63,GEO,,UV radiation,Georgia,2004,,2489,268
+64,GHA,,UV radiation,Ghana,2004,,5166,288
+65,GIN,,UV radiation,Guinea,2004,,5391,324
+66,GMB,,UV radiation,Gambia,2004,,5358,270
+67,GNB,,UV radiation,Guinea-Bissau,2004,,5319,624
+68,GNQ,,UV radiation,Equatorial Guinea,2004,,4635,226
+69,GRC,,UV radiation,Greece,2004,,2753,300
+70,GRD,,UV radiation,Grenada,2004,,4875,308
+71,GTM,,UV radiation,Guatemala,2004,,5141,320
+72,GUY,,UV radiation,Guyana,2004,,5203,328
+73,HND,,UV radiation,Honduras,2004,,4924,340
+74,HRV,,UV radiation,Croatia,2004,,1976,191
+75,HTI,,UV radiation,Haiti,2004,,5016,332
+76,HUN,,UV radiation,Hungary,2004,,1932,348
+77,IDN,,UV radiation,Indonesia,2004,,5220,360
+78,IND,,UV radiation,India,2004,,4514,356
+79,IRL,,UV radiation,Ireland,2004,,1509,372
+80,IRN,,UV radiation,Iran (Islamic Republic of),2004,,4038,364
+81,IRQ,,UV radiation,Iraq,2004,,3825,368
+82,ISL,,UV radiation,Iceland,2004,,957,352
+83,ISR,,UV radiation,Israel,2004,,3682,376
+84,ITA,,UV radiation,Italy,2004,,2444,380
+85,JAM,,UV radiation,Jamaica,2004,,4942,388
+86,JOR,,UV radiation,Jordan,2004,,4026,400
+87,JPN,,UV radiation,Japan,2004,,2521,392
+88,KAZ,,UV radiation,Kazakhstan,2004,,2257,398
+89,KEN,,UV radiation,Kenya,2004,,5803,404
+90,KGZ,,UV radiation,Kyrgyzstan,2004,,3094,417
+91,KHM,,UV radiation,Cambodia,2004,,5152,116
+92,KIR,,UV radiation,Kiribati,2004,,6229,296
+93,KNA,,UV radiation,Saint Kitts and Nevis,2004,,5009,659
+94,KOR,,UV radiation,Republic of Korea,2004,,2535,410
+95,KWT,,UV radiation,Kuwait,2004,,4214,414
+96,LAO,,UV radiation,Lao People's Democratic Republic,2004,,4735,418
+97,LBN,,UV radiation,Lebanon,2004,,2953,422
+98,LBR,,UV radiation,Liberia,2004,,4926,430
+99,LBY,,UV radiation,Libya,2004,,3861,434
+100,LCA,,UV radiation,Saint Lucia,2004,,5164,662
+101,LKA,,UV radiation,Sri Lanka,2004,,5264,144
+102,LSO,,UV radiation,Lesotho,2004,,4439,426
+103,LTU,,UV radiation,Lithuania,2004,,1801,440
+104,LUX,,UV radiation,Luxembourg,2004,,1687,442
+105,LVA,,UV radiation,Latvia,2004,,1671,428
+106,MAR,,UV radiation,Morocco,2004,,3568,504
+107,MCO,,UV radiation,Monaco,2004,,1907,492
+108,MDA,,UV radiation,Republic of Moldova,2004,,1910,498
+109,MDG,,UV radiation,Madagascar,2004,,4771,450
+110,MDV,,UV radiation,Maldives,2004,,10224,462
+111,MEX,,UV radiation,Mexico,2004,,4974,484
+112,MHL,,UV radiation,Marshall Islands,2004,,5325,584
+113,MKD,,UV radiation,North Macedonia,2004,,2403,807
+114,MLI,,UV radiation,Mali,2004,,5617,466
+115,MLT,,UV radiation,Malta,2004,,3091,470
+116,MMR,,UV radiation,Myanmar,2004,,4565,104
+117,MNG,,UV radiation,Mongolia,2004,,2226,496
+118,MOZ,,UV radiation,Mozambique,2004,,4646,508
+119,MRT,,UV radiation,Mauritania,2004,,5547,478
+120,MUS,,UV radiation,Mauritius,2004,,5055,480
+121,MWI,,UV radiation,Malawi,2004,,5019,454
+122,MYS,,UV radiation,Malaysia,2004,,5225,458
+123,NAM,,UV radiation,Namibia,2004,,5305,516
+124,NER,,UV radiation,Niger,2004,,5811,562
+125,NGA,,UV radiation,Nigeria,2004,,5251,566
+126,NIC,,UV radiation,Nicaragua,2004,,5078,558
+127,NIU,,UV radiation,Niue,2004,,4687,570
+128,NLD,,UV radiation,Netherlands (Kingdom of the),2004,,1662,528
+129,NOR,,UV radiation,Norway,2004,,1439,578
+130,NPL,,UV radiation,Nepal,2004,,4130,524
+131,NRU,,UV radiation,Nauru,2004,,3022,520
+132,NZL,,UV radiation,New Zealand,2004,,2487,554
+133,OMN,,UV radiation,Oman,2004,,5102,512
+134,PAK,,UV radiation,Pakistan,2004,,4227,586
+135,PAN,,UV radiation,Panama,2004,,4898,591
+136,PER,,UV radiation,Peru,2004,,5906,604
+137,PHL,,UV radiation,Philippines,2004,,4928,608
+138,PLW,,UV radiation,Palau,2004,,5175,585
+139,PNG,,UV radiation,Papua New Guinea,2004,,5377,598
+140,POL,,UV radiation,Poland,2004,,1749,616
+141,PRK,,UV radiation,Democratic People's Republic of Korea,2004,,2335,408
+142,PRT,,UV radiation,Portugal,2004,,2585,620
+143,PRY,,UV radiation,Paraguay,2004,,4038,600
+144,QAT,,UV radiation,Qatar,2004,,4905,634
+145,ROU,,UV radiation,Romania,2004,,2071,642
+146,RUS,,UV radiation,Russian Federation,2004,,1795,643
+147,RWA,,UV radiation,Rwanda,2004,,5130,646
+148,SAU,,UV radiation,Saudi Arabia,2004,,5384,682
+149,SDN,,UV radiation,Sudan,2004,,5783,729
+150,SEN,,UV radiation,Senegal,2004,,5356,686
+151,SGP,,UV radiation,Singapore,2004,,3979,702
+152,SLB,,UV radiation,Solomon Islands,2004,,4071,90
+153,SLE,,UV radiation,Sierra Leone,2004,,5087,694
+154,SLV,,UV radiation,El Salvador,2004,,5364,222
+155,SMR,,UV radiation,San Marino,2004,,1932,674
+156,SOM,,UV radiation,Somalia,2004,,5773,706
+157,STP,,UV radiation,Sao Tome and Principe,2004,,4422,678
+158,SUR,,UV radiation,Suriname,2004,,4799,740
+159,SVK,,UV radiation,Slovakia,2004,,1795,703
+160,SVN,,UV radiation,Slovenia,2004,,2256,705
+161,SWE,,UV radiation,Sweden,2004,,1587,752
+162,SWZ,,UV radiation,Eswatini,2004,,3900,748
+163,SYC,,UV radiation,Seychelles,2004,,5570,690
+164,SYR,,UV radiation,Syrian Arab Republic,2004,,3501,760
+165,TCD,,UV radiation,Chad,2004,,5669,148
+166,TGO,,UV radiation,Togo,2004,,5307,768
+167,THA,,UV radiation,Thailand,2004,,4862,764
+168,TJK,,UV radiation,Tajikistan,2004,,3538,762
+169,TKM,,UV radiation,Turkmenistan,2004,,3164,795
+170,TLS,,UV radiation,Timor-Leste,2004,,5637,626
+171,TON,,UV radiation,Tonga,2004,,4087,776
+172,TTO,,UV radiation,Trinidad and Tobago,2004,,5245,780
+173,TUN,,UV radiation,Tunisia,2004,,3262,788
+174,TUR,,UV radiation,Türkiye,2004,,2924,792
+175,TUV,,UV radiation,Tuvalu,2004,,5465,798
+176,TZA,,UV radiation,United Republic of Tanzania,2004,,5483,834
+177,UGA,,UV radiation,Uganda,2004,,5499,800
+178,UKR,,UV radiation,Ukraine,2004,,1843,804
+179,URY,,UV radiation,Uruguay,2004,,3235,858
+180,USA,,UV radiation,United States of America,2004,,2736,840
+181,UZB,,UV radiation,Uzbekistan,2004,,3172,860
+182,VCT,,UV radiation,Saint Vincent and the Grenadines,2004,,5358,670
+183,VEN,,UV radiation,Venezuela (Bolivarian Republic of),2004,,5211,862
+184,VNM,,UV radiation,Viet Nam,2004,,4293,704
+185,VUT,,UV radiation,Vanuatu,2004,,4555,548
+186,WSM,,UV radiation,Samoa,2004,,4966,882
+187,YEM,,UV radiation,Yemen,2004,,6089,887
+188,ZAF,,UV radiation,South Africa,2004,,4111,710
+189,ZMB,,UV radiation,Zambia,2004,,5265,894
+190,ZWE,,UV radiation,Zimbabwe,2004,,4918,716

@@ -1,0 +1,23 @@
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uv-radiation
+
+
+Indicator name:
+Solar ultraviolet (UV) radiation exposure
+Short name:
+UV radiation
+Topic:
+Risk factors
+Rationale:
+As part of a broader project to assess major risk factors to health, the burden of disease resulting from exposure to ultraviolet (UV) radiation was assessed.  
+Definition:
+The estimates presented are population-weighted average daily ambient UVR level (in J/m2) for the years 1997–2003 for selected countries.  
+Method of estimation:
+The estimations of UVR for this burden of disease assessment involve assuming a population-level  exposure represented by annual ambient  erythemally weighted UVR (calculated from  satellite data) or a proxy such as latitudinal  position.
+Preferred data sources:
+Special facility surveys
+Contact person email:
+bonjourso@who.int
+Name:
+Sophie Bonjour
+IMRID:
+2395 

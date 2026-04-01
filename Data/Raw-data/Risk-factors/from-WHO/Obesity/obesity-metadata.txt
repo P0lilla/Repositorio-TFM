@@ -1,0 +1,29 @@
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-%28age-standardized-estimate%29-%28-%29
+
+
+Indicator name:
+Obesity among adults, BMI ≥ 30, prevalence
+Short name:
+NCD_BMI_30
+Topic:
+Risk factors
+Definition:
+Percentage of adults aged 18+ years with a body mass index (BMI) of 30 kg/m2 or higher.  
+Disaggregation:
+Sex
+Method of measurement
+Based on measured height and weight.
+Method of estimation:
+Input data and methods are described here: NCD-RisC. Worldwide trends in underweight and obesity from 1990 to 2022: a pooled analysis of 3663 population-representative studies with 222 million children, adolescents and adults.
+
+Lancet 2024. DOI: https://doi.org/10.1016/ S0140-6736(23)02750-2
+
+Statistical code is available here: https://doi.org/10.5281/zenodo.10534960
+Preferred data sources:
+Population-based surveys
+Contact person email:
+rileyl@who.int
+Name:
+Leanne Riley
+IMRID:
+2389 

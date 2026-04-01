@@ -1,0 +1,38 @@
+source: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hepatitis---prevalence-of-chronic-hepatitis-among-the-general-population
+
+Indicator name:
+Hepatitis - Prevalence of chronic hepatitis (HBV and HCV) among the general population
+Short name:
+Chronic hepatitis prevalence
+Topic:
+Hepatitis, burden of diseases
+Rationale:
+This indicator measures progress towards reduction of chronic HBV and HCV infections as part of the GHSS 2030 elimination targets.
+By analyzing the prevalence of chronic hepatitis B and C, programmes can understand the burden and plan testing, care and treatment accordingly.
+Definition:
+Percent of total population who are HBsAg positive
+Percent of the total population who are anti-HCV(+) or HCV RNA positive
+Disaggregation:
+By country and WHO region
+Method of measurement
+Extrapolate from recent biomarker surveys.. Estimates may be modelled from older biomarker surveys and/or contemporaneous surveys in various populations of interest. Modelling can be used alongside available programme data, such as routine surveillance testing data, taking note of the methodological limitations and representativeness of the population. Such models need to consider relevant input parameters such as number of people treated over time, vaccination coverage, HBV infection incidence and deaths (liver-related deaths and background deaths in the general population).
+Method of estimation:
+Modelling using the PRoGReSs (for HBV) and Markov (disease progression) model for HCV. Estimates of HBV and HCV prevalence are produced through a consultative and analytical process led by WHO
+Method of estimation of global and regional aggregates:
+Estimates are also produced at global level and for WHO regions
+Preferred data sources:
+National population-based surveys in high-burden epidemics, otherwise modelled estimates
+Unit of Measure:
+Percent
+Unit Multiplier:
+Chronic hepatitis prevalence
+Expected frequency of data dissemination:
+Every two years
+Expected frequency of data collection:
+Annual
+Contact person email:
+fainid@who.int
+Name:
+Diana Faini
+IMRID:
+3523 

@@ -1,0 +1,371 @@
+,alpha3,Dim1,Indicator,Location,Time period,Dim1 type,Value,country-code,sex_dichotomic,Value2,CI95_low,CI95_high
+0,AFG,Female,"Average daily intake in grams of alcohol, population (15+)",Afghanistan,2012,Sex,0.0 [0.0 - 0.0],4,0,0.0,0.0,0.0
+1,AFG,Male,"Average daily intake in grams of alcohol, population (15+)",Afghanistan,2012,Sex,0.0 [0.0 - 0.2],4,1,0.0,0.0,0.2
+2,AGO,Female,"Average daily intake in grams of alcohol, population (15+)",Angola,2012,Sex,8.4 [5.7 - 11.3],24,0,8.4,5.7,11.3
+3,AGO,Male,"Average daily intake in grams of alcohol, population (15+)",Angola,2012,Sex,29.6 [20.3 - 39.4],24,1,29.6,20.3,39.4
+4,ALB,Female,"Average daily intake in grams of alcohol, population (15+)",Albania,2012,Sex,4.4 [2.7 - 6.4],8,0,4.4,2.7,6.4
+5,ALB,Male,"Average daily intake in grams of alcohol, population (15+)",Albania,2012,Sex,19.0 [11.7 - 27.3],8,1,19.0,11.7,27.3
+6,AND,Female,"Average daily intake in grams of alcohol, population (15+)",Andorra,2012,Sex,10.3 [7.1 - 13.4],20,0,10.3,7.1,13.4
+7,AND,Male,"Average daily intake in grams of alcohol, population (15+)",Andorra,2012,Sex,34.4 [24.0 - 44.6],20,1,34.4,24.0,44.6
+8,ARE,Female,"Average daily intake in grams of alcohol, population (15+)",United Arab Emirates,2012,Sex,0.8 [0.3 - 1.5],784,0,0.8,0.3,1.5
+9,ARE,Male,"Average daily intake in grams of alcohol, population (15+)",United Arab Emirates,2012,Sex,5.7 [2.1 - 9.8],784,1,5.7,2.1,9.8
+10,ARG,Female,"Average daily intake in grams of alcohol, population (15+)",Argentina,2012,Sex,8.5 [5.8 - 11.3],32,0,8.5,5.8,11.3
+11,ARG,Male,"Average daily intake in grams of alcohol, population (15+)",Argentina,2012,Sex,28.5 [19.9 - 37.1],32,1,28.5,19.9,37.1
+12,ARM,Female,"Average daily intake in grams of alcohol, population (15+)",Armenia,2012,Sex,4.6 [2.7 - 6.7],51,0,4.6,2.7,6.7
+13,ARM,Male,"Average daily intake in grams of alcohol, population (15+)",Armenia,2012,Sex,18.3 [10.8 - 26.1],51,1,18.3,10.8,26.1
+14,ATG,Female,"Average daily intake in grams of alcohol, population (15+)",Antigua and Barbuda,2012,Sex,6.0 [2.9 - 9.3],28,0,6.0,2.9,9.3
+15,ATG,Male,"Average daily intake in grams of alcohol, population (15+)",Antigua and Barbuda,2012,Sex,23.2 [11.0 - 36.0],28,1,23.2,11.0,36.0
+16,AUS,Female,"Average daily intake in grams of alcohol, population (15+)",Australia,2012,Sex,10.9 [7.8 - 14.2],36,0,10.9,7.8,14.2
+17,AUS,Male,"Average daily intake in grams of alcohol, population (15+)",Australia,2012,Sex,36.0 [26.3 - 46.0],36,1,36.0,26.3,46.0
+18,AUT,Female,"Average daily intake in grams of alcohol, population (15+)",Austria,2012,Sex,12.2 [9.1 - 15.7],40,0,12.2,9.1,15.7
+19,AUT,Male,"Average daily intake in grams of alcohol, population (15+)",Austria,2012,Sex,42.3 [31.5 - 52.9],40,1,42.3,31.5,52.9
+20,AZE,Female,"Average daily intake in grams of alcohol, population (15+)",Azerbaijan,2012,Sex,0.9 [0.1 - 1.9],31,0,0.9,0.1,1.9
+21,AZE,Male,"Average daily intake in grams of alcohol, population (15+)",Azerbaijan,2012,Sex,5.9 [0.9 - 11.9],31,1,5.9,0.9,11.9
+22,BDI,Female,"Average daily intake in grams of alcohol, population (15+)",Burundi,2012,Sex,3.9 [2.2 - 5.7],108,0,3.9,2.2,5.7
+23,BDI,Male,"Average daily intake in grams of alcohol, population (15+)",Burundi,2012,Sex,16.6 [9.3 - 24.4],108,1,16.6,9.3,24.4
+24,BEL,Female,"Average daily intake in grams of alcohol, population (15+)",Belgium,2012,Sex,11.1 [8.0 - 14.5],56,0,11.1,8.0,14.5
+25,BEL,Male,"Average daily intake in grams of alcohol, population (15+)",Belgium,2012,Sex,38.8 [28.0 - 49.3],56,1,38.8,28.0,49.3
+26,BEN,Female,"Average daily intake in grams of alcohol, population (15+)",Benin,2012,Sex,7.6 [4.7 - 10.5],204,0,7.6,4.7,10.5
+27,BEN,Male,"Average daily intake in grams of alcohol, population (15+)",Benin,2012,Sex,31.1 [19.4 - 42.4],204,1,31.1,19.4,42.4
+28,BFA,Female,"Average daily intake in grams of alcohol, population (15+)",Burkina Faso,2012,Sex,5.9 [3.7 - 8.3],854,0,5.9,3.7,8.3
+29,BFA,Male,"Average daily intake in grams of alcohol, population (15+)",Burkina Faso,2012,Sex,30.1 [19.1 - 41.5],854,1,30.1,19.1,41.5
+30,BGD,Female,"Average daily intake in grams of alcohol, population (15+)",Bangladesh,2012,Sex,0.0 [0.0 - 0.0],50,0,0.0,0.0,0.0
+31,BGD,Male,"Average daily intake in grams of alcohol, population (15+)",Bangladesh,2012,Sex,0.0 [0.0 - 0.3],50,1,0.0,0.0,0.3
+32,BGR,Female,"Average daily intake in grams of alcohol, population (15+)",Bulgaria,2012,Sex,9.9 [7.1 - 12.9],100,0,9.9,7.1,12.9
+33,BGR,Male,"Average daily intake in grams of alcohol, population (15+)",Bulgaria,2012,Sex,39.2 [28.6 - 50.2],100,1,39.2,28.6,50.2
+34,BHR,Female,"Average daily intake in grams of alcohol, population (15+)",Bahrain,2012,Sex,1.0 [0.3 - 2.0],48,0,1.0,0.3,2.0
+35,BHR,Male,"Average daily intake in grams of alcohol, population (15+)",Bahrain,2012,Sex,6.6 [2.0 - 11.9],48,1,6.6,2.0,11.9
+36,BHS,Female,"Average daily intake in grams of alcohol, population (15+)",Bahamas,2012,Sex,4.0 [0.2 - 8.1],44,0,4.0,0.2,8.1
+37,BHS,Male,"Average daily intake in grams of alcohol, population (15+)",Bahamas,2012,Sex,15.5 [0.6 - 31.1],44,1,15.5,0.6,31.1
+38,BIH,Female,"Average daily intake in grams of alcohol, population (15+)",Bosnia and Herzegovina,2012,Sex,4.4 [2.6 - 6.5],70,0,4.4,2.6,6.5
+39,BIH,Male,"Average daily intake in grams of alcohol, population (15+)",Bosnia and Herzegovina,2012,Sex,21.4 [13.0 - 30.5],70,1,21.4,13.0,30.5
+40,BLR,Female,"Average daily intake in grams of alcohol, population (15+)",Belarus,2012,Sex,14.0 [10.6 - 17.6],112,0,14.0,10.6,17.6
+41,BLR,Male,"Average daily intake in grams of alcohol, population (15+)",Belarus,2012,Sex,51.1 [39.5 - 63.7],112,1,51.1,39.5,63.7
+42,BLZ,Female,"Average daily intake in grams of alcohol, population (15+)",Belize,2012,Sex,5.6 [3.3 - 8.2],84,0,5.6,3.3,8.2
+43,BLZ,Male,"Average daily intake in grams of alcohol, population (15+)",Belize,2012,Sex,21.1 [12.3 - 30.5],84,1,21.1,12.3,30.5
+44,BOL,Female,"Average daily intake in grams of alcohol, population (15+)",Bolivia (Plurinational State of),2012,Sex,4.5 [2.4 - 6.8],68,0,4.5,2.4,6.8
+45,BOL,Male,"Average daily intake in grams of alcohol, population (15+)",Bolivia (Plurinational State of),2012,Sex,14.8 [8.0 - 21.8],68,1,14.8,8.0,21.8
+46,BRA,Female,"Average daily intake in grams of alcohol, population (15+)",Brazil,2012,Sex,8.0 [5.5 - 11.0],76,0,8.0,5.5,11.0
+47,BRA,Male,"Average daily intake in grams of alcohol, population (15+)",Brazil,2012,Sex,29.7 [20.4 - 39.6],76,1,29.7,20.4,39.6
+48,BRB,Female,"Average daily intake in grams of alcohol, population (15+)",Barbados,2012,Sex,7.6 [4.9 - 10.5],52,0,7.6,4.9,10.5
+49,BRB,Male,"Average daily intake in grams of alcohol, population (15+)",Barbados,2012,Sex,30.5 [19.5 - 41.9],52,1,30.5,19.5,41.9
+50,BRN,Female,"Average daily intake in grams of alcohol, population (15+)",Brunei Darussalam,2012,Sex,0.4 [0.0 - 1.5],96,0,0.4,0.0,1.5
+51,BRN,Male,"Average daily intake in grams of alcohol, population (15+)",Brunei Darussalam,2012,Sex,1.8 [0.0 - 6.5],96,1,1.8,0.0,6.5
+52,BTN,Female,"Average daily intake in grams of alcohol, population (15+)",Bhutan,2012,Sex,0.6 [0.0 - 1.5],64,0,0.6,0.0,1.5
+53,BTN,Male,"Average daily intake in grams of alcohol, population (15+)",Bhutan,2012,Sex,3.1 [0.1 - 7.2],64,1,3.1,0.1,7.2
+54,BWA,Female,"Average daily intake in grams of alcohol, population (15+)",Botswana,2012,Sex,5.7 [3.8 - 7.9],72,0,5.7,3.8,7.9
+55,BWA,Male,"Average daily intake in grams of alcohol, population (15+)",Botswana,2012,Sex,27.9 [18.7 - 38.1],72,1,27.9,18.7,38.1
+56,CAF,Female,"Average daily intake in grams of alcohol, population (15+)",Central African Republic,2012,Sex,2.0 [0.8 - 3.4],140,0,2.0,0.8,3.4
+57,CAF,Male,"Average daily intake in grams of alcohol, population (15+)",Central African Republic,2012,Sex,8.0 [3.2 - 13.5],140,1,8.0,3.2,13.5
+58,CAN,Female,"Average daily intake in grams of alcohol, population (15+)",Canada,2012,Sex,9.6 [6.6 - 12.9],124,0,9.6,6.6,12.9
+59,CAN,Male,"Average daily intake in grams of alcohol, population (15+)",Canada,2012,Sex,34.6 [23.6 - 45.4],124,1,34.6,23.6,45.4
+60,CHE,Female,"Average daily intake in grams of alcohol, population (15+)",Switzerland,2012,Sex,11.1 [7.9 - 14.5],756,0,11.1,7.9,14.5
+61,CHE,Male,"Average daily intake in grams of alcohol, population (15+)",Switzerland,2012,Sex,37.7 [27.2 - 48.4],756,1,37.7,27.2,48.4
+62,CHL,Female,"Average daily intake in grams of alcohol, population (15+)",Chile,2012,Sex,7.9 [5.4 - 10.6],152,0,7.9,5.4,10.6
+63,CHL,Male,"Average daily intake in grams of alcohol, population (15+)",Chile,2012,Sex,26.6 [18.5 - 35.7],152,1,26.6,18.5,35.7
+64,CHN,Female,"Average daily intake in grams of alcohol, population (15+)",China,2012,Sex,6.2 [3.9 - 8.5],156,0,6.2,3.9,8.5
+65,CHN,Male,"Average daily intake in grams of alcohol, population (15+)",China,2012,Sex,23.7 [15.2 - 32.3],156,1,23.7,15.2,32.3
+66,CIV,Female,"Average daily intake in grams of alcohol, population (15+)",Cote d'Ivoire,2012,Sex,1.6 [0.6 - 2.7],384,0,1.6,0.6,2.7
+67,CIV,Male,"Average daily intake in grams of alcohol, population (15+)",Cote d'Ivoire,2012,Sex,7.7 [2.9 - 13.4],384,1,7.7,2.9,13.4
+68,CMR,Female,"Average daily intake in grams of alcohol, population (15+)",Cameroon,2012,Sex,11.8 [8.0 - 15.9],120,0,11.8,8.0,15.9
+69,CMR,Male,"Average daily intake in grams of alcohol, population (15+)",Cameroon,2012,Sex,45.0 [30.6 - 59.5],120,1,45.0,30.6,59.5
+70,COD,Female,"Average daily intake in grams of alcohol, population (15+)",Democratic Republic of the Congo,2012,Sex,2.3 [0.8 - 3.9],180,0,2.3,0.8,3.9
+71,COD,Male,"Average daily intake in grams of alcohol, population (15+)",Democratic Republic of the Congo,2012,Sex,8.9 [3.3 - 15.3],180,1,8.9,3.3,15.3
+72,COG,Female,"Average daily intake in grams of alcohol, population (15+)",Congo,2012,Sex,4.7 [2.8 - 6.9],178,0,4.7,2.8,6.9
+73,COG,Male,"Average daily intake in grams of alcohol, population (15+)",Congo,2012,Sex,17.5 [10.5 - 24.9],178,1,17.5,10.5,24.9
+74,COK,Female,"Average daily intake in grams of alcohol, population (15+)",Cook Islands,2012,Sex,8.1 [5.0 - 11.4],184,0,8.1,5.0,11.4
+75,COK,Male,"Average daily intake in grams of alcohol, population (15+)",Cook Islands,2012,Sex,35.8 [22.0 - 50.1],184,1,35.8,22.0,50.1
+76,COL,Female,"Average daily intake in grams of alcohol, population (15+)",Colombia,2012,Sex,4.3 [2.5 - 6.3],170,0,4.3,2.5,6.3
+77,COL,Male,"Average daily intake in grams of alcohol, population (15+)",Colombia,2012,Sex,18.1 [10.5 - 26.0],170,1,18.1,10.5,26.0
+78,COM,Female,"Average daily intake in grams of alcohol, population (15+)",Comoros,2012,Sex,0.1 [0.0 - 0.4],174,0,0.1,0.0,0.4
+79,COM,Male,"Average daily intake in grams of alcohol, population (15+)",Comoros,2012,Sex,0.8 [0.0 - 2.8],174,1,0.8,0.0,2.8
+80,CPV,Female,"Average daily intake in grams of alcohol, population (15+)",Cabo Verde,2012,Sex,5.1 [3.1 - 7.3],132,0,5.1,3.1,7.3
+81,CPV,Male,"Average daily intake in grams of alcohol, population (15+)",Cabo Verde,2012,Sex,19.3 [11.6 - 27.6],132,1,19.3,11.6,27.6
+82,CRI,Female,"Average daily intake in grams of alcohol, population (15+)",Costa Rica,2012,Sex,2.8 [1.4 - 4.3],188,0,2.8,1.4,4.3
+83,CRI,Male,"Average daily intake in grams of alcohol, population (15+)",Costa Rica,2012,Sex,12.1 [6.2 - 18.3],188,1,12.1,6.2,18.3
+84,CUB,Female,"Average daily intake in grams of alcohol, population (15+)",Cuba,2012,Sex,4.8 [2.8 - 6.8],192,0,4.8,2.8,6.8
+85,CUB,Male,"Average daily intake in grams of alcohol, population (15+)",Cuba,2012,Sex,19.6 [11.7 - 27.9],192,1,19.6,11.7,27.9
+86,CYP,Female,"Average daily intake in grams of alcohol, population (15+)",Cyprus,2012,Sex,8.0 [5.3 - 10.8],196,0,8.0,5.3,10.8
+87,CYP,Male,"Average daily intake in grams of alcohol, population (15+)",Cyprus,2012,Sex,29.1 [19.4 - 38.8],196,1,29.1,19.4,38.8
+88,CZE,Female,"Average daily intake in grams of alcohol, population (15+)",Czechia,2012,Sex,12.5 [9.4 - 16.1],203,0,12.5,9.4,16.1
+89,CZE,Male,"Average daily intake in grams of alcohol, population (15+)",Czechia,2012,Sex,45.1 [33.9 - 56.4],203,1,45.1,33.9,56.4
+90,DEU,Female,"Average daily intake in grams of alcohol, population (15+)",Germany,2012,Sex,12.1 [8.7 - 15.6],276,0,12.1,8.7,15.6
+91,DEU,Male,"Average daily intake in grams of alcohol, population (15+)",Germany,2012,Sex,42.5 [30.9 - 54.1],276,1,42.5,30.9,54.1
+92,DJI,Female,"Average daily intake in grams of alcohol, population (15+)",Djibouti,2012,Sex,0.3 [0.0 - 0.8],262,0,0.3,0.0,0.8
+93,DJI,Male,"Average daily intake in grams of alcohol, population (15+)",Djibouti,2012,Sex,2.5 [0.1 - 5.8],262,1,2.5,0.1,5.8
+94,DMA,Female,"Average daily intake in grams of alcohol, population (15+)",Dominica,2012,Sex,5.5 [3.2 - 7.9],212,0,5.5,3.2,7.9
+95,DMA,Male,"Average daily intake in grams of alcohol, population (15+)",Dominica,2012,Sex,22.0 [12.9 - 31.5],212,1,22.0,12.9,31.5
+96,DNK,Female,"Average daily intake in grams of alcohol, population (15+)",Denmark,2012,Sex,9.7 [6.8 - 12.8],208,0,9.7,6.8,12.8
+97,DNK,Male,"Average daily intake in grams of alcohol, population (15+)",Denmark,2012,Sex,33.3 [23.4 - 43.6],208,1,33.3,23.4,43.6
+98,DOM,Female,"Average daily intake in grams of alcohol, population (15+)",Dominican Republic,2012,Sex,6.1 [3.7 - 8.6],214,0,6.1,3.7,8.6
+99,DOM,Male,"Average daily intake in grams of alcohol, population (15+)",Dominican Republic,2012,Sex,23.1 [14.2 - 32.3],214,1,23.1,14.2,32.3
+100,DZA,Female,"Average daily intake in grams of alcohol, population (15+)",Algeria,2012,Sex,0.3 [0.0 - 0.6],12,0,0.3,0.0,0.6
+101,DZA,Male,"Average daily intake in grams of alcohol, population (15+)",Algeria,2012,Sex,1.8 [0.0 - 4.2],12,1,1.8,0.0,4.2
+102,ECU,Female,"Average daily intake in grams of alcohol, population (15+)",Ecuador,2012,Sex,4.2 [2.4 - 6.2],218,0,4.2,2.4,6.2
+103,ECU,Male,"Average daily intake in grams of alcohol, population (15+)",Ecuador,2012,Sex,14.1 [8.2 - 20.3],218,1,14.1,8.2,20.3
+104,EGY,Female,"Average daily intake in grams of alcohol, population (15+)",Egypt,2012,Sex,0.1 [0.0 - 0.3],818,0,0.1,0.0,0.3
+105,EGY,Male,"Average daily intake in grams of alcohol, population (15+)",Egypt,2012,Sex,0.7 [0.0 - 2.5],818,1,0.7,0.0,2.5
+106,ERI,Female,"Average daily intake in grams of alcohol, population (15+)",Eritrea,2012,Sex,0.9 [0.2 - 1.7],232,0,0.9,0.2,1.7
+107,ERI,Male,"Average daily intake in grams of alcohol, population (15+)",Eritrea,2012,Sex,5.3 [1.2 - 10.0],232,1,5.3,1.2,10.0
+108,ESP,Female,"Average daily intake in grams of alcohol, population (15+)",Spain,2012,Sex,8.6 [5.9 - 11.5],724,0,8.6,5.9,11.5
+109,ESP,Male,"Average daily intake in grams of alcohol, population (15+)",Spain,2012,Sex,30.4 [21.3 - 40.2],724,1,30.4,21.3,40.2
+110,EST,Female,"Average daily intake in grams of alcohol, population (15+)",Estonia,2012,Sex,15.5 [11.1 - 19.9],233,0,15.5,11.1,19.9
+111,EST,Male,"Average daily intake in grams of alcohol, population (15+)",Estonia,2012,Sex,55.0 [39.6 - 70.3],233,1,55.0,39.6,70.3
+112,ETH,Female,"Average daily intake in grams of alcohol, population (15+)",Ethiopia,2012,Sex,1.3 [0.4 - 2.4],231,0,1.3,0.4,2.4
+113,ETH,Male,"Average daily intake in grams of alcohol, population (15+)",Ethiopia,2012,Sex,7.2 [2.3 - 13.0],231,1,7.2,2.3,13.0
+114,FIN,Female,"Average daily intake in grams of alcohol, population (15+)",Finland,2012,Sex,10.1 [7.2 - 13.2],246,0,10.1,7.2,13.2
+115,FIN,Male,"Average daily intake in grams of alcohol, population (15+)",Finland,2012,Sex,35.1 [25.3 - 45.3],246,1,35.1,25.3,45.3
+116,FJI,Female,"Average daily intake in grams of alcohol, population (15+)",Fiji,2012,Sex,2.1 [0.9 - 3.5],242,0,2.1,0.9,3.5
+117,FJI,Male,"Average daily intake in grams of alcohol, population (15+)",Fiji,2012,Sex,10.6 [4.4 - 17.6],242,1,10.6,4.4,17.6
+118,FRA,Female,"Average daily intake in grams of alcohol, population (15+)",France,2012,Sex,11.8 [8.5 - 15.3],250,0,11.8,8.5,15.3
+119,FRA,Male,"Average daily intake in grams of alcohol, population (15+)",France,2012,Sex,41.4 [29.9 - 53.2],250,1,41.4,29.9,53.2
+120,FSM,Female,"Average daily intake in grams of alcohol, population (15+)",Micronesia (Federated States of),2012,Sex,2.1 [0.9 - 3.4],583,0,2.1,0.9,3.4
+121,FSM,Male,"Average daily intake in grams of alcohol, population (15+)",Micronesia (Federated States of),2012,Sex,9.9 [4.1 - 16.1],583,1,9.9,4.1,16.1
+122,GAB,Female,"Average daily intake in grams of alcohol, population (15+)",Gabon,2012,Sex,7.5 [5.1 - 10.1],266,0,7.5,5.1,10.1
+123,GAB,Male,"Average daily intake in grams of alcohol, population (15+)",Gabon,2012,Sex,28.5 [19.7 - 37.3],266,1,28.5,19.7,37.3
+124,GBR,Female,"Average daily intake in grams of alcohol, population (15+)",United Kingdom of Great Britain and Northern Ireland,2012,Sex,10.5 [7.6 - 13.6],826,0,10.5,7.6,13.6
+125,GBR,Male,"Average daily intake in grams of alcohol, population (15+)",United Kingdom of Great Britain and Northern Ireland,2012,Sex,36.1 [26.3 - 46.3],826,1,36.1,26.3,46.3
+126,GEO,Female,"Average daily intake in grams of alcohol, population (15+)",Georgia,2012,Sex,13.2 [9.2 - 17.4],268,0,13.2,9.2,17.4
+127,GEO,Male,"Average daily intake in grams of alcohol, population (15+)",Georgia,2012,Sex,53.7 [37.5 - 70.3],268,1,53.7,37.5,70.3
+128,GHA,Female,"Average daily intake in grams of alcohol, population (15+)",Ghana,2012,Sex,4.3 [1.9 - 6.8],288,0,4.3,1.9,6.8
+129,GHA,Male,"Average daily intake in grams of alcohol, population (15+)",Ghana,2012,Sex,17.8 [7.9 - 27.7],288,1,17.8,7.9,27.7
+130,GIN,Female,"Average daily intake in grams of alcohol, population (15+)",Guinea,2012,Sex,0.2 [0.0 - 0.6],324,0,0.2,0.0,0.6
+131,GIN,Male,"Average daily intake in grams of alcohol, population (15+)",Guinea,2012,Sex,1.4 [0.0 - 3.8],324,1,1.4,0.0,3.8
+132,GMB,Female,"Average daily intake in grams of alcohol, population (15+)",Gambia,2012,Sex,2.1 [0.9 - 3.4],270,0,2.1,0.9,3.4
+133,GMB,Male,"Average daily intake in grams of alcohol, population (15+)",Gambia,2012,Sex,10.6 [4.6 - 17.3],270,1,10.6,4.6,17.3
+134,GNB,Female,"Average daily intake in grams of alcohol, population (15+)",Guinea-Bissau,2012,Sex,2.9 [1.6 - 4.5],624,0,2.9,1.6,4.5
+135,GNB,Male,"Average daily intake in grams of alcohol, population (15+)",Guinea-Bissau,2012,Sex,14.6 [8.0 - 22.0],624,1,14.6,8.0,22.0
+136,GNQ,Female,"Average daily intake in grams of alcohol, population (15+)",Equatorial Guinea,2012,Sex,9.2 [6.5 - 12.4],226,0,9.2,6.5,12.4
+137,GNQ,Male,"Average daily intake in grams of alcohol, population (15+)",Equatorial Guinea,2012,Sex,32.5 [23.3 - 42.0],226,1,32.5,23.3,42.0
+138,GRC,Female,"Average daily intake in grams of alcohol, population (15+)",Greece,2012,Sex,7.9 [5.3 - 10.6],300,0,7.9,5.3,10.6
+139,GRC,Male,"Average daily intake in grams of alcohol, population (15+)",Greece,2012,Sex,28.3 [19.1 - 37.9],300,1,28.3,19.1,37.9
+140,GRD,Female,"Average daily intake in grams of alcohol, population (15+)",Grenada,2012,Sex,6.6 [4.2 - 9.3],308,0,6.6,4.2,9.3
+141,GRD,Male,"Average daily intake in grams of alcohol, population (15+)",Grenada,2012,Sex,25.8 [16.0 - 35.9],308,1,25.8,16.0,35.9
+142,GTM,Female,"Average daily intake in grams of alcohol, population (15+)",Guatemala,2012,Sex,1.6 [0.6 - 2.8],320,0,1.6,0.6,2.8
+143,GTM,Male,"Average daily intake in grams of alcohol, population (15+)",Guatemala,2012,Sex,6.9 [2.6 - 11.3],320,1,6.9,2.6,11.3
+144,GUY,Female,"Average daily intake in grams of alcohol, population (15+)",Guyana,2012,Sex,5.2 [3.4 - 7.3],328,0,5.2,3.4,7.3
+145,GUY,Male,"Average daily intake in grams of alcohol, population (15+)",Guyana,2012,Sex,20.6 [13.6 - 28.3],328,1,20.6,13.6,28.3
+146,HND,Female,"Average daily intake in grams of alcohol, population (15+)",Honduras,2012,Sex,2.6 [1.3 - 4.1],340,0,2.6,1.3,4.1
+147,HND,Male,"Average daily intake in grams of alcohol, population (15+)",Honduras,2012,Sex,10.8 [5.4 - 16.8],340,1,10.8,5.4,16.8
+148,HRV,Female,"Average daily intake in grams of alcohol, population (15+)",Croatia,2012,Sex,8.8 [5.1 - 12.8],191,0,8.8,5.1,12.8
+149,HRV,Male,"Average daily intake in grams of alcohol, population (15+)",Croatia,2012,Sex,32.7 [19.2 - 46.5],191,1,32.7,19.2,46.5
+150,HTI,Female,"Average daily intake in grams of alcohol, population (15+)",Haiti,2012,Sex,2.6 [1.2 - 4.1],332,0,2.6,1.2,4.1
+151,HTI,Male,"Average daily intake in grams of alcohol, population (15+)",Haiti,2012,Sex,10.3 [4.9 - 16.1],332,1,10.3,4.9,16.1
+152,HUN,Female,"Average daily intake in grams of alcohol, population (15+)",Hungary,2012,Sex,10.3 [7.0 - 13.9],348,0,10.3,7.0,13.9
+153,HUN,Male,"Average daily intake in grams of alcohol, population (15+)",Hungary,2012,Sex,37.9 [25.8 - 50.5],348,1,37.9,25.8,50.5
+154,IDN,Female,"Average daily intake in grams of alcohol, population (15+)",Indonesia,2012,Sex,0.1 [0.0 - 0.2],360,0,0.1,0.0,0.2
+155,IDN,Male,"Average daily intake in grams of alcohol, population (15+)",Indonesia,2012,Sex,0.4 [0.0 - 1.7],360,1,0.4,0.0,1.7
+156,IND,Female,"Average daily intake in grams of alcohol, population (15+)",India,2012,Sex,3.5 [1.8 - 5.3],356,0,3.5,1.8,5.3
+157,IND,Male,"Average daily intake in grams of alcohol, population (15+)",India,2012,Sex,17.9 [9.1 - 26.6],356,1,17.9,9.1,26.6
+158,IRL,Female,"Average daily intake in grams of alcohol, population (15+)",Ireland,2012,Sex,12.2 [8.9 - 15.7],372,0,12.2,8.9,15.7
+159,IRL,Male,"Average daily intake in grams of alcohol, population (15+)",Ireland,2012,Sex,40.1 [30.0 - 50.6],372,1,40.1,30.0,50.6
+160,IRN,Female,"Average daily intake in grams of alcohol, population (15+)",Iran (Islamic Republic of),2012,Sex,0.7 [0.1 - 1.5],364,0,0.7,0.1,1.5
+161,IRN,Male,"Average daily intake in grams of alcohol, population (15+)",Iran (Islamic Republic of),2012,Sex,5.4 [0.6 - 11.3],364,1,5.4,0.6,11.3
+162,IRQ,Female,"Average daily intake in grams of alcohol, population (15+)",Iraq,2012,Sex,0.1 [0.0 - 0.4],368,0,0.1,0.0,0.4
+163,IRQ,Male,"Average daily intake in grams of alcohol, population (15+)",Iraq,2012,Sex,0.9 [0.0 - 3.0],368,1,0.9,0.0,3.0
+164,ISL,Female,"Average daily intake in grams of alcohol, population (15+)",Iceland,2012,Sex,7.3 [4.9 - 10.0],352,0,7.3,4.9,10.0
+165,ISL,Male,"Average daily intake in grams of alcohol, population (15+)",Iceland,2012,Sex,24.5 [16.4 - 33.3],352,1,24.5,16.4,33.3
+166,ISR,Female,"Average daily intake in grams of alcohol, population (15+)",Israel,2012,Sex,3.0 [1.5 - 4.6],376,0,3.0,1.5,4.6
+167,ISR,Male,"Average daily intake in grams of alcohol, population (15+)",Israel,2012,Sex,11.2 [5.6 - 17.2],376,1,11.2,5.6,17.2
+168,ITA,Female,"Average daily intake in grams of alcohol, population (15+)",Italy,2012,Sex,7.4 [5.0 - 10.1],380,0,7.4,5.0,10.1
+169,ITA,Male,"Average daily intake in grams of alcohol, population (15+)",Italy,2012,Sex,26.8 [18.2 - 36.1],380,1,26.8,18.2,36.1
+170,JAM,Female,"Average daily intake in grams of alcohol, population (15+)",Jamaica,2012,Sex,2.8 [1.2 - 4.4],388,0,2.8,1.2,4.4
+171,JAM,Male,"Average daily intake in grams of alcohol, population (15+)",Jamaica,2012,Sex,11.2 [4.8 - 17.7],388,1,11.2,4.8,17.7
+172,JOR,Female,"Average daily intake in grams of alcohol, population (15+)",Jordan,2012,Sex,0.2 [0.0 - 0.6],400,0,0.2,0.0,0.6
+173,JOR,Male,"Average daily intake in grams of alcohol, population (15+)",Jordan,2012,Sex,1.5 [0.0 - 4.1],400,1,1.5,0.0,4.1
+174,JPN,Female,"Average daily intake in grams of alcohol, population (15+)",Japan,2012,Sex,6.4 [4.3 - 8.9],392,0,6.4,4.3,8.9
+175,JPN,Male,"Average daily intake in grams of alcohol, population (15+)",Japan,2012,Sex,23.7 [15.9 - 32.0],392,1,23.7,15.9,32.0
+176,KAZ,Female,"Average daily intake in grams of alcohol, population (15+)",Kazakhstan,2012,Sex,3.0 [1.7 - 4.5],398,0,3.0,1.7,4.5
+177,KAZ,Male,"Average daily intake in grams of alcohol, population (15+)",Kazakhstan,2012,Sex,16.7 [9.6 - 24.4],398,1,16.7,9.6,24.4
+178,KEN,Female,"Average daily intake in grams of alcohol, population (15+)",Kenya,2012,Sex,2.1 [0.9 - 3.4],404,0,2.1,0.9,3.4
+179,KEN,Male,"Average daily intake in grams of alcohol, population (15+)",Kenya,2012,Sex,10.0 [4.5 - 16.0],404,1,10.0,4.5,16.0
+180,KGZ,Female,"Average daily intake in grams of alcohol, population (15+)",Kyrgyzstan,2012,Sex,4.4 [2.8 - 6.3],417,0,4.4,2.8,6.3
+181,KGZ,Male,"Average daily intake in grams of alcohol, population (15+)",Kyrgyzstan,2012,Sex,24.8 [16.0 - 34.1],417,1,24.8,16.0,34.1
+182,KHM,Female,"Average daily intake in grams of alcohol, population (15+)",Cambodia,2012,Sex,5.0 [2.5 - 7.5],116,0,5.0,2.5,7.5
+183,KHM,Male,"Average daily intake in grams of alcohol, population (15+)",Cambodia,2012,Sex,20.4 [10.4 - 30.1],116,1,20.4,10.4,30.1
+184,KIR,Female,"Average daily intake in grams of alcohol, population (15+)",Kiribati,2012,Sex,0.4 [0.0 - 1.4],296,0,0.4,0.0,1.4
+185,KIR,Male,"Average daily intake in grams of alcohol, population (15+)",Kiribati,2012,Sex,2.2 [0.0 - 6.9],296,1,2.2,0.0,6.9
+186,KNA,Female,"Average daily intake in grams of alcohol, population (15+)",Saint Kitts and Nevis,2012,Sex,5.5 [2.4 - 8.9],659,0,5.5,2.4,8.9
+187,KNA,Male,"Average daily intake in grams of alcohol, population (15+)",Saint Kitts and Nevis,2012,Sex,21.3 [9.2 - 34.2],659,1,21.3,9.2,34.2
+188,KOR,Female,"Average daily intake in grams of alcohol, population (15+)",Republic of Korea,2012,Sex,9.1 [6.4 - 12.1],410,0,9.1,6.4,12.1
+189,KOR,Male,"Average daily intake in grams of alcohol, population (15+)",Republic of Korea,2012,Sex,31.6 [22.4 - 41.1],410,1,31.6,22.4,41.1
+190,LAO,Female,"Average daily intake in grams of alcohol, population (15+)",Lao People's Democratic Republic,2012,Sex,9.8 [6.5 - 13.3],418,0,9.8,6.5,13.3
+191,LAO,Male,"Average daily intake in grams of alcohol, population (15+)",Lao People's Democratic Republic,2012,Sex,36.7 [24.5 - 49.6],418,1,36.7,24.5,49.6
+192,LBN,Female,"Average daily intake in grams of alcohol, population (15+)",Lebanon,2012,Sex,0.9 [0.3 - 1.7],422,0,0.9,0.3,1.7
+193,LBN,Male,"Average daily intake in grams of alcohol, population (15+)",Lebanon,2012,Sex,6.2 [2.1 - 11.0],422,1,6.2,2.1,11.0
+194,LBR,Female,"Average daily intake in grams of alcohol, population (15+)",Liberia,2012,Sex,3.2 [1.6 - 4.9],430,0,3.2,1.6,4.9
+195,LBR,Male,"Average daily intake in grams of alcohol, population (15+)",Liberia,2012,Sex,13.2 [6.7 - 20.1],430,1,13.2,6.7,20.1
+196,LBY,Female,"Average daily intake in grams of alcohol, population (15+)",Libya,2012,Sex,0.0 [0.0 - 0.1],434,0,0.0,0.0,0.1
+197,LBY,Male,"Average daily intake in grams of alcohol, population (15+)",Libya,2012,Sex,0.0 [0.0 - 0.5],434,1,0.0,0.0,0.5
+198,LCA,Female,"Average daily intake in grams of alcohol, population (15+)",Saint Lucia,2012,Sex,8.0 [5.2 - 11.1],662,0,8.0,5.2,11.1
+199,LCA,Male,"Average daily intake in grams of alcohol, population (15+)",Saint Lucia,2012,Sex,30.5 [19.8 - 41.6],662,1,30.5,19.8,41.6
+200,LKA,Female,"Average daily intake in grams of alcohol, population (15+)",Sri Lanka,2012,Sex,2.4 [1.2 - 3.8],144,0,2.4,1.2,3.8
+201,LKA,Male,"Average daily intake in grams of alcohol, population (15+)",Sri Lanka,2012,Sex,11.1 [5.6 - 17.4],144,1,11.1,5.6,17.4
+202,LSO,Female,"Average daily intake in grams of alcohol, population (15+)",Lesotho,2012,Sex,2.0 [0.9 - 3.3],426,0,2.0,0.9,3.3
+203,LSO,Male,"Average daily intake in grams of alcohol, population (15+)",Lesotho,2012,Sex,11.2 [5.1 - 17.7],426,1,11.2,5.1,17.7
+204,LTU,Female,"Average daily intake in grams of alcohol, population (15+)",Lithuania,2012,Sex,15.8 [11.9 - 19.9],440,0,15.8,11.9,19.9
+205,LTU,Male,"Average daily intake in grams of alcohol, population (15+)",Lithuania,2012,Sex,55.5 [42.5 - 68.4],440,1,55.5,42.5,68.4
+206,LUX,Female,"Average daily intake in grams of alcohol, population (15+)",Luxembourg,2012,Sex,12.2 [8.4 - 16.9],442,0,12.2,8.4,16.9
+207,LUX,Male,"Average daily intake in grams of alcohol, population (15+)",Luxembourg,2012,Sex,39.9 [29.4 - 50.7],442,1,39.9,29.4,50.7
+208,LVA,Female,"Average daily intake in grams of alcohol, population (15+)",Latvia,2012,Sex,11.3 [7.5 - 15.1],428,0,11.3,7.5,15.1
+209,LVA,Male,"Average daily intake in grams of alcohol, population (15+)",Latvia,2012,Sex,40.4 [27.4 - 54.2],428,1,40.4,27.4,54.2
+210,MAR,Female,"Average daily intake in grams of alcohol, population (15+)",Morocco,2012,Sex,0.2 [0.0 - 0.7],504,0,0.2,0.0,0.7
+211,MAR,Male,"Average daily intake in grams of alcohol, population (15+)",Morocco,2012,Sex,1.8 [0.0 - 4.7],504,1,1.8,0.0,4.7
+212,MDA,Female,"Average daily intake in grams of alcohol, population (15+)",Republic of Moldova,2012,Sex,12.3 [8.4 - 16.4],498,0,12.3,8.4,16.4
+213,MDA,Male,"Average daily intake in grams of alcohol, population (15+)",Republic of Moldova,2012,Sex,43.7 [29.8 - 57.9],498,1,43.7,29.8,57.9
+214,MDG,Female,"Average daily intake in grams of alcohol, population (15+)",Madagascar,2012,Sex,0.7 [0.1 - 1.5],450,0,0.7,0.1,1.5
+215,MDG,Male,"Average daily intake in grams of alcohol, population (15+)",Madagascar,2012,Sex,3.4 [0.5 - 7.0],450,1,3.4,0.5,7.0
+216,MDV,Female,"Average daily intake in grams of alcohol, population (15+)",Maldives,2012,Sex,0.7 [0.0 - 1.4],462,0,0.7,0.0,1.4
+217,MDV,Male,"Average daily intake in grams of alcohol, population (15+)",Maldives,2012,Sex,5.1 [0.4 - 10.4],462,1,5.1,0.4,10.4
+218,MEX,Female,"Average daily intake in grams of alcohol, population (15+)",Mexico,2012,Sex,4.3 [2.3 - 6.5],484,0,4.3,2.3,6.5
+219,MEX,Male,"Average daily intake in grams of alcohol, population (15+)",Mexico,2012,Sex,17.6 [9.2 - 26.3],484,1,17.6,9.2,26.3
+220,MKD,Female,"Average daily intake in grams of alcohol, population (15+)",North Macedonia,2012,Sex,3.4 [1.7 - 5.2],807,0,3.4,1.7,5.2
+221,MKD,Male,"Average daily intake in grams of alcohol, population (15+)",North Macedonia,2012,Sex,15.6 [8.1 - 23.6],807,1,15.6,8.1,23.6
+222,MLI,Female,"Average daily intake in grams of alcohol, population (15+)",Mali,2012,Sex,2.7 [1.5 - 4.1],466,0,2.7,1.5,4.1
+223,MLI,Male,"Average daily intake in grams of alcohol, population (15+)",Mali,2012,Sex,16.5 [9.3 - 24.6],466,1,16.5,9.3,24.6
+224,MLT,Female,"Average daily intake in grams of alcohol, population (15+)",Malta,2012,Sex,6.9 [4.3 - 9.7],470,0,6.9,4.3,9.7
+225,MLT,Male,"Average daily intake in grams of alcohol, population (15+)",Malta,2012,Sex,24.2 [14.9 - 33.6],470,1,24.2,14.9,33.6
+226,MMR,Female,"Average daily intake in grams of alcohol, population (15+)",Myanmar,2012,Sex,1.1 [0.3 - 1.9],104,0,1.1,0.3,1.9
+227,MMR,Male,"Average daily intake in grams of alcohol, population (15+)",Myanmar,2012,Sex,4.9 [1.5 - 8.7],104,1,4.9,1.5,8.7
+228,MNE,Female,"Average daily intake in grams of alcohol, population (15+)",Montenegro,2012,Sex,9.1 [6.4 - 12.0],499,0,9.1,6.4,12.0
+229,MNE,Male,"Average daily intake in grams of alcohol, population (15+)",Montenegro,2012,Sex,35.6 [25.8 - 46.0],499,1,35.6,25.8,46.0
+230,MNG,Female,"Average daily intake in grams of alcohol, population (15+)",Mongolia,2012,Sex,9.0 [6.4 - 11.8],496,0,9.0,6.4,11.8
+231,MNG,Male,"Average daily intake in grams of alcohol, population (15+)",Mongolia,2012,Sex,33.1 [23.8 - 42.8],496,1,33.1,23.8,42.8
+232,MOZ,Female,"Average daily intake in grams of alcohol, population (15+)",Mozambique,2012,Sex,1.0 [0.3 - 1.9],508,0,1.0,0.3,1.9
+233,MOZ,Male,"Average daily intake in grams of alcohol, population (15+)",Mozambique,2012,Sex,5.3 [1.4 - 9.9],508,1,5.3,1.4,9.9
+234,MUS,Female,"Average daily intake in grams of alcohol, population (15+)",Mauritius,2012,Sex,6.0 [3.9 - 8.3],480,0,6.0,3.9,8.3
+235,MUS,Male,"Average daily intake in grams of alcohol, population (15+)",Mauritius,2012,Sex,27.2 [17.4 - 37.0],480,1,27.2,17.4,37.0
+236,MWI,Female,"Average daily intake in grams of alcohol, population (15+)",Malawi,2012,Sex,2.9 [1.3 - 4.6],454,0,2.9,1.3,4.6
+237,MWI,Male,"Average daily intake in grams of alcohol, population (15+)",Malawi,2012,Sex,13.8 [6.2 - 21.5],454,1,13.8,6.2,21.5
+238,MYS,Female,"Average daily intake in grams of alcohol, population (15+)",Malaysia,2012,Sex,0.4 [0.0 - 0.9],458,0,0.4,0.0,0.9
+239,MYS,Male,"Average daily intake in grams of alcohol, population (15+)",Malaysia,2012,Sex,2.3 [0.0 - 5.7],458,1,2.3,0.0,5.7
+240,NAM,Female,"Average daily intake in grams of alcohol, population (15+)",Namibia,2012,Sex,3.9 [2.3 - 5.7],516,0,3.9,2.3,5.7
+241,NAM,Male,"Average daily intake in grams of alcohol, population (15+)",Namibia,2012,Sex,20.0 [12.1 - 28.6],516,1,20.0,12.1,28.6
+242,NER,Female,"Average daily intake in grams of alcohol, population (15+)",Niger,2012,Sex,0.1 [0.0 - 0.4],562,0,0.1,0.0,0.4
+243,NER,Male,"Average daily intake in grams of alcohol, population (15+)",Niger,2012,Sex,0.7 [0.0 - 2.3],562,1,0.7,0.0,2.3
+244,NGA,Female,"Average daily intake in grams of alcohol, population (15+)",Nigeria,2012,Sex,3.0 [1.6 - 4.7],566,0,3.0,1.6,4.7
+245,NGA,Male,"Average daily intake in grams of alcohol, population (15+)",Nigeria,2012,Sex,15.5 [8.3 - 23.6],566,1,15.5,8.3,23.6
+246,NIC,Female,"Average daily intake in grams of alcohol, population (15+)",Nicaragua,2012,Sex,3.4 [1.9 - 5.1],558,0,3.4,1.9,5.1
+247,NIC,Male,"Average daily intake in grams of alcohol, population (15+)",Nicaragua,2012,Sex,13.9 [8.0 - 20.8],558,1,13.9,8.0,20.8
+248,NIU,Female,"Average daily intake in grams of alcohol, population (15+)",Niue,2012,Sex,6.5 [4.4 - 8.7],570,0,6.5,4.4,8.7
+249,NIU,Male,"Average daily intake in grams of alcohol, population (15+)",Niue,2012,Sex,31.3 [21.0 - 41.1],570,1,31.3,21.0,41.1
+250,NLD,Female,"Average daily intake in grams of alcohol, population (15+)",Netherlands (Kingdom of the),2012,Sex,9.8 [7.0 - 13.0],528,0,9.8,7.0,13.0
+251,NLD,Male,"Average daily intake in grams of alcohol, population (15+)",Netherlands (Kingdom of the),2012,Sex,34.0 [24.5 - 43.8],528,1,34.0,24.5,43.8
+252,NOR,Female,"Average daily intake in grams of alcohol, population (15+)",Norway,2012,Sex,7.0 [4.5 - 9.7],578,0,7.0,4.5,9.7
+253,NOR,Male,"Average daily intake in grams of alcohol, population (15+)",Norway,2012,Sex,23.8 [15.5 - 32.6],578,1,23.8,15.5,32.6
+254,NPL,Female,"Average daily intake in grams of alcohol, population (15+)",Nepal,2012,Sex,0.9 [0.2 - 1.9],524,0,0.9,0.2,1.9
+255,NPL,Male,"Average daily intake in grams of alcohol, population (15+)",Nepal,2012,Sex,4.7 [0.9 - 9.3],524,1,4.7,0.9,9.3
+256,NRU,Female,"Average daily intake in grams of alcohol, population (15+)",Nauru,2012,Sex,3.1 [1.7 - 4.7],520,0,3.1,1.7,4.7
+257,NRU,Male,"Average daily intake in grams of alcohol, population (15+)",Nauru,2012,Sex,14.2 [7.6 - 20.9],520,1,14.2,7.6,20.9
+258,NZL,Female,"Average daily intake in grams of alcohol, population (15+)",New Zealand,2012,Sex,10.4 [7.3 - 13.8],554,0,10.4,7.3,13.8
+259,NZL,Male,"Average daily intake in grams of alcohol, population (15+)",New Zealand,2012,Sex,34.2 [24.5 - 44.4],554,1,34.2,24.5,44.4
+260,OMN,Female,"Average daily intake in grams of alcohol, population (15+)",Oman,2012,Sex,0.4 [0.0 - 0.9],512,0,0.4,0.0,0.9
+261,OMN,Male,"Average daily intake in grams of alcohol, population (15+)",Oman,2012,Sex,2.5 [0.2 - 5.7],512,1,2.5,0.2,5.7
+262,PAK,Female,"Average daily intake in grams of alcohol, population (15+)",Pakistan,2012,Sex,0.0 [0.0 - 0.2],586,0,0.0,0.0,0.2
+263,PAK,Male,"Average daily intake in grams of alcohol, population (15+)",Pakistan,2012,Sex,0.3 [0.0 - 1.5],586,1,0.3,0.0,1.5
+264,PAN,Female,"Average daily intake in grams of alcohol, population (15+)",Panama,2012,Sex,5.7 [3.7 - 7.9],591,0,5.7,3.7,7.9
+265,PAN,Male,"Average daily intake in grams of alcohol, population (15+)",Panama,2012,Sex,23.0 [15.2 - 31.5],591,1,23.0,15.2,31.5
+266,PER,Female,"Average daily intake in grams of alcohol, population (15+)",Peru,2012,Sex,8.2 [5.2 - 11.5],604,0,8.2,5.2,11.5
+267,PER,Male,"Average daily intake in grams of alcohol, population (15+)",Peru,2012,Sex,27.1 [17.7 - 37.3],604,1,27.1,17.7,37.3
+268,PHL,Female,"Average daily intake in grams of alcohol, population (15+)",Philippines,2012,Sex,5.2 [3.3 - 7.4],608,0,5.2,3.3,7.4
+269,PHL,Male,"Average daily intake in grams of alcohol, population (15+)",Philippines,2012,Sex,21.5 [13.2 - 30.3],608,1,21.5,13.2,30.3
+270,PNG,Female,"Average daily intake in grams of alcohol, population (15+)",Papua New Guinea,2012,Sex,1.0 [0.2 - 1.9],598,0,1.0,0.2,1.9
+271,PNG,Male,"Average daily intake in grams of alcohol, population (15+)",Papua New Guinea,2012,Sex,4.8 [1.2 - 9.0],598,1,4.8,1.2,9.0
+272,POL,Female,"Average daily intake in grams of alcohol, population (15+)",Poland,2012,Sex,11.1 [7.7 - 14.7],616,0,11.1,7.7,14.7
+273,POL,Male,"Average daily intake in grams of alcohol, population (15+)",Poland,2012,Sex,39.9 [28.1 - 51.6],616,1,39.9,28.1,51.6
+274,PRK,Female,"Average daily intake in grams of alcohol, population (15+)",Democratic People's Republic of Korea,2012,Sex,4.0 [2.2 - 5.9],408,0,4.0,2.2,5.9
+275,PRK,Male,"Average daily intake in grams of alcohol, population (15+)",Democratic People's Republic of Korea,2012,Sex,16.1 [9.0 - 23.7],408,1,16.1,9.0,23.7
+276,PRT,Female,"Average daily intake in grams of alcohol, population (15+)",Portugal,2012,Sex,10.3 [7.1 - 13.5],620,0,10.3,7.1,13.5
+277,PRT,Male,"Average daily intake in grams of alcohol, population (15+)",Portugal,2012,Sex,36.1 [25.1 - 46.8],620,1,36.1,25.1,46.8
+278,PRY,Female,"Average daily intake in grams of alcohol, population (15+)",Paraguay,2012,Sex,5.6 [3.5 - 8.1],600,0,5.6,3.5,8.1
+279,PRY,Male,"Average daily intake in grams of alcohol, population (15+)",Paraguay,2012,Sex,20.7 [12.9 - 29.0],600,1,20.7,12.9,29.0
+280,QAT,Female,"Average daily intake in grams of alcohol, population (15+)",Qatar,2012,Sex,0.6 [0.1 - 1.6],634,0,0.6,0.1,1.6
+281,QAT,Male,"Average daily intake in grams of alcohol, population (15+)",Qatar,2012,Sex,3.0 [0.6 - 5.6],634,1,3.0,0.6,5.6
+282,ROU,Female,"Average daily intake in grams of alcohol, population (15+)",Romania,2012,Sex,16.5 [11.7 - 21.5],642,0,16.5,11.7,21.5
+283,ROU,Male,"Average daily intake in grams of alcohol, population (15+)",Romania,2012,Sex,59.9 [43.5 - 76.3],642,1,59.9,43.5,76.3
+284,RUS,Female,"Average daily intake in grams of alcohol, population (15+)",Russian Federation,2012,Sex,11.9 [8.6 - 15.2],643,0,11.9,8.6,15.2
+285,RUS,Male,"Average daily intake in grams of alcohol, population (15+)",Russian Federation,2012,Sex,49.5 [35.9 - 62.9],643,1,49.5,35.9,62.9
+286,RWA,Female,"Average daily intake in grams of alcohol, population (15+)",Rwanda,2012,Sex,1.0 [0.2 - 2.0],646,0,1.0,0.2,2.0
+287,RWA,Male,"Average daily intake in grams of alcohol, population (15+)",Rwanda,2012,Sex,4.6 [0.9 - 9.2],646,1,4.6,0.9,9.2
+288,SDN,Female,"Average daily intake in grams of alcohol, population (15+)",Sudan,2012,Sex,0.0 [0.0 - 0.1],729,0,0.0,0.0,0.1
+289,SDN,Male,"Average daily intake in grams of alcohol, population (15+)",Sudan,2012,Sex,0.2 [0.0 - 0.8],729,1,0.2,0.0,0.8
+290,SEN,Female,"Average daily intake in grams of alcohol, population (15+)",Senegal,2012,Sex,0.2 [0.0 - 0.7],686,0,0.2,0.0,0.7
+291,SEN,Male,"Average daily intake in grams of alcohol, population (15+)",Senegal,2012,Sex,1.5 [0.0 - 4.1],686,1,1.5,0.0,4.1
+292,SGP,Female,"Average daily intake in grams of alcohol, population (15+)",Singapore,2012,Sex,1.8 [0.6 - 3.3],702,0,1.8,0.6,3.3
+293,SGP,Male,"Average daily intake in grams of alcohol, population (15+)",Singapore,2012,Sex,6.6 [2.4 - 11.2],702,1,6.6,2.4,11.2
+294,SLB,Female,"Average daily intake in grams of alcohol, population (15+)",Solomon Islands,2012,Sex,0.7 [0.1 - 1.4],90,0,0.7,0.1,1.4
+295,SLB,Male,"Average daily intake in grams of alcohol, population (15+)",Solomon Islands,2012,Sex,3.4 [0.5 - 7.0],90,1,3.4,0.5,7.0
+296,SLE,Female,"Average daily intake in grams of alcohol, population (15+)",Sierra Leone,2012,Sex,0.2 [0.0 - 0.6],694,0,0.2,0.0,0.6
+297,SLE,Male,"Average daily intake in grams of alcohol, population (15+)",Sierra Leone,2012,Sex,1.6 [0.0 - 4.1],694,1,1.6,0.0,4.1
+298,SLV,Female,"Average daily intake in grams of alcohol, population (15+)",El Salvador,2012,Sex,2.4 [1.0 - 3.8],222,0,2.4,1.0,3.8
+299,SLV,Male,"Average daily intake in grams of alcohol, population (15+)",El Salvador,2012,Sex,9.9 [4.5 - 15.9],222,1,9.9,4.5,15.9
+300,SRB,Female,"Average daily intake in grams of alcohol, population (15+)",Serbia,2012,Sex,8.6 [5.9 - 11.7],688,0,8.6,5.9,11.7
+301,SRB,Male,"Average daily intake in grams of alcohol, population (15+)",Serbia,2012,Sex,32.7 [22.9 - 43.1],688,1,32.7,22.9,43.1
+302,STP,Female,"Average daily intake in grams of alcohol, population (15+)",Sao Tome and Principe,2012,Sex,6.5 [4.2 - 9.0],678,0,6.5,4.2,9.0
+303,STP,Male,"Average daily intake in grams of alcohol, population (15+)",Sao Tome and Principe,2012,Sex,23.6 [15.3 - 32.4],678,1,23.6,15.3,32.4
+304,SUR,Female,"Average daily intake in grams of alcohol, population (15+)",Suriname,2012,Sex,5.1 [3.3 - 7.1],740,0,5.1,3.3,7.1
+305,SUR,Male,"Average daily intake in grams of alcohol, population (15+)",Suriname,2012,Sex,21.7 [14.1 - 29.8],740,1,21.7,14.1,29.8
+306,SVK,Female,"Average daily intake in grams of alcohol, population (15+)",Slovakia,2012,Sex,10.0 [6.8 - 13.4],703,0,10.0,6.8,13.4
+307,SVK,Male,"Average daily intake in grams of alcohol, population (15+)",Slovakia,2012,Sex,35.7 [24.7 - 46.7],703,1,35.7,24.7,46.7
+308,SVN,Female,"Average daily intake in grams of alcohol, population (15+)",Slovenia,2012,Sex,10.3 [7.5 - 13.7],705,0,10.3,7.5,13.7
+309,SVN,Male,"Average daily intake in grams of alcohol, population (15+)",Slovenia,2012,Sex,38.0 [28.1 - 48.8],705,1,38.0,28.1,48.8
+310,SWE,Female,"Average daily intake in grams of alcohol, population (15+)",Sweden,2012,Sex,9.5 [6.2 - 12.6],752,0,9.5,6.2,12.6
+311,SWE,Male,"Average daily intake in grams of alcohol, population (15+)",Sweden,2012,Sex,32.7 [21.6 - 43.4],752,1,32.7,21.6,43.4
+312,SWZ,Female,"Average daily intake in grams of alcohol, population (15+)",Eswatini,2012,Sex,5.8 [3.7 - 8.0],748,0,5.8,3.7,8.0
+313,SWZ,Male,"Average daily intake in grams of alcohol, population (15+)",Eswatini,2012,Sex,28.1 [18.4 - 37.9],748,1,28.1,18.4,37.9
+314,SYC,Female,"Average daily intake in grams of alcohol, population (15+)",Seychelles,2012,Sex,8.3 [5.4 - 11.5],690,0,8.3,5.4,11.5
+315,SYC,Male,"Average daily intake in grams of alcohol, population (15+)",Seychelles,2012,Sex,32.6 [21.5 - 44.4],690,1,32.6,21.5,44.4
+316,SYR,Female,"Average daily intake in grams of alcohol, population (15+)",Syrian Arab Republic,2012,Sex,0.2 [0.0 - 0.6],760,0,0.2,0.0,0.6
+317,SYR,Male,"Average daily intake in grams of alcohol, population (15+)",Syrian Arab Republic,2012,Sex,1.8 [0.0 - 4.7],760,1,1.8,0.0,4.7
+318,TCD,Female,"Average daily intake in grams of alcohol, population (15+)",Chad,2012,Sex,3.0 [1.1 - 4.9],148,0,3.0,1.1,4.9
+319,TCD,Male,"Average daily intake in grams of alcohol, population (15+)",Chad,2012,Sex,15.6 [5.7 - 25.5],148,1,15.6,5.7,25.5
+320,TGO,Female,"Average daily intake in grams of alcohol, population (15+)",Togo,2012,Sex,1.4 [0.4 - 2.5],768,0,1.4,0.4,2.5
+321,TGO,Male,"Average daily intake in grams of alcohol, population (15+)",Togo,2012,Sex,6.1 [1.9 - 10.9],768,1,6.1,1.9,10.9
+322,THA,Female,"Average daily intake in grams of alcohol, population (15+)",Thailand,2012,Sex,6.9 [4.6 - 9.3],764,0,6.9,4.6,9.3
+323,THA,Male,"Average daily intake in grams of alcohol, population (15+)",Thailand,2012,Sex,28.9 [19.4 - 38.9],764,1,28.9,19.4,38.9
+324,TJK,Female,"Average daily intake in grams of alcohol, population (15+)",Tajikistan,2012,Sex,0.5 [0.0 - 0.9],762,0,0.5,0.0,0.9
+325,TJK,Male,"Average daily intake in grams of alcohol, population (15+)",Tajikistan,2012,Sex,2.9 [0.3 - 5.9],762,1,2.9,0.3,5.9
+326,TKM,Female,"Average daily intake in grams of alcohol, population (15+)",Turkmenistan,2012,Sex,2.0 [1.0 - 3.1],795,0,2.0,1.0,3.1
+327,TKM,Male,"Average daily intake in grams of alcohol, population (15+)",Turkmenistan,2012,Sex,11.7 [6.2 - 17.7],795,1,11.7,6.2,17.7
+328,TLS,Female,"Average daily intake in grams of alcohol, population (15+)",Timor-Leste,2012,Sex,0.5 [0.0 - 1.1],626,0,0.5,0.0,1.1
+329,TLS,Male,"Average daily intake in grams of alcohol, population (15+)",Timor-Leste,2012,Sex,2.1 [0.2 - 4.9],626,1,2.1,0.2,4.9
+330,TON,Female,"Average daily intake in grams of alcohol, population (15+)",Tonga,2012,Sex,0.3 [0.0 - 0.9],776,0,0.3,0.0,0.9
+331,TON,Male,"Average daily intake in grams of alcohol, population (15+)",Tonga,2012,Sex,1.6 [0.0 - 4.4],776,1,1.6,0.0,4.4
+332,TTO,Female,"Average daily intake in grams of alcohol, population (15+)",Trinidad and Tobago,2012,Sex,5.5 [3.5 - 7.7],780,0,5.5,3.5,7.7
+333,TTO,Male,"Average daily intake in grams of alcohol, population (15+)",Trinidad and Tobago,2012,Sex,21.8 [13.9 - 30.0],780,1,21.8,13.9,30.0
+334,TUN,Female,"Average daily intake in grams of alcohol, population (15+)",Tunisia,2012,Sex,0.9 [0.2 - 1.8],788,0,0.9,0.2,1.8
+335,TUN,Male,"Average daily intake in grams of alcohol, population (15+)",Tunisia,2012,Sex,6.6 [1.3 - 12.6],788,1,6.6,1.3,12.6
+336,TUR,Female,"Average daily intake in grams of alcohol, population (15+)",Türkiye,2012,Sex,1.1 [0.3 - 2.0],792,0,1.1,0.3,2.0
+337,TUR,Male,"Average daily intake in grams of alcohol, population (15+)",Türkiye,2012,Sex,8.0 [2.5 - 14.2],792,1,8.0,2.5,14.2
+338,TUV,Female,"Average daily intake in grams of alcohol, population (15+)",Tuvalu,2012,Sex,1.5 [0.5 - 2.5],798,0,1.5,0.5,2.5
+339,TUV,Male,"Average daily intake in grams of alcohol, population (15+)",Tuvalu,2012,Sex,7.5 [2.8 - 12.9],798,1,7.5,2.8,12.9
+340,TZA,Female,"Average daily intake in grams of alcohol, population (15+)",United Republic of Tanzania,2012,Sex,8.6 [5.7 - 11.7],834,0,8.6,5.7,11.7
+341,TZA,Male,"Average daily intake in grams of alcohol, population (15+)",United Republic of Tanzania,2012,Sex,42.8 [28.8 - 57.4],834,1,42.8,28.8,57.4
+342,UGA,Female,"Average daily intake in grams of alcohol, population (15+)",Uganda,2012,Sex,12.0 [8.1 - 15.9],800,0,12.0,8.1,15.9
+343,UGA,Male,"Average daily intake in grams of alcohol, population (15+)",Uganda,2012,Sex,48.4 [33.3 - 63.0],800,1,48.4,33.3,63.0
+344,UKR,Female,"Average daily intake in grams of alcohol, population (15+)",Ukraine,2012,Sex,11.5 [8.1 - 15.2],804,0,11.5,8.1,15.2
+345,UKR,Male,"Average daily intake in grams of alcohol, population (15+)",Ukraine,2012,Sex,42.6 [30.3 - 55.1],804,1,42.6,30.3,55.1
+346,URY,Female,"Average daily intake in grams of alcohol, population (15+)",Uruguay,2012,Sex,5.7 [3.6 - 8.1],858,0,5.7,3.6,8.1
+347,URY,Male,"Average daily intake in grams of alcohol, population (15+)",Uruguay,2012,Sex,19.9 [12.7 - 28.0],858,1,19.9,12.7,28.0
+348,USA,Female,"Average daily intake in grams of alcohol, population (15+)",United States of America,2012,Sex,9.2 [6.4 - 12.2],840,0,9.2,6.4,12.2
+349,USA,Male,"Average daily intake in grams of alcohol, population (15+)",United States of America,2012,Sex,32.4 [22.9 - 42.1],840,1,32.4,22.9,42.1
+350,UZB,Female,"Average daily intake in grams of alcohol, population (15+)",Uzbekistan,2012,Sex,1.2 [0.4 - 1.9],860,0,1.2,0.4,1.9
+351,UZB,Male,"Average daily intake in grams of alcohol, population (15+)",Uzbekistan,2012,Sex,7.2 [2.9 - 12.0],860,1,7.2,2.9,12.0
+352,VCT,Female,"Average daily intake in grams of alcohol, population (15+)",Saint Vincent and the Grenadines,2012,Sex,5.6 [3.5 - 7.9],670,0,5.6,3.5,7.9
+353,VCT,Male,"Average daily intake in grams of alcohol, population (15+)",Saint Vincent and the Grenadines,2012,Sex,22.3 [14.2 - 30.8],670,1,22.3,14.2,30.8
+354,VEN,Female,"Average daily intake in grams of alcohol, population (15+)",Venezuela (Bolivarian Republic of),2012,Sex,6.4 [4.1 - 8.7],862,0,6.4,4.1,8.7
+355,VEN,Male,"Average daily intake in grams of alcohol, population (15+)",Venezuela (Bolivarian Republic of),2012,Sex,25.5 [16.7 - 34.2],862,1,25.5,16.7,34.2
+356,VNM,Female,"Average daily intake in grams of alcohol, population (15+)",Viet Nam,2012,Sex,7.1 [3.9 - 10.4],704,0,7.1,3.9,10.4
+357,VNM,Male,"Average daily intake in grams of alcohol, population (15+)",Viet Nam,2012,Sex,28.7 [15.7 - 41.3],704,1,28.7,15.7,41.3
+358,VUT,Female,"Average daily intake in grams of alcohol, population (15+)",Vanuatu,2012,Sex,1.5 [0.2 - 2.9],548,0,1.5,0.2,2.9
+359,VUT,Male,"Average daily intake in grams of alcohol, population (15+)",Vanuatu,2012,Sex,7.2 [1.1 - 13.9],548,1,7.2,1.1,13.9
+360,WSM,Female,"Average daily intake in grams of alcohol, population (15+)",Samoa,2012,Sex,1.6 [0.4 - 2.7],882,0,1.6,0.4,2.7
+361,WSM,Male,"Average daily intake in grams of alcohol, population (15+)",Samoa,2012,Sex,7.7 [2.1 - 13.5],882,1,7.7,2.1,13.5
+362,YEM,Female,"Average daily intake in grams of alcohol, population (15+)",Yemen,2012,Sex,0.0 [0.0 - 0.2],887,0,0.0,0.0,0.2
+363,YEM,Male,"Average daily intake in grams of alcohol, population (15+)",Yemen,2012,Sex,0.2 [0.0 - 1.2],887,1,0.2,0.0,1.2
+364,ZAF,Female,"Average daily intake in grams of alcohol, population (15+)",South Africa,2012,Sex,6.7 [4.6 - 9.1],710,0,6.7,4.6,9.1
+365,ZAF,Male,"Average daily intake in grams of alcohol, population (15+)",South Africa,2012,Sex,33.5 [23.2 - 44.0],710,1,33.5,23.2,44.0
+366,ZMB,Female,"Average daily intake in grams of alcohol, population (15+)",Zambia,2012,Sex,2.8 [1.4 - 4.4],894,0,2.8,1.4,4.4
+367,ZMB,Male,"Average daily intake in grams of alcohol, population (15+)",Zambia,2012,Sex,12.1 [6.1 - 18.4],894,1,12.1,6.1,18.4
+368,ZWE,Female,"Average daily intake in grams of alcohol, population (15+)",Zimbabwe,2012,Sex,3.0 [1.6 - 4.6],716,0,3.0,1.6,4.6
+369,ZWE,Male,"Average daily intake in grams of alcohol, population (15+)",Zimbabwe,2012,Sex,15.6 [8.3 - 23.5],716,1,15.6,8.3,23.5
