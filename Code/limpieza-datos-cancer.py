@@ -87,6 +87,8 @@ def insert_alpha3(df):
 
 # Merging and cleaning the files for incidence data.
 df = merge_files(incidence_folder)
+# Changing sex variable from male = 1, female = 2 to male = 1, female = 0
+df['Sex'] = df['Sex'].replace(2, 0)
 df = insert_alpha3(df)
 df.to_csv(
     os.path.join(clean_data_folder, "cancer-incidence-clean.csv"))

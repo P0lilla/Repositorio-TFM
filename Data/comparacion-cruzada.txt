@@ -1,280 +1,148 @@
-Los archivos comparten 92 países.
+Los archivos comparten 151 países.
 
 Air-pollution-clean.csv: 195 países. Faltan 12 países.
-- BMU: Bermuda
-- PYF: French Polynesia
-- MTQ: Martinique
-- NCL: New Caledonia
-- GUF: French Guiana
 - GLP: Guadeloupe
-- GUM: Guam
 - GRL: Greenland
-- REU: Réunion
+- MTQ: Martinique
+- BMU: Bermuda
 - PRI: Puerto Rico
+- GUM: Guam
 - TKL: Tokelau
+- GUF: French Guiana
+- NCL: New Caledonia
+- REU: Réunion
+- PYF: French Polynesia
 - ASM: American Samoa
 
 Alcohol-clean.csv: 185 países. Faltan 22 países.
-- SOM: Somalia
-- MTQ: Martinique
-- GUM: Guam
-- MCO: Monaco
-- TKL: Tokelau
-- PYF: French Polynesia
-- PSE: Palestine, State of
-- GUF: French Guiana
-- GLP: Guadeloupe
-- KWT: Kuwait
 - BMU: Bermuda
-- SSD: South Sudan
-- NCL: New Caledonia
-- REU: Réunion
-- PRI: Puerto Rico
+- MCO: Monaco
+- GUF: French Guiana
+- PSE: Palestine, State of
+- SOM: Somalia
 - ASM: American Samoa
-- SAU: Saudi Arabia
+- KWT: Kuwait
 - MRT: Mauritania
-- SMR: San Marino
+- PRI: Puerto Rico
+- NCL: New Caledonia
+- GLP: Guadeloupe
 - GRL: Greenland
+- MTQ: Martinique
+- SAU: Saudi Arabia
+- TKL: Tokelau
+- SMR: San Marino
+- GUM: Guam
 - MHL: Marshall Islands
 - PLW: Palau
+- REU: Réunion
+- PYF: French Polynesia
+- SSD: South Sudan
 
 cancer-incidence-clean.csv: 184 países. Faltan 23 países.
-- TON: Tonga
-- NIU: Niue
-- MCO: Monaco
-- COK: Cook Islands
-- TKL: Tokelau
+- CHN: China
+- BMU: Bermuda
 - GRD: Grenada
-- NRU: Nauru
-- FSM: Micronesia, Federated States of
-- AND: Andorra
-- VCT: Saint Vincent and the Grenadines
-- SYC: Seychelles
-- BMU: Bermuda
-- KIR: Kiribati
-- KNA: Saint Kitts and Nevis
-- CHN: China
-- ASM: American Samoa
-- TUV: Tuvalu
-- SMR: San Marino
-- GRL: Greenland
-- ATG: Antigua and Barbuda
-- DMA: Dominica
-- MHL: Marshall Islands
-- PLW: Palau
-
-Hepatitis B-clean.csv: 167 países. Faltan 40 países.
-- HUN: Hungary
-- MMR: Myanmar
-- MTQ: Martinique
-- LVA: Latvia
-- GUM: Guam
-- ESP: Spain
-- TKL: Tokelau
-- CAN: Canada
-- PYF: French Polynesia
-- CYP: Cyprus
-- PSE: Palestine, State of
-- GUF: French Guiana
-- AUT: Austria
-- SWE: Sweden
-- GLP: Guadeloupe
-- NZL: New Zealand
-- LTU: Lithuania
-- IND: India
-- AZE: Azerbaijan
-- LUX: Luxembourg
-- FIN: Finland
-- GBR: United Kingdom of Great Britain and Northern Ireland
-- EST: Estonia
-- BMU: Bermuda
-- BGR: Bulgaria
-- NCL: New Caledonia
-- BEL: Belgium
-- REU: Réunion
-- CHN: China
-- MLT: Malta
-- PRI: Puerto Rico
-- ASM: American Samoa
-- CZE: Czechia
-- BGD: Bangladesh
-- HRV: Croatia
-- USA: United States of America
-- SVK: Slovakia
-- GRL: Greenland
-- SVN: Slovenia
-- PRK: Korea, Democratic People's Republic of
-
-Hepatitis C-clean.csv: 187 países. Faltan 20 países.
-- MMR: Myanmar
-- MTQ: Martinique
-- GUM: Guam
-- TKL: Tokelau
-- PYF: French Polynesia
-- PSE: Palestine, State of
-- GUF: French Guiana
-- GLP: Guadeloupe
-- IND: India
-- AZE: Azerbaijan
-- BMU: Bermuda
-- NCL: New Caledonia
-- REU: Réunion
-- CHN: China
-- PRI: Puerto Rico
-- ASM: American Samoa
-- BGD: Bangladesh
-- USA: United States of America
-- GRL: Greenland
-- PRK: Korea, Democratic People's Republic of
-
-Human Papilomavirus-clean.csv: 141 países. Faltan 66 países.
-- SOM: Somalia
-- LBN: Lebanon
-- GNB: Guinea-Bissau
-- EGY: Egypt
-- BHR: Bahrain
-- AFG: Afghanistan
-- COG: Congo
-- PNG: Papua New Guinea
-- MDG: Madagascar
-- MTQ: Martinique
-- JOR: Jordan
-- COD: Congo, Democratic Republic of the
-- AGO: Angola
-- COM: Comoros
-- BDI: Burundi
-- GRC: Greece
-- GUM: Guam
-- OMN: Oman
 - MCO: Monaco
-- NER: Niger
-- TKL: Tokelau
-- NPL: Nepal
-- CAF: Central African Republic
-- PYF: French Polynesia
-- IRQ: Iraq
-- PSE: Palestine, State of
-- GUF: French Guiana
-- SYR: Syrian Arab Republic
-- GLP: Guadeloupe
-- KWT: Kuwait
-- NIC: Nicaragua
-- UKR: Ukraine
-- VNM: Viet Nam
-- BLR: Belarus
-- AZE: Azerbaijan
-- IND: India
-- TUN: Tunisia
-- PAK: Pakistan
-- BMU: Bermuda
-- HTI: Haiti
-- SSD: South Sudan
-- NCL: New Caledonia
-- NAM: Namibia
-- GNQ: Equatorial Guinea
-- DJI: Djibouti
-- REU: Réunion
-- CHN: China
-- PRI: Puerto Rico
-- IRN: Iran, Islamic Republic of
-- CUB: Cuba
+- DMA: Dominica
+- ATG: Antigua and Barbuda
+- NRU: Nauru
 - ASM: American Samoa
-- GAB: Gabon
-- KAZ: Kazakhstan
-- TJK: Tajikistan
-- GHA: Ghana
-- GIN: Guinea
-- RUS: Russian Federation
-- DZA: Algeria
-- YEM: Yemen
-- VEN: Venezuela, Bolivarian Republic of
-- TUR: Türkiye
-- BEN: Benin
+- KNA: Saint Kitts and Nevis
+- TON: Tonga
+- VCT: Saint Vincent and the Grenadines
+- COK: Cook Islands
+- NIU: Niue
+- FSM: Micronesia, Federated States of
 - GRL: Greenland
-- TCD: Chad
-- SDN: Sudan
-- PRK: Korea, Democratic People's Republic of
+- AND: Andorra
+- TKL: Tokelau
+- SMR: San Marino
+- KIR: Kiribati
+- MHL: Marshall Islands
+- TUV: Tuvalu
+- PLW: Palau
+- SYC: Seychelles
 
 IPA-clean.csv: 195 países. Faltan 12 países.
-- BMU: Bermuda
-- PYF: French Polynesia
-- MTQ: Martinique
-- NCL: New Caledonia
-- GUF: French Guiana
 - GLP: Guadeloupe
-- GUM: Guam
 - GRL: Greenland
-- REU: Réunion
-- MCO: Monaco
+- MTQ: Martinique
+- BMU: Bermuda
+- GUM: Guam
 - TKL: Tokelau
+- MCO: Monaco
+- GUF: French Guiana
+- NCL: New Caledonia
+- REU: Réunion
+- PYF: French Polynesia
 - ASM: American Samoa
 
 Obesity-clean.csv: 199 países. Faltan 8 países.
+- GLP: Guadeloupe
 - MTQ: Martinique
+- GUM: Guam
+- MCO: Monaco
 - SMR: San Marino
 - NCL: New Caledonia
 - GUF: French Guiana
-- GLP: Guadeloupe
-- GUM: Guam
 - REU: Réunion
-- MCO: Monaco
 
 Smoking-clean.csv: 167 países. Faltan 40 países.
-- SOM: Somalia
-- MTQ: Martinique
-- AGO: Angola
-- GUM: Guam
-- NIU: Niue
-- MCO: Monaco
-- TKL: Tokelau
-- GRD: Grenada
-- CAF: Central African Republic
-- PYF: French Polynesia
-- FSM: Micronesia, Federated States of
-- TTO: Trinidad and Tobago
-- DOM: Dominican Republic
-- GUF: French Guiana
-- SYR: Syrian Arab Republic
-- GLP: Guadeloupe
-- VCT: Saint Vincent and the Grenadines
-- NIC: Nicaragua
 - BMU: Bermuda
-- SSD: South Sudan
-- NCL: New Caledonia
-- NAM: Namibia
-- GNQ: Equatorial Guinea
-- DJI: Djibouti
-- KNA: Saint Kitts and Nevis
-- SUR: Suriname
-- REU: Réunion
-- PRI: Puerto Rico
-- ASM: American Samoa
-- ERI: Eritrea
 - TJK: Tajikistan
-- GIN: Guinea
-- YEM: Yemen
-- VEN: Venezuela, Bolivarian Republic of
-- SMR: San Marino
-- BRB: Barbados
-- GRL: Greenland
-- ATG: Antigua and Barbuda
+- AGO: Angola
+- GRD: Grenada
+- MCO: Monaco
+- GUF: French Guiana
 - DMA: Dominica
 - SDN: Sudan
+- ERI: Eritrea
+- VEN: Venezuela, Bolivarian Republic of
+- ATG: Antigua and Barbuda
+- SOM: Somalia
+- ASM: American Samoa
+- KNA: Saint Kitts and Nevis
+- PRI: Puerto Rico
+- YEM: Yemen
+- SUR: Suriname
+- NCL: New Caledonia
+- VCT: Saint Vincent and the Grenadines
+- NAM: Namibia
+- DJI: Djibouti
+- NIU: Niue
+- GLP: Guadeloupe
+- FSM: Micronesia, Federated States of
+- TTO: Trinidad and Tobago
+- GRL: Greenland
+- BRB: Barbados
+- MTQ: Martinique
+- DOM: Dominican Republic
+- TKL: Tokelau
+- SMR: San Marino
+- GNQ: Equatorial Guinea
+- CAF: Central African Republic
+- SYR: Syrian Arab Republic
+- GIN: Guinea
+- GUM: Guam
+- REU: Réunion
+- PYF: French Polynesia
+- SSD: South Sudan
+- NIC: Nicaragua
 
 UVR-clean.csv: 191 países. Faltan 16 países.
-- BMU: Bermuda
-- PYF: French Polynesia
+- GLP: Guadeloupe
+- GRL: Greenland
 - MTQ: Martinique
-- SSD: South Sudan
-- PSE: Palestine, State of
+- BMU: Bermuda
+- PRI: Puerto Rico
+- GUM: Guam
+- TKL: Tokelau
+- SRB: Serbia
 - GUF: French Guiana
 - NCL: New Caledonia
-- GLP: Guadeloupe
-- GUM: Guam
-- GRL: Greenland
 - REU: Réunion
-- SRB: Serbia
-- MNE: Montenegro
-- PRI: Puerto Rico
-- TKL: Tokelau
+- PSE: Palestine, State of
+- PYF: French Polynesia
+- SSD: South Sudan
 - ASM: American Samoa
+- MNE: Montenegro
