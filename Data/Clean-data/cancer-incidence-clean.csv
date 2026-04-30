@@ -1,4 +1,4 @@
-,Cancer code,ICD Code,country-code,Label,Sex,Number,95% UI low,95% UI high,Number.1,ASR (World),Crude rate,Cumulative risk,alpha3
+,Cancer code,ICD Code,country-code,Label,sex_dichotomic,Number,95% UI low,95% UI high,Number.1,ASR (World),Crude rate,Cumulative risk,alpha3
 0,39,C00-97,4,All cancers,0,13036,12733,13347,13036,110.7,65.7,11.4,AFG
 1,1,C00-06,4,"Lip, oral cavity",0,320,136,751,320,3.0,1.6,0.34,AFG
 2,2,C07-08,4,Salivary glands,0,26,12,55,26,0.22,0.13,0.02,AFG

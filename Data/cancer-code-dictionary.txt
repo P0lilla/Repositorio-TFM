@@ -1,0 +1,47 @@
+https://gco.iarc.who.int/today/en/data-sources-methods
+
+Cancer dictionary
+
+List of the cancer sites available in the GLOBOCAN database and their corresponding International Classification of Disease (ICD, 10th revision, version 2010) codes.
+ICD-10 Code	Cancer site name	Short name
+C00-97	All cancers 	All cancers
+C00-97/C44	All cancers excl. non-melanoma skin cancer 	All cancers excl. NMSC
+C00-06	Lip, oral cavity 	Lip, oral cavity
+C07-08	Salivary glands 	Salivary glands
+C09-10	Oropharynx 	Oropharynx
+C11	Nasopharynx 	Nasopharynx
+C12-13	Hypopharynx 	Hypopharynx
+C15	Oesophagus 	Oesophagus
+C16	Stomach 	Stomach
+C18	Colon 	Colon
+C18-C21	Colorectum 	Colorectum
+C19-20	Rectum 	Rectum
+C21	Anus 	Anus
+C22	Liver and intrahepatic bile ducts 	Liver
+C23	Gallbladder 	Gallbladder
+C25	Pancreas 	Pancreas
+C32	Larynx 	Larynx
+C33-34	Trachea, bronchus and lung 	Lung
+C43	Melanoma of skin 	Melanoma
+C44	Non-melanoma skin cancer 	NMSC
+C45	Mesothelioma 	Mesothelioma
+C46	Kaposi sarcoma 	Kaposi sarcoma
+C50	Breast 	Breast
+C51	Vulva 	Vulva
+C52	Vagina 	Vagina
+C53	Cervix uteri 	Cervix uteri
+C54	Corpus uteri 	Corpus uteri
+C56	Ovary 	Ovary
+C60	Penis 	Penis
+C61	Prostate 	Prostate
+C62	Testis 	Testis
+C64	Kidney 	Kidney
+C67	Bladder 	Bladder
+C70-72	Brain, central nervous system 	Brain CNS
+C73	Thyroid 	Thyroid
+C81	Hodgkin lymphoma 	Hodgkin lymphoma
+C82-86+C88	Non-Hodgkin lymphoma 	NHL
+C90	Multiple myeloma 	Multiple myeloma
+C91-95	Leukaemia 	Leukaemia
+OTH	Other specified cancers 	Other specified cancers
+C76-80+C96-97	Unspecified sites 	Unspecified sites

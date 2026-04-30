@@ -1,0 +1,38 @@
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-%28pm2-5%29
+
+Indicator name:
+Air pollution: concentrations of fine particulate matter (PM2.5), SDG 11.6.2
+Short name:
+Annual mean PM2.5 concentration
+Topic:
+Risk factors
+Rationale:
+Air pollution consists of many pollutants, among other particulate matter. These particles are able to penetrate deeply into the respiratory tract and therefore constitute a risk for health by increasing mortality from respiratory infections and diseases, lung cancer, and selected cardiovascular diseases. Mean annual concentration of fine suspended particles of less than 2.5 microns in diameters (PM2.5) is a common measure of air pollution. The mean (population-weighted average) annual concentration of PM2.5 in urban areas has been chosen as the SDG indicator 11.6.2.
+Definition:
+The mean (population-weighted average) annual concentration of fine suspended particles of less than 2.5 microns in diameters, expressed in micrograms per cubic meter [migrograms/m3]. For SDG indicator 11.6.2: The mean (population-weighted average) annual concentration of fine suspended particles of less than 2.5 microns in diameters, specifically in urban areas.
+Disaggregation:
+The PM2.5 concentrations are geographically classified according to the 2021 UNSD Degree of Urbanization classification: cities, towns and rural areas. Data is also provided for urban (aggregation of cities and towns) and all (aggregation of cities, towns and rural) areas.
+Method of measurement
+Concentration of PM2.5 are regularly measured from fixed-site, population-oriented monitors. High-quality measurements of PM concentration from all the monitors can be averaged to develop a single estimate. Concentration of PM2.5 are regularly measured from fixed-site,  population-oriented monitors located within the metropolitan areas. High-quality measurements of PM concentration from all the monitors in the metropolitan area can be averaged to develop a single estimate.  
+Method of estimation:
+Although PM is measured at many thousands of locations throughout the world, the amount of monitors in different geographical areas vary, with some areas having little or no monitoring. In order to produce global estimates at high resolution (0.1◦ grid‐cells), additional data is required. Annual mean concentration of PM2.5 is estimated with improved modelling using data integration from satellite remote sensing, population estimates, topography and ground measurements.
+Method of estimation of global and regional aggregates:
+The regional and global aggregates are population -weighted figures of the national estimates. Cagg=SUM (Cnat * Pnat)/ SUM (Pnat) where Cagg is the regional/global estimate, Cnat is the national estimate, Pnat is the country population. The sum is done over the countries in the region (regional aggregate) or all countries (global aggregate).
+Preferred data sources:
+Special studies
+Unit of Measure:
+Micrograms per cubic meter [micrograms/m3]
+Expected frequency of data dissemination:
+Every 2-3 years
+Expected frequency of data collection:
+Every 2-3 years
+Comments:
+Sources of data include ground measurements from monitoring networks, collected for 6,000 cities and localities (WHO 2022) around the world, satellite remote sensing, population estimates, topography, information on local monitoring networks and measures of specific contributors of air pollution (WHO, 2022)
+Contact person email:
+bonjourso@who.int
+Name:
+Sophie Gumy
+IMRID:
+4674
+Limitations:
+Urban/rural data: while the data quality available for urban/rural population is generally good for high-income countries, it can be relatively poor for some low- and middle income areas. Furthermore, the definition of urban/rural may greatly vary by country. 

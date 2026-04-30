@@ -1,0 +1,186 @@
+Population	Region	Continent
+Afghanistan 	South Central Asia	Asia
+Albania 	Southern Europe	Europe
+Algeria 	Northern Africa	Africa
+Angola 	Middle Africa	Africa
+Azerbaijan 	Western Asia	Asia
+Argentina 	South America	Latin America and the Caribbean
+Australia 	Australia/New Zealand	Oceania
+Austria 	Western Europe	Europe
+Bahamas 	Caribbean	Latin America and the Caribbean
+Bahrain 	Western Asia	Asia
+Bangladesh 	South Central Asia	Asia
+Armenia 	Western Asia	Asia
+Barbados 	Caribbean	Latin America and the Caribbean
+Belgium 	Western Europe	Europe
+Bhutan 	South Central Asia	Asia
+Bolivia (Plurinational State of) 	South America	Latin America and the Caribbean
+Bosnia Herzegovina 	Southern Europe	Europe
+Botswana 	Southern Africa	Africa
+Brazil 	South America	Latin America and the Caribbean
+Belize 	Central America	Latin America and the Caribbean
+Solomon Islands 	Melanesia	Oceania
+Brunei Darussalam 	South-Eastern Asia	Asia
+Bulgaria 	Eastern Europe	Europe
+Myanmar 	South-Eastern Asia	Asia
+Burundi 	Eastern Africa	Africa
+Belarus 	Eastern Europe	Europe
+Cambodia 	South-Eastern Asia	Asia
+Cameroon 	Middle Africa	Africa
+Canada 	Northern America	Northern America
+Cape Verde 	Western Africa	Africa
+Central African Republic 	Middle Africa	Africa
+Sri Lanka 	South Central Asia	Asia
+Chad 	Middle Africa	Africa
+Chile 	South America	Latin America and the Caribbean
+China 	Eastern Asia	Asia
+Colombia 	South America	Latin America and the Caribbean
+Comoros 	Eastern Africa	Africa
+Congo, Republic of 	Middle Africa	Africa
+Congo, Democratic Republic of 	Middle Africa	Africa
+Costa Rica 	Central America	Latin America and the Caribbean
+Croatia 	Southern Europe	Europe
+Cuba 	Caribbean	Latin America and the Caribbean
+Cyprus 	Southern Europe	Europe
+Czechia 	Eastern Europe	Europe
+Benin 	Western Africa	Africa
+Denmark 	Northern Europe	Europe
+Dominican Republic 	Caribbean	Latin America and the Caribbean
+Ecuador 	South America	Latin America and the Caribbean
+El Salvador 	Central America	Latin America and the Caribbean
+Equatorial Guinea 	Middle Africa	Africa
+Ethiopia 	Eastern Africa	Africa
+Eritrea 	Eastern Africa	Africa
+Estonia 	Northern Europe	Europe
+Fiji 	Melanesia	Oceania
+Finland 	Northern Europe	Europe
+France (metropolitan) 	Western Europe	Europe
+French Guyana 	South America	Latin America and the Caribbean
+French Polynesia 	Polynesia	Oceania
+Djibouti 	Eastern Africa	Africa
+Gabon 	Middle Africa	Africa
+Georgia 	Western Asia	Asia
+The Republic of the Gambia 	Western Africa	Africa
+Gaza Strip and West Bank 	Western Asia	Asia
+Germany 	Western Europe	Europe
+Ghana 	Western Africa	Africa
+Greece 	Southern Europe	Europe
+France, Guadeloupe 	Caribbean	Latin America and the Caribbean
+Guam 	Micronesia	Oceania
+Guatemala 	Central America	Latin America and the Caribbean
+Guinea 	Western Africa	Africa
+Guyana 	South America	Latin America and the Caribbean
+Haiti 	Caribbean	Latin America and the Caribbean
+Honduras 	Central America	Latin America and the Caribbean
+Hungary 	Eastern Europe	Europe
+Iceland 	Northern Europe	Europe
+India 	South Central Asia	Asia
+Indonesia 	South-Eastern Asia	Asia
+Iran, Islamic Republic of 	South Central Asia	Asia
+Iraq 	Western Asia	Asia
+Ireland 	Northern Europe	Europe
+Israel 	Western Asia	Asia
+Italy 	Southern Europe	Europe
+Côte d'Ivoire 	Western Africa	Africa
+Jamaica 	Caribbean	Latin America and the Caribbean
+Japan 	Eastern Asia	Asia
+Kazakhstan 	South Central Asia	Asia
+Jordan 	Western Asia	Asia
+Kenya 	Eastern Africa	Africa
+Korea, Democratic People's Republic of 	Eastern Asia	Asia
+Korea, Republic of 	Eastern Asia	Asia
+Kuwait 	Western Asia	Asia
+Kyrgyzstan 	South Central Asia	Asia
+Lao People's Democratic Republic 	South-Eastern Asia	Asia
+Lebanon 	Western Asia	Asia
+Lesotho 	Southern Africa	Africa
+Latvia 	Northern Europe	Europe
+Liberia 	Western Africa	Africa
+Libya 	Northern Africa	Africa
+Lithuania 	Northern Europe	Europe
+Luxembourg 	Western Europe	Europe
+Madagascar 	Eastern Africa	Africa
+Malawi 	Eastern Africa	Africa
+Malaysia 	South-Eastern Asia	Asia
+Maldives 	South Central Asia	Asia
+Mali 	Western Africa	Africa
+Malta 	Southern Europe	Europe
+France, Martinique 	Caribbean	Latin America and the Caribbean
+Mauritania 	Western Africa	Africa
+Mauritius 	Eastern Africa	Africa
+Mexico 	Central America	Latin America and the Caribbean
+Mongolia 	Eastern Asia	Asia
+Republic of Moldova 	Eastern Europe	Europe
+Montenegro 	Southern Europe	Europe
+Morocco 	Northern Africa	Africa
+Mozambique 	Eastern Africa	Africa
+Oman 	Western Asia	Asia
+Namibia 	Southern Africa	Africa
+Nepal 	South Central Asia	Asia
+The Netherlands 	Western Europe	Europe
+New Caledonia 	Melanesia	Oceania
+Vanuatu 	Melanesia	Oceania
+New Zealand 	Australia/New Zealand	Oceania
+Nicaragua 	Central America	Latin America and the Caribbean
+Niger 	Western Africa	Africa
+Nigeria 	Western Africa	Africa
+Norway 	Northern Europe	Europe
+Pakistan 	South Central Asia	Asia
+Panama 	Central America	Latin America and the Caribbean
+Papua New Guinea 	Melanesia	Oceania
+Paraguay 	South America	Latin America and the Caribbean
+Peru 	South America	Latin America and the Caribbean
+Philippines 	South-Eastern Asia	Asia
+Poland 	Eastern Europe	Europe
+Portugal 	Southern Europe	Europe
+Guinea-Bissau 	Western Africa	Africa
+Timor-Leste 	South-Eastern Asia	Asia
+Puerto Rico 	Caribbean	Latin America and the Caribbean
+Qatar 	Western Asia	Asia
+France, La Réunion 	Eastern Africa	Africa
+Romania 	Eastern Europe	Europe
+Russian Federation 	Eastern Europe	Europe
+Rwanda 	Eastern Africa	Africa
+Saint Lucia 	Caribbean	Latin America and the Caribbean
+Sao Tome and Principe 	Western Africa	Africa
+Saudi Arabia 	Western Asia	Asia
+Senegal 	Western Africa	Africa
+Serbia 	Southern Europe	Europe
+Sierra Leone 	Western Africa	Africa
+Singapore 	South-Eastern Asia	Asia
+Slovakia 	Eastern Europe	Europe
+Viet Nam 	South-Eastern Asia	Asia
+Slovenia 	Southern Europe	Europe
+Somalia 	Eastern Africa	Africa
+South Africa 	Southern Africa	Africa
+Zimbabwe 	Eastern Africa	Africa
+Spain 	Southern Europe	Europe
+South Sudan 	Eastern Africa	Africa
+Sudan 	Northern Africa	Africa
+Suriname 	South America	Latin America and the Caribbean
+Eswatini 	Southern Africa	Africa
+Sweden 	Northern Europe	Europe
+Switzerland 	Western Europe	Europe
+Syrian Arab Republic 	Western Asia	Asia
+Tajikistan 	South Central Asia	Asia
+Thailand 	South-Eastern Asia	Asia
+Togo 	Western Africa	Africa
+Trinidad and Tobago 	Caribbean	Latin America and the Caribbean
+United Arab Emirates 	Western Asia	Asia
+Tunisia 	Northern Africa	Africa
+Türkiye 	Western Asia	Asia
+Turkmenistan 	South Central Asia	Asia
+Uganda 	Eastern Africa	Africa
+Ukraine 	Eastern Europe	Europe
+North Macedonia 	Southern Europe	Europe
+Egypt 	Northern Africa	Africa
+United Kingdom 	Northern Europe	Europe
+Tanzania, United Republic of 	Eastern Africa	Africa
+United States of America 	Northern America	Northern America
+Burkina Faso 	Western Africa	Africa
+Uruguay 	South America	Latin America and the Caribbean
+Uzbekistan 	South Central Asia	Asia
+Venezuela 	South America	Latin America and the Caribbean
+Samoa 	Polynesia	Oceania
+Yemen 	Western Asia	Asia
+Zambia 	Eastern Africa	Africa

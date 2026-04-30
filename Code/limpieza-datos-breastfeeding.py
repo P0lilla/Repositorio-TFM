@@ -1,6 +1,7 @@
 # Librerías
 import pandas as pd
 import os
+import numpy as np
 
 # Script para limpiar los datos de breastfeeding
 current_path = os.path.dirname(__file__)
@@ -11,7 +12,7 @@ breast_raw = pd.read_csv(os.path.join(
 
 # Cargamos archivo con la codificación ISO por país
 countries_iso = pd.read_csv(
-    os.path.join(ruta_relativa, "countries-ISO-3166.csv"))
+    os.path.join(current_path[:-4], "Data/countries-ISO-3166.csv"))
 
 # Construir diccionario alpha-3 : country-code
 countries_dic = {}
@@ -29,18 +30,22 @@ breast_renamed = breast_selected.rename(columns={
     "INDICATOR:Indicator": "Indicator", 
     "REF_AREA:Geographic area": "alpha3",
     "TIME_PERIOD:Time period": "Time period",
-    "OBS_VALUE:Observation Value": "Percentage",
+    "OBS_VALUE:Observation Value": "Value2",
     "LOWER_BOUND:Lower Bound": "CI95_low",
     "UPPER_BOUND:Upper Bound": "CI95_high"})
 
 # Eliminación de motivo recurrente en la variable "Indicator"
-breast_renamed["Indicator"] = breast_renamed["Indicator"].str[16:]
+breast_renamed["Indicator"] = breast_renamed["Indicator"].str[16:] + " %"
 
 # Modificamos la variable alpha3 para dejar únicamente el id. de 3 digitos
 breast_renamed["alpha3"] = breast_renamed["alpha3"].str[:3]
 
 # Añadimos una variable para el código del país comparando con el dict ISO
 breast_renamed["country-code"] = breast_renamed["alpha3"].map(countries_dic)
+
+# Añadimos una variable llamada Dim1 sin información pero necesaria para
+# fusionar posteriormente los datos con el resto de factores
+breast_renamed["Dim1 type"] = np.nan 
 
 # Seleccionamos solo los valores de 2012 o los más cercanos.
 # Primero nos quedamos solo con el año, dropeando el mes cuando está presente
@@ -65,6 +70,6 @@ print(breast_circa_2012.isnull().sum())
 
 # Lo guardamos en un nuevo csv
 breast_circa_2012.to_csv(os.path.join(
-    ruta_relativa, "Breastfeeding/breastfeeding-clean-circa-2012.csv"), 
+    current_path[:-4], "Data/Clean-data/Breastfeeding-clean.csv"), 
     index=False)
 

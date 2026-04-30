@@ -91,8 +91,14 @@ def insert_alpha3(df):
 def binary_sex(df):
     '''
     If the subdivision (Dim1) is the parameter sex, a new binary variable
-    is created (Male = 1, Female = 0)'''
+    is created (Male = 1, Female = 0) and in case the option "Both sexes
+    is present, its removed from the dataset'''
 
+    # If present, rows with sex = both sexes are removed
+    if (df["Dim1"] == "Both sexes").any():
+        df = df[df["Dim1"] != "Both sexes"]
+
+    # Creation of new binary variable
     if (df["Dim1 type"] == "Sex").all():
         df["sex_dichotomic"] = (df["Dim1"] == "Male").astype(int)
 

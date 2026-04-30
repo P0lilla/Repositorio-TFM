@@ -1,0 +1,399 @@
+,alpha3,Dim1,Indicator,Location,Time period,Dim1 type,Value,country-code,sex_dichotomic,Value2,CI95_low,CI95_high
+0,AFG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Afghanistan,2012,Sex,12.0 [9.9-14.4],4,0,12.0,9.9,14.4
+1,AFG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Afghanistan,2012,Sex,8.4 [5.9-11.5],4,1,8.4,5.9,11.5
+2,AGO,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Angola,2012,Sex,12.3 [7.8-17.8],24,0,12.3,7.8,17.8
+3,AGO,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Angola,2012,Sex,4.4 [2.3-7.5],24,1,4.4,2.3,7.5
+4,ALB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Albania,2012,Sex,20.1 [17.7-22.5],8,0,20.1,17.7,22.5
+5,ALB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Albania,2012,Sex,14.9 [12.7-17.3],8,1,14.9,12.7,17.3
+6,AND,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Andorra,2012,Sex,14.9 [11.1-19.5],20,0,14.9,11.1,19.5
+7,AND,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Andorra,2012,Sex,18.3 [13.6-23.5],20,1,18.3,13.6,23.5
+8,ARE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United Arab Emirates,2012,Sex,38.8 [35.8-41.8],784,0,38.8,35.8,41.8
+9,ARE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United Arab Emirates,2012,Sex,27.2 [24.2-30.3],784,1,27.2,24.2,30.3
+10,ARG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Argentina,2012,Sex,26.9 [24.9-28.9],32,0,26.9,24.9,28.9
+11,ARG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Argentina,2012,Sex,25.5 [23.1-28.0],32,1,25.5,23.1,28.0
+12,ARM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Armenia,2012,Sex,25.7 [23.4-28.0],51,0,25.7,23.4,28.0
+13,ARM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Armenia,2012,Sex,12.9 [10.5-15.5],51,1,12.9,10.5,15.5
+14,ASM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",American Samoa,2012,Sex,77.1 [71.8-82.0],16,0,77.1,71.8,82.0
+15,ASM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",American Samoa,2012,Sex,67.1 [61.0-72.9],16,1,67.1,61.0,72.9
+16,ATG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Antigua and Barbuda,2012,Sex,34.1 [21.9-47.4],28,0,34.1,21.9,47.4
+17,ATG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Antigua and Barbuda,2012,Sex,18.2 [9.6-28.7],28,1,18.2,9.6,28.7
+18,AUS,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Australia,2012,Sex,25.4 [23.9-27.0],36,0,25.4,23.9,27.0
+19,AUS,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Australia,2012,Sex,26.1 [24.5-27.8],36,1,26.1,24.5,27.8
+20,AUT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Austria,2012,Sex,12.2 [10.4-14.2],40,0,12.2,10.4,14.2
+21,AUT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Austria,2012,Sex,16.1 [14.2-18.1],40,1,16.1,14.2,18.1
+22,AZE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Azerbaijan,2012,Sex,29.1 [26.8-31.6],31,0,29.1,26.8,31.6
+23,AZE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Azerbaijan,2012,Sex,12.4 [10.3-14.8],31,1,12.4,10.3,14.8
+24,BDI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Burundi,2012,Sex,2.6 [1.9-3.3],108,0,2.6,1.9,3.3
+25,BDI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Burundi,2012,Sex,3.4 [1.2-7.5],108,1,3.4,1.2,7.5
+26,BEL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Belgium,2012,Sex,18.0 [16.0-20.2],56,0,18.0,16.0,20.2
+27,BEL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Belgium,2012,Sex,17.6 [15.5-19.6],56,1,17.6,15.5,19.6
+28,BEN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Benin,2012,Sex,11.3 [10.1-12.6],204,0,11.3,10.1,12.6
+29,BEN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Benin,2012,Sex,4.7 [3.7-5.8],204,1,4.7,3.7,5.8
+30,BFA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Burkina Faso,2012,Sex,4.9 [4.2-5.7],854,0,4.9,4.2,5.7
+31,BFA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Burkina Faso,2012,Sex,2.3 [1.7-3.1],854,1,2.3,1.7,3.1
+32,BGD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bangladesh,2012,Sex,3.5 [3.2-3.9],50,0,3.5,3.2,3.9
+33,BGD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bangladesh,2012,Sex,1.5 [1.2-1.7],50,1,1.5,1.2,1.7
+34,BGR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bulgaria,2012,Sex,16.1 [14.1-18.1],100,0,16.1,14.1,18.1
+35,BGR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bulgaria,2012,Sex,19.0 [16.6-21.6],100,1,19.0,16.6,21.6
+36,BHR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bahrain,2012,Sex,38.3 [33.4-43.3],48,0,38.3,33.4,43.3
+37,BHR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bahrain,2012,Sex,27.7 [23.3-32.5],48,1,27.7,23.3,32.5
+38,BHS,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bahamas,2012,Sex,44.9 [40.8-49.3],44,0,44.9,40.8,49.3
+39,BHS,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bahamas,2012,Sex,34.2 [30.1-38.4],44,1,34.2,30.1,38.4
+40,BIH,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bosnia and Herzegovina,2012,Sex,18.5 [14.5-22.8],70,0,18.5,14.5,22.8
+41,BIH,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bosnia and Herzegovina,2012,Sex,15.8 [12.3-19.7],70,1,15.8,12.3,19.7
+42,BLR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Belarus,2012,Sex,23.9 [20.5-27.5],112,0,23.9,20.5,27.5
+43,BLR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Belarus,2012,Sex,16.9 [13.6-20.5],112,1,16.9,13.6,20.5
+44,BLZ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Belize,2012,Sex,44.5 [40.9-48.3],84,0,44.5,40.9,48.3
+45,BLZ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Belize,2012,Sex,25.9 [22.5-29.3],84,1,25.9,22.5,29.3
+46,BMU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bermuda,2012,Sex,34.1 [21.9-47.3],60,0,34.1,21.9,47.3
+47,BMU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bermuda,2012,Sex,18.3 [9.7-29.4],60,1,18.3,9.7,29.4
+48,BOL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bolivia (Plurinational State of),2012,Sex,25.5 [22.9-28.1],68,0,25.5,22.9,28.1
+49,BOL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bolivia (Plurinational State of),2012,Sex,15.3 [11.7-19.3],68,1,15.3,11.7,19.3
+50,BRA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Brazil,2012,Sex,22.2 [21.0-23.4],76,0,22.2,21.0,23.4
+51,BRA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Brazil,2012,Sex,15.7 [14.6-16.9],76,1,15.7,14.6,16.9
+52,BRB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Barbados,2012,Sex,39.9 [35.4-44.5],52,0,39.9,35.4,44.5
+53,BRB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Barbados,2012,Sex,20.8 [17.0-24.8],52,1,20.8,17.0,24.8
+54,BRN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Brunei Darussalam,2012,Sex,24.8 [21.8-28.1],96,0,24.8,21.8,28.1
+55,BRN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Brunei Darussalam,2012,Sex,21.8 [18.7-25.2],96,1,21.8,18.7,25.2
+56,BTN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bhutan,2012,Sex,9.1 [7.4-11.0],64,0,9.1,7.4,11.0
+57,BTN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Bhutan,2012,Sex,5.4 [4.1-6.8],64,1,5.4,4.1,6.8
+58,BWA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Botswana,2012,Sex,22.4 [19.8-25.1],72,0,22.4,19.8,25.1
+59,BWA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Botswana,2012,Sex,6.0 [4.6-7.6],72,1,6.0,4.6,7.6
+60,CAF,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Central African Republic,2012,Sex,8.0 [6.1-10.2],140,0,8.0,6.1,10.2
+61,CAF,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Central African Republic,2012,Sex,3.7 [2.7-5.0],140,1,3.7,2.7,5.0
+62,CAN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Canada,2012,Sex,23.9 [22.4-25.3],124,0,23.9,22.4,25.3
+63,CAN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Canada,2012,Sex,25.4 [23.9-27.0],124,1,25.4,23.9,27.0
+64,CHE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Switzerland,2012,Sex,9.5 [8.1-11.0],756,0,9.5,8.1,11.0
+65,CHE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Switzerland,2012,Sex,14.2 [12.7-15.7],756,1,14.2,12.7,15.7
+66,CHL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Chile,2012,Sex,34.6 [32.5-36.7],152,0,34.6,32.5,36.7
+67,CHL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Chile,2012,Sex,24.4 [22.5-26.4],152,1,24.4,22.5,26.4
+68,CHN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",China,2012,Sex,4.7 [4.4-5.0],156,0,4.7,4.4,5.0
+69,CHN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",China,2012,Sex,4.3 [4.0-4.5],156,1,4.3,4.0,4.5
+70,CIV,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cote d'Ivoire,2012,Sex,11.1 [9.5-12.9],384,0,11.1,9.5,12.9
+71,CIV,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cote d'Ivoire,2012,Sex,5.4 [3.5-7.8],384,1,5.4,3.5,7.8
+72,CMR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cameroon,2012,Sex,15.9 [14.5-17.4],120,0,15.9,14.5,17.4
+73,CMR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cameroon,2012,Sex,7.4 [6.0-9.0],120,1,7.4,6.0,9.0
+74,COD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Democratic Republic of the Congo,2012,Sex,5.7 [4.8-6.7],180,0,5.7,4.8,6.7
+75,COD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Democratic Republic of the Congo,2012,Sex,2.9 [2.0-4.0],180,1,2.9,2.0,4.0
+76,COG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Congo,2012,Sex,11.4 [9.5-13.4],178,0,11.4,9.5,13.4
+77,COG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Congo,2012,Sex,3.2 [2.0-4.9],178,1,3.2,2.0,4.9
+78,COK,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cook Islands,2012,Sex,66.0 [61.8-70.2],184,0,66.0,61.8,70.2
+79,COK,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cook Islands,2012,Sex,58.6 [54.0-63.0],184,1,58.6,54.0,63.0
+80,COL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Colombia,2012,Sex,22.5 [21.1-23.9],170,0,22.5,21.1,23.9
+81,COL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Colombia,2012,Sex,13.4 [12.2-14.7],170,1,13.4,12.2,14.7
+82,COM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Comoros,2012,Sex,16.6 [14.4-18.9],174,0,16.6,14.4,18.9
+83,COM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Comoros,2012,Sex,4.7 [3.3-6.4],174,1,4.7,3.3,6.4
+84,CPV,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cabo Verde,2012,Sex,15.9 [13.4-18.5],132,0,15.9,13.4,18.5
+85,CPV,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cabo Verde,2012,Sex,6.4 [4.9-8.2],132,1,6.4,4.9,8.2
+86,CRI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Costa Rica,2012,Sex,29.5 [27.6-31.5],188,0,29.5,27.6,31.5
+87,CRI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Costa Rica,2012,Sex,20.1 [18.1-22.1],188,1,20.1,18.1,22.1
+88,CUB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cuba,2012,Sex,19.6 [17.7-21.7],192,0,19.6,17.7,21.7
+89,CUB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cuba,2012,Sex,12.9 [11.3-14.8],192,1,12.9,11.3,14.8
+90,CYP,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cyprus,2012,Sex,19.7 [14.8-25.3],196,0,19.7,14.8,25.3
+91,CYP,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cyprus,2012,Sex,23.3 [17.6-29.4],196,1,23.3,17.6,29.4
+92,CZE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Czechia,2012,Sex,20.1 [18.4-21.7],203,0,20.1,18.4,21.7
+93,CZE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Czechia,2012,Sex,23.4 [21.6-25.4],203,1,23.4,21.6,25.4
+94,DEU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Germany,2012,Sex,18.8 [17.2-20.6],276,0,18.8,17.2,20.6
+95,DEU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Germany,2012,Sex,22.0 [20.4-23.6],276,1,22.0,20.4,23.6
+96,DJI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Djibouti,2012,Sex,10.7 [4.9-19.1],262,0,10.7,4.9,19.1
+97,DJI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Djibouti,2012,Sex,3.4 [1.2-7.3],262,1,3.4,1.2,7.3
+98,DMA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Dominica,2012,Sex,36.9 [31.4-42.7],212,0,36.9,31.4,42.7
+99,DMA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Dominica,2012,Sex,12.7 [9.1-16.8],212,1,12.7,9.1,16.8
+100,DNK,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Denmark,2012,Sex,10.7 [9.6-11.9],208,0,10.7,9.6,11.9
+101,DNK,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Denmark,2012,Sex,14.4 [13.5-15.3],208,1,14.4,13.5,15.3
+102,DOM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Dominican Republic,2012,Sex,27.3 [25.2-29.6],214,0,27.3,25.2,29.6
+103,DOM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Dominican Republic,2012,Sex,17.3 [15.4-19.3],214,1,17.3,15.4,19.3
+104,DZA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Algeria,2012,Sex,26.6 [23.9-29.3],12,0,26.6,23.9,29.3
+105,DZA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Algeria,2012,Sex,11.1 [9.2-13.1],12,1,11.1,9.2,13.1
+106,ECU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ecuador,2012,Sex,25.3 [23.5-27.1],218,0,25.3,23.5,27.1
+107,ECU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ecuador,2012,Sex,14.7 [13.0-16.4],218,1,14.7,13.0,16.4
+108,EGY,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Egypt,2012,Sex,48.6 [46.8-50.4],818,0,48.6,46.8,50.4
+109,EGY,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Egypt,2012,Sex,26.2 [24.3-28.1],818,1,26.2,24.3,28.1
+110,ERI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Eritrea,2012,Sex,3.7 [2.8-4.8],232,0,3.7,2.8,4.8
+111,ERI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Eritrea,2012,Sex,1.5 [0.9-2.1],232,1,1.5,0.9,2.1
+112,ESP,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Spain,2012,Sex,16.5 [15.1-17.8],724,0,16.5,15.1,17.8
+113,ESP,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Spain,2012,Sex,21.1 [19.5-22.9],724,1,21.1,19.5,22.9
+114,EST,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Estonia,2012,Sex,20.7 [19.1-22.3],233,0,20.7,19.1,22.3
+115,EST,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Estonia,2012,Sex,20.5 [18.6-22.4],233,1,20.5,18.6,22.4
+116,ETH,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ethiopia,2012,Sex,2.3 [1.9-2.8],231,0,2.3,1.9,2.8
+117,ETH,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ethiopia,2012,Sex,0.6 [0.4-0.8],231,1,0.6,0.4,0.8
+118,FIN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Finland,2012,Sex,19.4 [18.0-20.7],246,0,19.4,18.0,20.7
+119,FIN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Finland,2012,Sex,19.1 [17.7-20.6],246,1,19.1,17.7,20.6
+120,FJI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Fiji,2012,Sex,36.2 [32.8-39.7],242,0,36.2,32.8,39.7
+121,FJI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Fiji,2012,Sex,19.7 [17.0-22.6],242,1,19.7,17.0,22.6
+122,FRA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",France,2012,Sex,11.8 [10.8-12.8],250,0,11.8,10.8,12.8
+123,FRA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",France,2012,Sex,11.7 [10.7-12.9],250,1,11.7,10.7,12.9
+124,FSM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Micronesia (Federated States of),2012,Sex,51.3 [47.2-55.5],583,0,51.3,47.2,55.5
+125,FSM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Micronesia (Federated States of),2012,Sex,33.1 [29.5-36.7],583,1,33.1,29.5,36.7
+126,GAB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Gabon,2012,Sex,23.3 [20.6-26.2],266,0,23.3,20.6,26.2
+127,GAB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Gabon,2012,Sex,8.2 [5.3-11.7],266,1,8.2,5.3,11.7
+128,GBR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United Kingdom of Great Britain and Northern Ireland,2012,Sex,25.5 [24.7-26.4],826,0,25.5,24.7,26.4
+129,GBR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United Kingdom of Great Britain and Northern Ireland,2012,Sex,24.0 [23.1-24.9],826,1,24.0,23.1,24.9
+130,GEO,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Georgia,2012,Sex,29.7 [27.0-32.4],268,0,29.7,27.0,32.4
+131,GEO,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Georgia,2012,Sex,23.6 [20.8-26.8],268,1,23.6,20.8,26.8
+132,GHA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ghana,2012,Sex,15.9 [14.6-17.2],288,0,15.9,14.6,17.2
+133,GHA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ghana,2012,Sex,4.2 [3.5-4.9],288,1,4.2,3.5,4.9
+134,GIN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guinea,2012,Sex,7.6 [6.4-9.0],324,0,7.6,6.4,9.0
+135,GIN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guinea,2012,Sex,3.9 [2.3-6.0],324,1,3.9,2.3,6.0
+136,GMB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Gambia,2012,Sex,12.9 [11.3-14.6],270,0,12.9,11.3,14.6
+137,GMB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Gambia,2012,Sex,5.6 [4.0-7.4],270,1,5.6,4.0,7.4
+138,GNB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guinea-Bissau,2012,Sex,10.1 [7.9-12.8],624,0,10.1,7.9,12.8
+139,GNB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guinea-Bissau,2012,Sex,5.2 [2.1-10.4],624,1,5.2,2.1,10.4
+140,GNQ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Equatorial Guinea,2012,Sex,23.4 [19.1-27.9],226,0,23.4,19.1,27.9
+141,GNQ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Equatorial Guinea,2012,Sex,5.4 [2.0-10.8],226,1,5.4,2.0,10.8
+142,GRC,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Greece,2012,Sex,25.0 [22.9-27.2],300,0,25.0,22.9,27.2
+143,GRC,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Greece,2012,Sex,24.0 [21.7-26.2],300,1,24.0,21.7,26.2
+144,GRD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Grenada,2012,Sex,34.1 [29.1-39.2],308,0,34.1,29.1,39.2
+145,GRD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Grenada,2012,Sex,13.9 [10.4-17.9],308,1,13.9,10.4,17.9
+146,GRL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Greenland,2012,Sex,26.6 [23.6-29.8],304,0,26.6,23.6,29.8
+147,GRL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Greenland,2012,Sex,20.3 [17.5-23.3],304,1,20.3,17.5,23.3
+148,GTM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guatemala,2012,Sex,24.3 [22.7-26.0],320,0,24.3,22.7,26.0
+149,GTM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guatemala,2012,Sex,15.3 [13.0-17.7],320,1,15.3,13.0,17.7
+150,GUY,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guyana,2012,Sex,29.7 [26.6-32.9],328,0,29.7,26.6,32.9
+151,GUY,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Guyana,2012,Sex,12.6 [10.5-15.0],328,1,12.6,10.5,15.0
+152,HND,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Honduras,2012,Sex,27.7 [24.5-31.0],340,0,27.7,24.5,31.0
+153,HND,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Honduras,2012,Sex,17.5 [10.8-25.4],340,1,17.5,10.8,25.4
+154,HRV,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Croatia,2012,Sex,21.9 [19.8-24.1],191,0,21.9,19.8,24.1
+155,HRV,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Croatia,2012,Sex,23.7 [21.3-26.3],191,1,23.7,21.3,26.3
+156,HTI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Haiti,2012,Sex,11.3 [9.9-12.9],332,0,11.3,9.9,12.9
+157,HTI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Haiti,2012,Sex,5.1 [3.0-8.0],332,1,5.1,3.0,8.0
+158,HUN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Hungary,2012,Sex,23.7 [21.5-26.0],348,0,23.7,21.5,26.0
+159,HUN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Hungary,2012,Sex,26.4 [23.9-28.9],348,1,26.4,23.9,28.9
+160,IDN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Indonesia,2012,Sex,8.8 [7.9-9.8],360,0,8.8,7.9,9.8
+161,IDN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Indonesia,2012,Sex,3.1 [2.6-3.6],360,1,3.1,2.6,3.6
+162,IND,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",India,2012,Sex,5.5 [5.1-5.9],356,0,5.5,5.1,5.9
+163,IND,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",India,2012,Sex,2.8 [2.5-3.1],356,1,2.8,2.5,3.1
+164,IRL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ireland,2012,Sex,23.8 [21.7-26.1],372,0,23.8,21.7,26.1
+165,IRL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ireland,2012,Sex,26.3 [23.8-28.7],372,1,26.3,23.8,28.7
+166,IRN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Iran (Islamic Republic of),2012,Sex,26.4 [25.3-27.5],364,0,26.4,25.3,27.5
+167,IRN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Iran (Islamic Republic of),2012,Sex,13.7 [12.8-14.6],364,1,13.7,12.8,14.6
+168,IRQ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Iraq,2012,Sex,40.9 [37.6-44.3],368,0,40.9,37.6,44.3
+169,IRQ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Iraq,2012,Sex,27.0 [23.9-30.2],368,1,27.0,23.9,30.2
+170,ISL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Iceland,2012,Sex,17.8 [14.7-21.3],352,0,17.8,14.7,21.3
+171,ISL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Iceland,2012,Sex,19.7 [16.7-22.8],352,1,19.7,16.7,22.8
+172,ISR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Israel,2012,Sex,22.6 [20.5-24.7],376,0,22.6,20.5,24.7
+173,ISR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Israel,2012,Sex,21.1 [19.1-23.2],376,1,21.1,19.1,23.2
+174,ITA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Italy,2012,Sex,15.2 [14.0-16.5],380,0,15.2,14.0,16.5
+175,ITA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Italy,2012,Sex,16.8 [15.3-18.4],380,1,16.8,15.3,18.4
+176,JAM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Jamaica,2012,Sex,38.7 [36.1-41.5],388,0,38.7,36.1,41.5
+177,JAM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Jamaica,2012,Sex,13.2 [11.3-15.4],388,1,13.2,11.3,15.4
+178,JOR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Jordan,2012,Sex,43.1 [41.5-44.7],400,0,43.1,41.5,44.7
+179,JOR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Jordan,2012,Sex,29.9 [27.6-32.2],400,1,29.9,27.6,32.2
+180,JPN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Japan,2012,Sex,2.9 [2.7-3.2],392,0,2.9,2.7,3.2
+181,JPN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Japan,2012,Sex,4.8 [4.4-5.2],392,1,4.8,4.4,5.2
+182,KAZ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kazakhstan,2012,Sex,19.0 [17.0-21.1],398,0,19.0,17.0,21.1
+183,KAZ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kazakhstan,2012,Sex,12.1 [10.0-14.2],398,1,12.1,10.0,14.2
+184,KEN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kenya,2012,Sex,12.2 [10.8-13.6],404,0,12.2,10.8,13.6
+185,KEN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kenya,2012,Sex,3.9 [2.8-5.2],404,1,3.9,2.8,5.2
+186,KGZ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kyrgyzstan,2012,Sex,22.4 [19.9-24.9],417,0,22.4,19.9,24.9
+187,KGZ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kyrgyzstan,2012,Sex,17.1 [14.0-20.5],417,1,17.1,14.0,20.5
+188,KHM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cambodia,2012,Sex,2.8 [2.4-3.3],116,0,2.8,2.4,3.3
+189,KHM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Cambodia,2012,Sex,1.6 [1.1-2.2],116,1,1.6,1.1,2.2
+190,KIR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kiribati,2012,Sex,51.0 [46.9-54.9],296,0,51.0,46.9,54.9
+191,KIR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kiribati,2012,Sex,34.0 [30.1-38.0],296,1,34.0,30.1,38.0
+192,KNA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saint Kitts and Nevis,2012,Sex,46.4 [38.5-54.3],659,0,46.4,38.5,54.3
+193,KNA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saint Kitts and Nevis,2012,Sex,30.8 [24.1-38.2],659,1,30.8,24.1,38.2
+194,KOR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Republic of Korea,2012,Sex,4.0 [3.7-4.3],410,0,4.0,3.7,4.3
+195,KOR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Republic of Korea,2012,Sex,4.1 [3.8-4.5],410,1,4.1,3.8,4.5
+196,KWT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kuwait,2012,Sex,47.7 [45.8-49.7],414,0,47.7,45.8,49.7
+197,KWT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Kuwait,2012,Sex,35.9 [33.9-38.0],414,1,35.9,33.9,38.0
+198,LAO,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lao People's Democratic Republic,2012,Sex,6.0 [4.6-7.6],418,0,6.0,4.6,7.6
+199,LAO,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lao People's Democratic Republic,2012,Sex,3.4 [2.3-4.7],418,1,3.4,2.3,4.7
+200,LBN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lebanon,2012,Sex,26.8 [24.1-29.5],422,0,26.8,24.1,29.5
+201,LBN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lebanon,2012,Sex,25.1 [22.2-28.1],422,1,25.1,22.2,28.1
+202,LBR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Liberia,2012,Sex,13.6 [12.0-15.2],430,0,13.6,12.0,15.2
+203,LBR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Liberia,2012,Sex,6.7 [5.5-8.2],430,1,6.7,5.5,8.2
+204,LBY,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Libya,2012,Sex,41.2 [36.5-46.0],434,0,41.2,36.5,46.0
+205,LBY,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Libya,2012,Sex,22.8 [18.9-26.9],434,1,22.8,18.9,26.9
+206,LCA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saint Lucia,2012,Sex,37.5 [33.9-41.2],662,0,37.5,33.9,41.2
+207,LCA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saint Lucia,2012,Sex,14.3 [11.7-17.0],662,1,14.3,11.7,17.0
+208,LKA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sri Lanka,2012,Sex,7.9 [6.9-8.9],144,0,7.9,6.9,8.9
+209,LKA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sri Lanka,2012,Sex,3.4 [2.8-4.1],144,1,3.4,2.8,4.1
+210,LSO,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lesotho,2012,Sex,25.7 [23.4-28.1],426,0,25.7,23.4,28.1
+211,LSO,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lesotho,2012,Sex,5.0 [4.0-6.1],426,1,5.0,4.0,6.1
+212,LTU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lithuania,2012,Sex,23.0 [19.3-26.9],440,0,23.0,19.3,26.9
+213,LTU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Lithuania,2012,Sex,22.3 [18.2-26.6],440,1,22.3,18.2,26.6
+214,LUX,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Luxembourg,2012,Sex,16.6 [14.2-19.2],442,0,16.6,14.2,19.2
+215,LUX,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Luxembourg,2012,Sex,19.8 [17.0-22.6],442,1,19.8,17.0,22.6
+216,LVA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Latvia,2012,Sex,22.0 [18.8-25.5],428,0,22.0,18.8,25.5
+217,LVA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Latvia,2012,Sex,20.5 [16.8-24.4],428,1,20.5,16.8,24.4
+218,MAR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Morocco,2012,Sex,22.7 [20.1-25.3],504,0,22.7,20.1,25.3
+219,MAR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Morocco,2012,Sex,10.6 [8.4-13.0],504,1,10.6,8.4,13.0
+220,MDA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Republic of Moldova,2012,Sex,26.5 [24.2-28.8],498,0,26.5,24.2,28.8
+221,MDA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Republic of Moldova,2012,Sex,18.3 [15.4-21.4],498,1,18.3,15.4,21.4
+222,MDG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Madagascar,2012,Sex,2.4 [1.9-3.0],450,0,2.4,1.9,3.0
+223,MDG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Madagascar,2012,Sex,2.3 [1.3-3.6],450,1,2.3,1.3,3.6
+224,MDV,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Maldives,2012,Sex,15.9 [14.0-17.9],462,0,15.9,14.0,17.9
+225,MDV,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Maldives,2012,Sex,7.5 [5.9-9.3],462,1,7.5,5.9,9.3
+226,MEX,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mexico,2012,Sex,33.6 [32.3-34.8],484,0,33.6,32.3,34.8
+227,MEX,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mexico,2012,Sex,24.7 [23.4-26.0],484,1,24.7,23.4,26.0
+228,MHL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Marshall Islands,2012,Sex,49.9 [46.0-53.6],584,0,49.9,46.0,53.6
+229,MHL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Marshall Islands,2012,Sex,34.3 [30.2-38.2],584,1,34.3,30.2,38.2
+230,MKD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",North Macedonia,2012,Sex,23.4 [17.7-29.7],807,0,23.4,17.7,29.7
+231,MKD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",North Macedonia,2012,Sex,20.7 [11.7-31.5],807,1,20.7,11.7,31.5
+232,MLI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mali,2012,Sex,8.5 [7.4-9.8],466,0,8.5,7.4,9.8
+233,MLI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mali,2012,Sex,6.7 [4.7-9.1],466,1,6.7,4.7,9.1
+234,MLT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Malta,2012,Sex,28.3 [24.1-32.5],470,0,28.3,24.1,32.5
+235,MLT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Malta,2012,Sex,32.1 [27.5-36.8],470,1,32.1,27.5,36.8
+236,MMR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Myanmar,2012,Sex,6.9 [5.9-7.9],104,0,6.9,5.9,7.9
+237,MMR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Myanmar,2012,Sex,3.5 [2.8-4.3],104,1,3.5,2.8,4.3
+238,MNE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Montenegro,2012,Sex,14.2 [8.9-20.8],499,0,14.2,8.9,20.8
+239,MNE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Montenegro,2012,Sex,15.1 [10.0-20.9],499,1,15.1,10.0,20.9
+240,MNG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mongolia,2012,Sex,20.7 [18.8-22.6],496,0,20.7,18.8,22.6
+241,MNG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mongolia,2012,Sex,14.1 [12.5-15.8],496,1,14.1,12.5,15.8
+242,MOZ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mozambique,2012,Sex,8.4 [7.1-9.7],508,0,8.4,7.1,9.7
+243,MOZ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mozambique,2012,Sex,3.4 [2.4-4.5],508,1,3.4,2.4,4.5
+244,MRT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mauritania,2012,Sex,25.3 [21.8-28.8],478,0,25.3,21.8,28.8
+245,MRT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mauritania,2012,Sex,6.3 [3.3-10.4],478,1,6.3,3.3,10.4
+246,MUS,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mauritius,2012,Sex,21.8 [19.7-24.1],480,0,21.8,19.7,24.1
+247,MUS,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Mauritius,2012,Sex,10.9 [9.3-12.6],480,1,10.9,9.3,12.6
+248,MWI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Malawi,2012,Sex,6.9 [6.0-7.7],454,0,6.9,6.0,7.7
+249,MWI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Malawi,2012,Sex,1.9 [1.3-2.5],454,1,1.9,1.3,2.5
+250,MYS,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Malaysia,2012,Sex,19.5 [18.1-20.9],458,0,19.5,18.1,20.9
+251,MYS,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Malaysia,2012,Sex,12.7 [11.6-14.0],458,1,12.7,11.6,14.0
+252,NAM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Namibia,2012,Sex,19.6 [17.3-22.0],516,0,19.6,17.3,22.0
+253,NAM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Namibia,2012,Sex,7.5 [5.4-10.1],516,1,7.5,5.4,10.1
+254,NER,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Niger,2012,Sex,5.2 [4.4-6.2],562,0,5.2,4.4,6.2
+255,NER,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Niger,2012,Sex,2.6 [1.9-3.6],562,1,2.6,1.9,3.6
+256,NGA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nigeria,2012,Sex,11.4 [10.4-12.6],566,0,11.4,10.4,12.6
+257,NGA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nigeria,2012,Sex,5.9 [5.0-6.9],566,1,5.9,5.0,6.9
+258,NIC,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nicaragua,2012,Sex,32.1 [28.9-35.2],558,0,32.1,28.9,35.2
+259,NIC,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nicaragua,2012,Sex,22.3 [15.2-30.4],558,1,22.3,15.2,30.4
+260,NIU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Niue,2012,Sex,64.4 [59.0-69.6],570,0,64.4,59.0,69.6
+261,NIU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Niue,2012,Sex,57.9 [52.3-63.4],570,1,57.9,52.3,63.4
+262,NLD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Netherlands (Kingdom of the),2012,Sex,14.2 [12.4-16.2],528,0,14.2,12.4,16.2
+263,NLD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Netherlands (Kingdom of the),2012,Sex,13.2 [11.4-15.2],528,1,13.2,11.4,15.2
+264,NOR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Norway,2012,Sex,15.4 [13.0-17.9],578,0,15.4,13.0,17.9
+265,NOR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Norway,2012,Sex,17.5 [15.1-20.1],578,1,17.5,15.1,20.1
+266,NPL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nepal,2012,Sex,4.1 [3.6-4.6],524,0,4.1,3.6,4.6
+267,NPL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nepal,2012,Sex,2.6 [2.2-3.1],524,1,2.6,2.2,3.1
+268,NRU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nauru,2012,Sex,68.8 [65.3-72.2],520,0,68.8,65.3,72.2
+269,NRU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Nauru,2012,Sex,65.7 [61.9-69.3],520,1,65.7,61.9,69.3
+270,NZL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",New Zealand,2012,Sex,30.0 [28.6-31.4],554,0,30.0,28.6,31.4
+271,NZL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",New Zealand,2012,Sex,28.6 [27.1-30.1],554,1,28.6,27.1,30.1
+272,OMN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Oman,2012,Sex,32.4 [29.7-35.2],512,0,32.4,29.7,35.2
+273,OMN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Oman,2012,Sex,21.2 [18.8-23.7],512,1,21.2,18.8,23.7
+274,PAK,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Pakistan,2012,Sex,15.9 [14.5-17.3],586,0,15.9,14.5,17.3
+275,PAK,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Pakistan,2012,Sex,9.7 [8.4-11.1],586,1,9.7,8.4,11.1
+276,PAN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Panama,2012,Sex,32.3 [29.3-35.3],591,0,32.3,29.3,35.3
+277,PAN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Panama,2012,Sex,20.9 [18.4-23.7],591,1,20.9,18.4,23.7
+278,PER,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Peru,2012,Sex,22.5 [21.6-23.4],604,0,22.5,21.6,23.4
+279,PER,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Peru,2012,Sex,14.3 [13.4-15.3],604,1,14.3,13.4,15.3
+280,PHL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Philippines,2012,Sex,7.1 [6.4-8.0],608,0,7.1,6.4,8.0
+281,PHL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Philippines,2012,Sex,4.3 [3.7-4.9],608,1,4.3,3.7,4.9
+282,PLW,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Palau,2012,Sex,41.6 [37.9-45.4],585,0,41.6,37.9,45.4
+283,PLW,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Palau,2012,Sex,36.8 [32.8-40.8],585,1,36.8,32.8,40.8
+284,PNG,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Papua New Guinea,2012,Sex,20.8 [16.7-25.3],598,0,20.8,16.7,25.3
+285,PNG,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Papua New Guinea,2012,Sex,13.1 [9.9-16.6],598,1,13.1,9.9,16.6
+286,POL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Poland,2012,Sex,20.6 [19.4-21.9],616,0,20.6,19.4,21.9
+287,POL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Poland,2012,Sex,23.5 [22.0-25.0],616,1,23.5,22.0,25.0
+288,PRI,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Puerto Rico,2012,Sex,38.1 [33.4-42.9],630,0,38.1,33.4,42.9
+289,PRI,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Puerto Rico,2012,Sex,30.4 [24.7-36.5],630,1,30.4,24.7,36.5
+290,PRK,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Democratic People's Republic of Korea,2012,Sex,8.3 [3.3-16.0],408,0,8.3,3.3,16.0
+291,PRK,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Democratic People's Republic of Korea,2012,Sex,4.9 [1.7-10.4],408,1,4.9,1.7,10.4
+292,PRT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Portugal,2012,Sex,19.0 [17.2-21.0],620,0,19.0,17.2,21.0
+293,PRT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Portugal,2012,Sex,18.2 [16.2-20.3],620,1,18.2,16.2,20.3
+294,PRY,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Paraguay,2012,Sex,27.7 [23.8-31.9],600,0,27.7,23.8,31.9
+295,PRY,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Paraguay,2012,Sex,21.8 [17.7-26.1],600,1,21.8,17.7,26.1
+296,PSE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)","occupied Palestinian territory, including east Jerusalem",2012,Sex,41.6 [38.9-44.4],275,0,41.6,38.9,44.4
+297,PSE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)","occupied Palestinian territory, including east Jerusalem",2012,Sex,26.1 [23.3-28.9],275,1,26.1,23.3,28.9
+298,PYF,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",French Polynesia,2012,Sex,44.9 [39.9-50.0],258,0,44.9,39.9,50.0
+299,PYF,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",French Polynesia,2012,Sex,41.2 [36.2-46.4],258,1,41.2,36.2,46.4
+300,QAT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Qatar,2012,Sex,43.8 [40.1-47.5],634,0,43.8,40.1,47.5
+301,QAT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Qatar,2012,Sex,33.4 [29.7-37.3],634,1,33.4,29.7,37.3
+302,ROU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Romania,2012,Sex,21.5 [19.6-23.5],642,0,21.5,19.6,23.5
+303,ROU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Romania,2012,Sex,22.1 [19.9-24.3],642,1,22.1,19.9,24.3
+304,RUS,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Russian Federation,2012,Sex,25.2 [23.5-27.0],643,0,25.2,23.5,27.0
+305,RUS,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Russian Federation,2012,Sex,18.0 [16.3-19.7],643,1,18.0,16.3,19.7
+306,RWA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Rwanda,2012,Sex,3.8 [3.3-4.4],646,0,3.8,3.3,4.4
+307,RWA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Rwanda,2012,Sex,0.8 [0.6-1.1],646,1,0.8,0.6,1.1
+308,SAU,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saudi Arabia,2012,Sex,42.1 [39.7-44.7],682,0,42.1,39.7,44.7
+309,SAU,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saudi Arabia,2012,Sex,30.6 [28.1-33.1],682,1,30.6,28.1,33.1
+310,SDN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sudan,2012,Sex,16.4 [13.8-19.3],729,0,16.4,13.8,19.3
+311,SDN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sudan,2012,Sex,6.1 [4.7-7.8],729,1,6.1,4.7,7.8
+312,SEN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Senegal,2012,Sex,12.0 [10.5-13.6],686,0,12.0,10.5,13.6
+313,SEN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Senegal,2012,Sex,2.5 [1.9-3.2],686,1,2.5,1.9,3.2
+314,SGP,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Singapore,2012,Sex,7.9 [7.0-9.0],702,0,7.9,7.0,9.0
+315,SGP,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Singapore,2012,Sex,8.1 [7.0-9.4],702,1,8.1,7.0,9.4
+316,SLB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Solomon Islands,2012,Sex,23.4 [20.5-26.5],90,0,23.4,20.5,26.5
+317,SLB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Solomon Islands,2012,Sex,14.8 [12.5-17.4],90,1,14.8,12.5,17.4
+318,SLE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sierra Leone,2012,Sex,9.1 [7.9-10.4],694,0,9.1,7.9,10.4
+319,SLE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sierra Leone,2012,Sex,2.4 [1.9-3.0],694,1,2.4,1.9,3.0
+320,SLV,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",El Salvador,2012,Sex,30.7 [28.0-33.4],222,0,30.7,28.0,33.4
+321,SLV,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",El Salvador,2012,Sex,18.4 [15.1-21.9],222,1,18.4,15.1,21.9
+322,SOM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Somalia,2012,Sex,15.5 [10.1-21.8],706,0,15.5,10.1,21.8
+323,SOM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Somalia,2012,Sex,3.3 [1.5-6.0],706,1,3.3,1.5,6.0
+324,SRB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Serbia,2012,Sex,17.6 [15.8-19.4],688,0,17.6,15.8,19.4
+325,SRB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Serbia,2012,Sex,18.6 [16.7-20.6],688,1,18.6,16.7,20.6
+326,SSD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",South Sudan,2012,Sex,7.4 [4.3-11.7],728,0,7.4,4.3,11.7
+327,SSD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",South Sudan,2012,Sex,3.0 [1.4-5.3],728,1,3.0,1.4,5.3
+328,STP,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sao Tome and Principe,2012,Sex,16.8 [14.7-19.0],678,0,16.8,14.7,19.0
+329,STP,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sao Tome and Principe,2012,Sex,6.7 [5.4-8.1],678,1,6.7,5.4,8.1
+330,SUR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Suriname,2012,Sex,31.0 [24.2-38.4],740,0,31.0,24.2,38.4
+331,SUR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Suriname,2012,Sex,14.3 [10.0-19.6],740,1,14.3,10.0,19.6
+332,SVK,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Slovakia,2012,Sex,19.0 [16.7-21.3],703,0,19.0,16.7,21.3
+333,SVK,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Slovakia,2012,Sex,22.4 [19.7-25.1],703,1,22.4,19.7,25.1
+334,SVN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Slovenia,2012,Sex,13.8 [12.9-14.6],705,0,13.8,12.9,14.6
+335,SVN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Slovenia,2012,Sex,18.6 [17.5-19.7],705,1,18.6,17.5,19.7
+336,SWE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sweden,2012,Sex,13.8 [12.1-15.6],752,0,13.8,12.1,15.6
+337,SWE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Sweden,2012,Sex,15.4 [13.8-17.1],752,1,15.4,13.8,17.1
+338,SWZ,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Eswatini,2012,Sex,35.3 [31.9-38.7],748,0,35.3,31.9,38.7
+339,SWZ,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Eswatini,2012,Sex,9.2 [7.3-11.2],748,1,9.2,7.3,11.2
+340,SYC,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Seychelles,2012,Sex,34.7 [30.9-38.4],690,0,34.7,30.9,38.4
+341,SYC,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Seychelles,2012,Sex,16.0 [13.0-19.0],690,1,16.0,13.0,19.0
+342,SYR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Syrian Arab Republic,2012,Sex,36.5 [31.0-42.4],760,0,36.5,31.0,42.4
+343,SYR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Syrian Arab Republic,2012,Sex,21.6 [16.8-26.8],760,1,21.6,16.8,26.8
+344,TCD,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Chad,2012,Sex,3.9 [3.1-5.0],148,0,3.9,3.1,5.0
+345,TCD,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Chad,2012,Sex,5.1 [2.8-8.3],148,1,5.1,2.8,8.3
+346,TGO,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Togo,2012,Sex,10.5 [9.2-12.1],768,0,10.5,9.2,12.1
+347,TGO,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Togo,2012,Sex,3.6 [2.6-4.8],768,1,3.6,2.6,4.8
+348,THA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Thailand,2012,Sex,12.8 [11.4-14.1],764,0,12.8,11.4,14.1
+349,THA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Thailand,2012,Sex,7.0 [6.0-8.0],764,1,7.0,6.0,8.0
+350,TJK,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tajikistan,2012,Sex,20.3 [18.1-22.5],762,0,20.3,18.1,22.5
+351,TJK,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tajikistan,2012,Sex,13.8 [10.6-17.4],762,1,13.8,10.6,17.4
+352,TKL,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tokelau,2012,Sex,69.3 [64.9-73.6],772,0,69.3,64.9,73.6
+353,TKL,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tokelau,2012,Sex,61.1 [56.2-65.9],772,1,61.1,56.2,65.9
+354,TKM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Turkmenistan,2012,Sex,19.9 [17.6-22.2],795,0,19.9,17.6,22.2
+355,TKM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Turkmenistan,2012,Sex,14.0 [11.6-16.6],795,1,14.0,11.6,16.6
+356,TLS,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Timor-Leste,2012,Sex,1.5 [1.2-1.9],626,0,1.5,1.2,1.9
+357,TLS,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Timor-Leste,2012,Sex,0.8 [0.5-1.1],626,1,0.8,0.5,1.1
+358,TON,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tonga,2012,Sex,72.4 [69.8-75.1],776,0,72.4,69.8,75.1
+359,TON,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tonga,2012,Sex,52.4 [49.0-55.7],776,1,52.4,49.0,55.7
+360,TTO,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Trinidad and Tobago,2012,Sex,30.0 [27.0-33.1],780,0,30.0,27.0,33.1
+361,TTO,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Trinidad and Tobago,2012,Sex,19.1 [16.4-21.9],780,1,19.1,16.4,21.9
+362,TUN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tunisia,2012,Sex,29.2 [25.4-33.2],788,0,29.2,25.4,33.2
+363,TUN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tunisia,2012,Sex,14.5 [11.7-17.8],788,1,14.5,11.7,17.8
+364,TUR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Türkiye,2012,Sex,36.9 [35.6-38.1],792,0,36.9,35.6,38.1
+365,TUR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Türkiye,2012,Sex,21.8 [20.3-23.3],792,1,21.8,20.3,23.3
+366,TUV,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tuvalu,2012,Sex,66.0 [60.7-71.0],798,0,66.0,60.7,71.0
+367,TUV,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Tuvalu,2012,Sex,51.7 [46.0-57.4],798,1,51.7,46.0,57.4
+368,TZA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United Republic of Tanzania,2012,Sex,11.1 [9.9-12.4],834,0,11.1,9.9,12.4
+369,TZA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United Republic of Tanzania,2012,Sex,3.7 [2.8-4.7],834,1,3.7,2.8,4.7
+370,UGA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Uganda,2012,Sex,6.5 [5.7-7.4],800,0,6.5,5.7,7.4
+371,UGA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Uganda,2012,Sex,1.5 [1.2-1.9],800,1,1.5,1.2,1.9
+372,UKR,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ukraine,2012,Sex,25.8 [22.5-29.2],804,0,25.8,22.5,29.2
+373,UKR,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Ukraine,2012,Sex,16.6 [12.9-20.8],804,1,16.6,12.9,20.8
+374,URY,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Uruguay,2012,Sex,27.1 [24.5-29.9],858,0,27.1,24.5,29.9
+375,URY,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Uruguay,2012,Sex,22.5 [19.6-25.4],858,1,22.5,19.6,25.4
+376,USA,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United States of America,2012,Sex,37.8 [36.4-39.2],840,0,37.8,36.4,39.2
+377,USA,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",United States of America,2012,Sex,36.1 [34.7-37.4],840,1,36.1,34.7,37.4
+378,UZB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Uzbekistan,2012,Sex,24.7 [22.5-26.8],860,0,24.7,22.5,26.8
+379,UZB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Uzbekistan,2012,Sex,16.8 [14.6-19.1],860,1,16.8,14.6,19.1
+380,VCT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saint Vincent and the Grenadines,2012,Sex,39.7 [35.1-44.5],670,0,39.7,35.1,44.5
+381,VCT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Saint Vincent and the Grenadines,2012,Sex,14.2 [11.3-17.5],670,1,14.2,11.3,17.5
+382,VEN,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Venezuela (Bolivarian Republic of),2012,Sex,24.3 [22.1-26.6],862,0,24.3,22.1,26.6
+383,VEN,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Venezuela (Bolivarian Republic of),2012,Sex,20.9 [18.6-23.3],862,1,20.9,18.6,23.3
+384,VNM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Viet Nam,2012,Sex,0.9 [0.8-1.1],704,0,0.9,0.8,1.1
+385,VNM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Viet Nam,2012,Sex,0.7 [0.6-0.9],704,1,0.7,0.6,0.9
+386,VUT,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Vanuatu,2012,Sex,22.7 [19.3-26.2],548,0,22.7,19.3,26.2
+387,VUT,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Vanuatu,2012,Sex,14.2 [11.7-17.1],548,1,14.2,11.7,17.1
+388,WSM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Samoa,2012,Sex,66.9 [63.6-70.0],882,0,66.9,63.6,70.0
+389,WSM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Samoa,2012,Sex,44.8 [41.4-48.4],882,1,44.8,41.4,48.4
+390,YEM,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Yemen,2012,Sex,11.5 [9.9-13.3],887,0,11.5,9.9,13.3
+391,YEM,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Yemen,2012,Sex,6.7 [5.1-8.4],887,1,6.7,5.1,8.4
+392,ZAF,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",South Africa,2012,Sex,40.3 [38.8-41.7],710,0,40.3,38.8,41.7
+393,ZAF,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",South Africa,2012,Sex,14.5 [13.5-15.6],710,1,14.5,13.5,15.6
+394,ZMB,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Zambia,2012,Sex,10.3 [9.0-11.7],894,0,10.3,9.0,11.7
+395,ZMB,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Zambia,2012,Sex,2.8 [2.0-3.8],894,1,2.8,2.0,3.8
+396,ZWE,Female,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Zimbabwe,2012,Sex,15.6 [13.9-17.6],716,0,15.6,13.9,17.6
+397,ZWE,Male,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",Zimbabwe,2012,Sex,3.1 [2.4-3.8],716,1,3.1,2.4,3.8

@@ -1,0 +1,391 @@
+,alpha3,Dim1,Indicator,Location,Time period,Dim1 type,Value,country-code,sex_dichotomic,Value2,CI95_low,CI95_high
+0,AFG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Afghanistan,2012,Sex,37.0 [22.5-53.1],4,0,37.0,22.5,53.1
+1,AFG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Afghanistan,2012,Sex,17.2 [9.3-27.6],4,1,17.2,9.3,27.6
+2,AGO,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Angola,2012,Sex,22.1 [6.2-46.3],24,0,22.1,6.2,46.3
+3,AGO,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Angola,2012,Sex,15.5 [5.5-33.0],24,1,15.5,5.5,33.0
+4,ALB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Albania,2012,Sex,25.0 [7.4-52.5],8,0,25.0,7.4,52.5
+5,ALB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Albania,2012,Sex,18.1 [6.4-37.6],8,1,18.1,6.4,37.6
+6,AND,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Andorra,2012,Sex,32.2 [16.8-50.2],20,0,32.2,16.8,50.2
+7,AND,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Andorra,2012,Sex,29.7 [17.3-44.6],20,1,29.7,17.3,44.6
+8,ARE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United Arab Emirates,2012,Sex,65.9 [56.9-74.3],784,0,65.9,56.9,74.3
+9,ARE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United Arab Emirates,2012,Sex,54.9 [46.1-63.8],784,1,54.9,46.1,63.8
+10,ARG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Argentina,2012,Sex,37.5 [27.5-48.3],32,0,37.5,27.5,48.3
+11,ARG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Argentina,2012,Sex,34.2 [25.4-43.2],32,1,34.2,25.4,43.2
+12,ARM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Armenia,2012,Sex,24.9 [14.5-37.9],51,0,24.9,14.5,37.9
+13,ARM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Armenia,2012,Sex,24.1 [14.5-35.2],51,1,24.1,14.5,35.2
+14,ATG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Antigua and Barbuda,2012,Sex,39.9 [15.7-68.1],28,0,39.9,15.7,68.1
+15,ATG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Antigua and Barbuda,2012,Sex,27.8 [12.0-51.3],28,1,27.8,12.0,51.3
+16,AUS,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Australia,2012,Sex,29.0 [20.8-37.7],36,0,29.0,20.8,37.7
+17,AUS,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Australia,2012,Sex,23.1 [16.5-30.9],36,1,23.1,16.5,30.9
+18,AUT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Austria,2012,Sex,26.9 [21.2-33.1],40,0,26.9,21.2,33.1
+19,AUT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Austria,2012,Sex,24.0 [19.0-29.3],40,1,24.0,19.0,29.3
+20,AZE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Azerbaijan,2012,Sex,23.6 [13.5-36.6],31,0,23.6,13.5,36.6
+21,AZE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Azerbaijan,2012,Sex,21.4 [12.7-32.4],31,1,21.4,12.7,32.4
+22,BDI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Burundi,2012,Sex,15.6 [3.6-36.2],108,0,15.6,3.6,36.2
+23,BDI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Burundi,2012,Sex,14.5 [5.0-32.7],108,1,14.5,5.0,32.7
+24,BEL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Belgium,2012,Sex,38.9 [32.4-45.9],56,0,38.9,32.4,45.9
+25,BEL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Belgium,2012,Sex,30.6 [25.1-36.6],56,1,30.6,25.1,36.6
+26,BEN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Benin,2012,Sex,19.1 [11.2-29.1],204,0,19.1,11.2,29.1
+27,BEN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Benin,2012,Sex,14.9 [8.7-22.7],204,1,14.9,8.7,22.7
+28,BFA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Burkina Faso,2012,Sex,17.7 [12.1-24.3],854,0,17.7,12.1,24.3
+29,BFA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Burkina Faso,2012,Sex,15.2 [10.5-20.6],854,1,15.2,10.5,20.6
+30,BGD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bangladesh,2012,Sex,25.8 [19.2-33.4],50,0,25.8,19.2,33.4
+31,BGD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bangladesh,2012,Sex,15.4 [10.9-20.6],50,1,15.4,10.9,20.6
+32,BGR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bulgaria,2012,Sex,27.6 [20.1-35.8],100,0,27.6,20.1,35.8
+33,BGR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bulgaria,2012,Sex,24.9 [18.4-32.1],100,1,24.9,18.4,32.1
+34,BHR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bahrain,2012,Sex,39.0 [15.7-66.4],48,0,39.0,15.7,66.4
+35,BHR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bahrain,2012,Sex,33.2 [15.4-56.1],48,1,33.2,15.4,56.1
+36,BHS,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bahamas,2012,Sex,46.2 [34.7-58.0],44,0,46.2,34.7,58.0
+37,BHS,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bahamas,2012,Sex,27.9 [19.2-37.9],44,1,27.9,19.2,37.9
+38,BIH,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bosnia and Herzegovina,2012,Sex,21.0 [8.9-38.6],70,0,21.0,8.9,38.6
+39,BIH,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bosnia and Herzegovina,2012,Sex,14.1 [6.2-25.0],70,1,14.1,6.2,25.0
+40,BLR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Belarus,2012,Sex,16.7 [9.4-26.4],112,0,16.7,9.4,26.4
+41,BLR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Belarus,2012,Sex,15.0 [9.1-22.7],112,1,15.0,9.1,22.7
+42,BLZ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Belize,2012,Sex,43.1 [17.9-70.7],84,0,43.1,17.9,70.7
+43,BLZ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Belize,2012,Sex,31.8 [14.1-55.7],84,1,31.8,14.1,55.7
+44,BOL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bolivia (Plurinational State of),2012,Sex,25.8 [14.2-40.3],68,0,25.8,14.2,40.3
+45,BOL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bolivia (Plurinational State of),2012,Sex,17.8 [9.7-28.3],68,1,17.8,9.7,28.3
+46,BRA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Brazil,2012,Sex,38.8 [30.7-47.3],76,0,38.8,30.7,47.3
+47,BRA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Brazil,2012,Sex,32.8 [25.7-40.2],76,1,32.8,25.7,40.2
+48,BRB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Barbados,2012,Sex,46.3 [29.8-63.8],52,0,46.3,29.8,63.8
+49,BRB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Barbados,2012,Sex,32.8 [20.2-47.3],52,1,32.8,20.2,47.3
+50,BRN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Brunei Darussalam,2012,Sex,33.5 [21.8-47.4],96,0,33.5,21.8,47.4
+51,BRN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Brunei Darussalam,2012,Sex,25.6 [15.7-37.5],96,1,25.6,15.7,37.5
+52,BTN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bhutan,2012,Sex,12.9 [7.4-20.0],64,0,12.9,7.4,20.0
+53,BTN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Bhutan,2012,Sex,8.3 [4.7-13.2],64,1,8.3,4.7,13.2
+54,BWA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Botswana,2012,Sex,29.8 [20.7-40.1],72,0,29.8,20.7,40.1
+55,BWA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Botswana,2012,Sex,19.4 [12.8-26.9],72,1,19.4,12.8,26.9
+56,CAF,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Central African Republic,2012,Sex,19.9 [5.3-42.3],140,0,19.9,5.3,42.3
+57,CAF,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Central African Republic,2012,Sex,14.8 [5.1-32.5],140,1,14.8,5.1,32.5
+58,CAN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Canada,2012,Sex,33.9 [26.0-42.0],124,0,33.9,26.0,42.0
+59,CAN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Canada,2012,Sex,30.2 [23.3-37.6],124,1,30.2,23.3,37.6
+60,CHE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Switzerland,2012,Sex,24.2 [13.8-36.7],756,0,24.2,13.8,36.7
+61,CHE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Switzerland,2012,Sex,21.3 [12.3-31.9],756,1,21.3,12.3,31.9
+62,CHL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Chile,2012,Sex,35.3 [26.4-44.8],152,0,35.3,26.4,44.8
+63,CHL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Chile,2012,Sex,25.6 [18.9-33.2],152,1,25.6,18.9,33.2
+64,CHN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),China,2012,Sex,18.9 [15.0-23.3],156,0,18.9,15.0,23.3
+65,CHN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),China,2012,Sex,23.9 [19.5-28.8],156,1,23.9,19.5,28.8
+66,CIV,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cote d'Ivoire,2012,Sex,26.2 [11.6-44.6],384,0,26.2,11.6,44.6
+67,CIV,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cote d'Ivoire,2012,Sex,17.4 [8.1-29.5],384,1,17.4,8.1,29.5
+68,CMR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cameroon,2012,Sex,23.3 [7.0-47.7],120,0,23.3,7.0,47.7
+69,CMR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cameroon,2012,Sex,18.6 [6.7-38.0],120,1,18.6,6.7,38.0
+70,COD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Democratic Republic of the Congo,2012,Sex,18.2 [4.4-40.0],180,0,18.2,4.4,40.0
+71,COD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Democratic Republic of the Congo,2012,Sex,13.6 [4.5-30.2],180,1,13.6,4.5,30.2
+72,COG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Congo,2012,Sex,21.8 [5.8-46.8],178,0,21.8,5.8,46.8
+73,COG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Congo,2012,Sex,14.3 [4.6-31.3],178,1,14.3,4.6,31.3
+74,COK,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cook Islands,2012,Sex,45.0 [36.0-54.4],184,0,45.0,36.0,54.4
+75,COK,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cook Islands,2012,Sex,31.4 [23.8-39.5],184,1,31.4,23.8,39.5
+76,COL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Colombia,2012,Sex,35.6 [12.7-64.2],170,0,35.6,12.7,64.2
+77,COL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Colombia,2012,Sex,25.1 [9.7-48.3],170,1,25.1,9.7,48.3
+78,COM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Comoros,2012,Sex,17.3 [10.0-26.9],174,0,17.3,10.0,26.9
+79,COM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Comoros,2012,Sex,8.5 [4.6-13.7],174,1,8.5,4.6,13.7
+80,CPV,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cabo Verde,2012,Sex,33.1 [23.4-43.8],132,0,33.1,23.4,43.8
+81,CPV,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cabo Verde,2012,Sex,19.6 [13.0-27.2],132,1,19.6,13.0,27.2
+82,CRI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Costa Rica,2012,Sex,54.1 [43.0-65.0],188,0,54.1,43.0,65.0
+83,CRI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Costa Rica,2012,Sex,38.3 [28.8-48.0],188,1,38.3,28.8,48.0
+84,CUB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cuba,2012,Sex,58.2 [46.5-69.4],192,0,58.2,46.5,69.4
+85,CUB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cuba,2012,Sex,38.3 [28.8-48.4],192,1,38.3,28.8,48.4
+86,CYP,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cyprus,2012,Sex,48.0 [38.6-57.9],196,0,48.0,38.6,57.9
+87,CYP,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cyprus,2012,Sex,36.0 [27.9-45.1],196,1,36.0,27.9,45.1
+88,CZE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Czechia,2012,Sex,24.3 [18.2-30.9],203,0,24.3,18.2,30.9
+89,CZE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Czechia,2012,Sex,22.1 [16.7-28.0],203,1,22.1,16.7,28.0
+90,DEU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Germany,2012,Sex,15.8 [12.6-19.2],276,0,15.8,12.6,19.2
+91,DEU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Germany,2012,Sex,15.6 [12.7-18.9],276,1,15.6,12.7,18.9
+92,DJI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Djibouti,2012,Sex,21.1 [5.9-44.9],262,0,21.1,5.9,44.9
+93,DJI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Djibouti,2012,Sex,14.1 [4.8-30.9],262,1,14.1,4.8,30.9
+94,DMA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Dominica,2012,Sex,33.0 [18.5-49.4],212,0,33.0,18.5,49.4
+95,DMA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Dominica,2012,Sex,17.0 [8.8-27.8],212,1,17.0,8.8,27.8
+96,DNK,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Denmark,2012,Sex,17.3 [12.4-23.2],208,0,17.3,12.4,23.2
+97,DNK,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Denmark,2012,Sex,18.4 [13.6-24.1],208,1,18.4,13.6,24.1
+98,DOM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Dominican Republic,2012,Sex,37.5 [14.2-65.3],214,0,37.5,14.2,65.3
+99,DOM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Dominican Republic,2012,Sex,27.4 [11.4-51.1],214,1,27.4,11.4,51.1
+100,DZA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Algeria,2012,Sex,34.2 [21.1-48.7],12,0,34.2,21.1,48.7
+101,DZA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Algeria,2012,Sex,18.4 [10.6-28.0],12,1,18.4,10.6,28.0
+102,ECU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ecuador,2012,Sex,26.6 [15.0-40.6],218,0,26.6,15.0,40.6
+103,ECU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ecuador,2012,Sex,16.6 [9.3-26.2],218,1,16.6,9.3,26.2
+104,EGY,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Egypt,2012,Sex,36.5 [26.8-47.5],818,0,36.5,26.8,47.5
+105,EGY,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Egypt,2012,Sex,27.8 [20.0-37.0],818,1,27.8,20.0,37.0
+106,ERI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Eritrea,2012,Sex,16.4 [8.5-27.1],232,0,16.4,8.5,27.1
+107,ERI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Eritrea,2012,Sex,7.2 [3.5-12.7],232,1,7.2,3.5,12.7
+108,ESP,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Spain,2012,Sex,33.6 [27.4-40.2],724,0,33.6,27.4,40.2
+109,ESP,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Spain,2012,Sex,27.7 [22.5-33.7],724,1,27.7,22.5,33.7
+110,EST,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Estonia,2012,Sex,14.2 [10.1-18.9],233,0,14.2,10.1,18.9
+111,EST,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Estonia,2012,Sex,14.8 [10.6-19.7],233,1,14.8,10.6,19.7
+112,ETH,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ethiopia,2012,Sex,14.2 [8.5-21.5],231,0,14.2,8.5,21.5
+113,ETH,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ethiopia,2012,Sex,7.6 [4.3-11.9],231,1,7.6,4.3,11.9
+114,FIN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Finland,2012,Sex,15.0 [10.6-20.0],246,0,15.0,10.6,20.0
+115,FIN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Finland,2012,Sex,17.2 [12.7-22.3],246,1,17.2,12.7,22.3
+116,FJI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Fiji,2012,Sex,24.5 [13.9-37.7],242,0,24.5,13.9,37.7
+117,FJI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Fiji,2012,Sex,11.9 [6.3-19.4],242,1,11.9,6.3,19.4
+118,FRA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),France,2012,Sex,34.1 [27.7-40.7],250,0,34.1,27.7,40.7
+119,FRA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),France,2012,Sex,26.7 [21.2-32.5],250,1,26.7,21.2,32.5
+120,FSM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Micronesia (Federated States of),2012,Sex,41.4 [26.4-57.3],583,0,41.4,26.4,57.3
+121,FSM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Micronesia (Federated States of),2012,Sex,29.4 [18.2-42.3],583,1,29.4,18.2,42.3
+122,GAB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Gabon,2012,Sex,26.0 [8.2-52.3],266,0,26.0,8.2,52.3
+123,GAB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Gabon,2012,Sex,19.1 [7.1-38.8],266,1,19.1,7.1,38.8
+124,GBR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United Kingdom of Great Britain and Northern Ireland,2012,Sex,29.2 [23.5-35.6],826,0,29.2,23.5,35.6
+125,GBR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United Kingdom of Great Britain and Northern Ireland,2012,Sex,25.1 [19.9-30.6],826,1,25.1,19.9,30.6
+126,GEO,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Georgia,2012,Sex,20.0 [14.0-27.1],268,0,20.0,14.0,27.1
+127,GEO,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Georgia,2012,Sex,18.9 [13.2-25.5],268,1,18.9,13.2,25.5
+128,GHA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ghana,2012,Sex,21.1 [13.8-29.9],288,0,21.1,13.8,29.9
+129,GHA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ghana,2012,Sex,17.3 [11.4-24.3],288,1,17.3,11.4,24.3
+130,GIN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guinea,2012,Sex,19.9 [5.3-42.7],324,0,19.9,5.3,42.7
+131,GIN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guinea,2012,Sex,14.9 [4.9-32.5],324,1,14.9,4.9,32.5
+132,GMB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Gambia,2012,Sex,25.6 [14.7-38.6],270,0,25.6,14.7,38.6
+133,GMB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Gambia,2012,Sex,17.4 [9.6-27.0],270,1,17.4,9.6,27.0
+134,GNB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guinea-Bissau,2012,Sex,20.9 [5.8-44.3],624,0,20.9,5.8,44.3
+135,GNB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guinea-Bissau,2012,Sex,16.5 [6.0-34.7],624,1,16.5,6.0,34.7
+136,GNQ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Equatorial Guinea,2012,Sex,26.1 [8.6-51.9],226,0,26.1,8.6,51.9
+137,GNQ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Equatorial Guinea,2012,Sex,16.8 [5.9-35.3],226,1,16.8,5.9,35.3
+138,GRC,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Greece,2012,Sex,35.4 [27.9-43.6],300,0,35.4,27.9,43.6
+139,GRC,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Greece,2012,Sex,29.6 [22.9-37.0],300,1,29.6,22.9,37.0
+140,GRD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Grenada,2012,Sex,37.7 [24.3-51.7],308,0,37.7,24.3,51.7
+141,GRD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Grenada,2012,Sex,25.4 [15.7-37.7],308,1,25.4,15.7,37.7
+142,GTM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guatemala,2012,Sex,26.0 [16.9-35.8],320,0,26.0,16.9,35.8
+143,GTM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guatemala,2012,Sex,18.6 [12.2-26.6],320,1,18.6,12.2,26.6
+144,GUY,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guyana,2012,Sex,39.1 [25.6-54.3],328,0,39.1,25.6,54.3
+145,GUY,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Guyana,2012,Sex,21.6 [12.6-32.1],328,1,21.6,12.6,32.1
+146,HND,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Honduras,2012,Sex,37.6 [14.0-65.6],340,0,37.6,14.0,65.6
+147,HND,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Honduras,2012,Sex,27.3 [11.1-50.2],340,1,27.3,11.1,50.2
+148,HRV,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Croatia,2012,Sex,21.0 [14.8-27.9],191,0,21.0,14.8,27.9
+149,HRV,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Croatia,2012,Sex,19.0 [13.4-25.1],191,1,19.0,13.4,25.1
+150,HTI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Haiti,2012,Sex,31.1 [9.9-59.1],332,0,31.1,9.9,59.1
+151,HTI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Haiti,2012,Sex,18.5 [6.7-39.1],332,1,18.5,6.7,39.1
+152,HUN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Hungary,2012,Sex,25.9 [19.5-32.8],348,0,25.9,19.5,32.8
+153,HUN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Hungary,2012,Sex,21.2 [15.8-27.3],348,1,21.2,15.8,27.3
+154,IDN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Indonesia,2012,Sex,15.7 [10.1-22.6],360,0,15.7,10.1,22.6
+155,IDN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Indonesia,2012,Sex,17.4 [11.6-24.2],360,1,17.4,11.6,24.2
+156,IND,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),India,2012,Sex,41.7 [32.9-50.4],356,0,41.7,32.9,50.4
+157,IND,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),India,2012,Sex,30.9 [23.5-39.1],356,1,30.9,23.5,39.1
+158,IRL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ireland,2012,Sex,33.2 [27.0-39.6],372,0,33.2,27.0,39.6
+159,IRL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ireland,2012,Sex,25.8 [20.8-31.3],372,1,25.8,20.8,31.3
+160,IRN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Iran (Islamic Republic of),2012,Sex,47.3 [40.7-53.6],364,0,47.3,40.7,53.6
+161,IRN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Iran (Islamic Republic of),2012,Sex,29.4 [24.3-34.9],364,1,29.4,24.3,34.9
+162,IRQ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Iraq,2012,Sex,53.2 [40.7-65.5],368,0,53.2,40.7,65.5
+163,IRQ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Iraq,2012,Sex,40.8 [29.3-52.4],368,1,40.8,29.3,52.4
+164,ISL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Iceland,2012,Sex,31.2 [10.5-59.2],352,0,31.2,10.5,59.2
+165,ISL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Iceland,2012,Sex,26.1 [10.6-48.6],352,1,26.1,10.6,48.6
+166,ISR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Israel,2012,Sex,33.1 [11.9-61.0],376,0,33.1,11.9,61.0
+167,ISR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Israel,2012,Sex,27.1 [11.5-50.9],376,1,27.1,11.5,50.9
+168,ITA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Italy,2012,Sex,46.5 [38.1-54.9],380,0,46.5,38.1,54.9
+169,ITA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Italy,2012,Sex,37.5 [30.5-45.2],380,1,37.5,30.5,45.2
+170,JAM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Jamaica,2012,Sex,39.6 [24.1-56.1],388,0,39.6,24.1,56.1
+171,JAM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Jamaica,2012,Sex,27.6 [16.0-41.4],388,1,27.6,16.0,41.4
+172,JOR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Jordan,2012,Sex,25.9 [19.0-33.8],400,0,25.9,19.0,33.8
+173,JOR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Jordan,2012,Sex,29.3 [21.8-37.4],400,1,29.3,21.8,37.4
+174,JPN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Japan,2012,Sex,41.2 [24.6-58.9],392,0,41.2,24.6,58.9
+175,JPN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Japan,2012,Sex,33.0 [20.0-49.0],392,1,33.0,20.0,49.0
+176,KAZ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kazakhstan,2012,Sex,22.0 [9.6-38.9],398,0,22.0,9.6,38.9
+177,KAZ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kazakhstan,2012,Sex,23.2 [12.0-37.7],398,1,23.2,12.0,37.7
+178,KEN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kenya,2012,Sex,11.5 [6.6-17.4],404,0,11.5,6.6,17.4
+179,KEN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kenya,2012,Sex,9.2 [5.4-14.3],404,1,9.2,5.4,14.3
+180,KGZ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kyrgyzstan,2012,Sex,20.2 [11.3-31.0],417,0,20.2,11.3,31.0
+181,KGZ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kyrgyzstan,2012,Sex,15.3 [8.3-24.1],417,1,15.3,8.3,24.1
+182,KHM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cambodia,2012,Sex,13.8 [8.4-20.7],116,0,13.8,8.4,20.7
+183,KHM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Cambodia,2012,Sex,12.4 [7.7-18.3],116,1,12.4,7.7,18.3
+184,KIR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kiribati,2012,Sex,43.5 [30.9-56.4],296,0,43.5,30.9,56.4
+185,KIR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kiribati,2012,Sex,28.1 [18.4-39.1],296,1,28.1,18.4,39.1
+186,KNA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saint Kitts and Nevis,2012,Sex,43.8 [23.0-65.4],659,0,43.8,23.0,65.4
+187,KNA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saint Kitts and Nevis,2012,Sex,30.6 [15.8-48.5],659,1,30.6,15.8,48.5
+188,KOR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Republic of Korea,2012,Sex,46.8 [41.6-52.0],410,0,46.8,41.6,52.0
+189,KOR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Republic of Korea,2012,Sex,38.3 [33.7-43.0],410,1,38.3,33.7,43.0
+190,KWT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kuwait,2012,Sex,63.4 [48.2-76.8],414,0,63.4,48.2,76.8
+191,KWT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Kuwait,2012,Sex,61.3 [47.5-74.5],414,1,61.3,47.5,74.5
+192,LAO,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lao People's Democratic Republic,2012,Sex,21.0 [13.3-30.3],418,0,21.0,13.3,30.3
+193,LAO,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lao People's Democratic Republic,2012,Sex,10.1 [5.7-15.9],418,1,10.1,5.7,15.9
+194,LBN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lebanon,2012,Sex,46.4 [35.6-57.4],422,0,46.4,35.6,57.4
+195,LBN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lebanon,2012,Sex,49.9 [39.9-60.1],422,1,49.9,39.9,60.1
+196,LBR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Liberia,2012,Sex,23.9 [15.5-33.9],430,0,23.9,15.5,33.9
+197,LBR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Liberia,2012,Sex,18.6 [11.9-26.3],430,1,18.6,11.9,26.3
+198,LBY,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Libya,2012,Sex,46.8 [35.6-58.2],434,0,46.8,35.6,58.2
+199,LBY,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Libya,2012,Sex,34.2 [25.2-44.1],434,1,34.2,25.2,44.1
+200,LCA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saint Lucia,2012,Sex,26.9 [15.6-40.3],662,0,26.9,15.6,40.3
+201,LCA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saint Lucia,2012,Sex,17.5 [10.1-27.1],662,1,17.5,10.1,27.1
+202,LKA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sri Lanka,2012,Sex,33.2 [26.0-41.0],144,0,33.2,26.0,41.0
+203,LKA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sri Lanka,2012,Sex,21.6 [16.1-28.0],144,1,21.6,16.1,28.0
+204,LSO,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lesotho,2012,Sex,9.3 [4.4-16.1],426,0,9.3,4.4,16.1
+205,LSO,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lesotho,2012,Sex,9.4 [4.7-15.9],426,1,9.4,4.7,15.9
+206,LTU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lithuania,2012,Sex,22.0 [16.9-27.8],440,0,22.0,16.9,27.8
+207,LTU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Lithuania,2012,Sex,21.9 [17.1-27.2],440,1,21.9,17.1,27.2
+208,LUX,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Luxembourg,2012,Sex,20.4 [15.5-26.3],442,0,20.4,15.5,26.3
+209,LUX,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Luxembourg,2012,Sex,18.7 [14.1-23.9],442,1,18.7,14.1,23.9
+210,LVA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Latvia,2012,Sex,17.9 [12.4-24.5],428,0,17.9,12.4,24.5
+211,LVA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Latvia,2012,Sex,16.3 [11.2-22.1],428,1,16.3,11.2,22.1
+212,MAR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Morocco,2012,Sex,27.8 [17.8-39.6],504,0,27.8,17.8,39.6
+213,MAR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Morocco,2012,Sex,17.7 [10.8-26.0],504,1,17.7,10.8,26.0
+214,MDA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Republic of Moldova,2012,Sex,12.7 [7.0-19.9],498,0,12.7,7.0,19.9
+215,MDA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Republic of Moldova,2012,Sex,13.0 [7.9-19.6],498,1,13.0,7.9,19.6
+216,MDG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Madagascar,2012,Sex,15.3 [3.5-37.3],450,0,15.3,3.5,37.3
+217,MDG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Madagascar,2012,Sex,12.7 [4.2-28.3],450,1,12.7,4.2,28.3
+218,MDV,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Maldives,2012,Sex,26.0 [14.9-38.6],462,0,26.0,14.9,38.6
+219,MDV,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Maldives,2012,Sex,23.0 [14.0-34.1],462,1,23.0,14.0,34.1
+220,MEX,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mexico,2012,Sex,26.9 [21.4-32.8],484,0,26.9,21.4,32.8
+221,MEX,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mexico,2012,Sex,23.7 [18.9-28.7],484,1,23.7,18.9,28.7
+222,MHL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Marshall Islands,2012,Sex,36.9 [16.5-61.1],584,0,36.9,16.5,61.1
+223,MHL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Marshall Islands,2012,Sex,23.9 [10.3-41.5],584,1,23.9,10.3,41.5
+224,MKD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),North Macedonia,2012,Sex,29.2 [13.5-48.5],807,0,29.2,13.5,48.5
+225,MKD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),North Macedonia,2012,Sex,17.9 [8.0-31.7],807,1,17.9,8.0,31.7
+226,MLI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mali,2012,Sex,37.1 [17.5-59.9],466,0,37.1,17.5,59.9
+227,MLI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mali,2012,Sex,29.0 [14.5-47.5],466,1,29.0,14.5,47.5
+228,MLT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Malta,2012,Sex,51.4 [41.1-61.6],470,0,51.4,41.1,61.6
+229,MLT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Malta,2012,Sex,44.2 [34.4-53.9],470,1,44.2,34.4,53.9
+230,MMR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Myanmar,2012,Sex,23.5 [15.8-32.3],104,0,23.5,15.8,32.3
+231,MMR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Myanmar,2012,Sex,19.2 [12.9-26.5],104,1,19.2,12.9,26.5
+232,MNE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Montenegro,2012,Sex,22.7 [6.2-49.4],499,0,22.7,6.2,49.4
+233,MNE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Montenegro,2012,Sex,18.6 [6.5-39.4],499,1,18.6,6.5,39.4
+234,MNG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mongolia,2012,Sex,16.7 [12.2-22.2],496,0,16.7,12.2,22.2
+235,MNG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mongolia,2012,Sex,15.5 [11.3-20.3],496,1,15.5,11.3,20.3
+236,MOZ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mozambique,2012,Sex,9.0 [3.3-18.0],508,0,9.0,3.3,18.0
+237,MOZ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mozambique,2012,Sex,7.0 [2.8-13.6],508,1,7.0,2.8,13.6
+238,MRT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mauritania,2012,Sex,57.2 [35.8-77.6],478,0,57.2,35.8,77.6
+239,MRT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mauritania,2012,Sex,40.0 [23.7-57.2],478,1,40.0,23.7,57.2
+240,MUS,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mauritius,2012,Sex,31.1 [22.5-40.9],480,0,31.1,22.5,40.9
+241,MUS,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Mauritius,2012,Sex,25.5 [18.1-33.9],480,1,25.5,18.1,33.9
+242,MWI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Malawi,2012,Sex,7.4 [4.5-11.3],454,0,7.4,4.5,11.3
+243,MWI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Malawi,2012,Sex,4.9 [2.9-7.5],454,1,4.9,2.9,7.5
+244,MYS,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Malaysia,2012,Sex,44.6 [37.5-51.9],458,0,44.6,37.5,51.9
+245,MYS,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Malaysia,2012,Sex,37.1 [30.8-43.7],458,1,37.1,30.8,43.7
+246,NAM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Namibia,2012,Sex,35.0 [18.4-55.0],516,0,35.0,18.4,55.0
+247,NAM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Namibia,2012,Sex,25.2 [13.6-39.9],516,1,25.2,13.6,39.9
+248,NER,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Niger,2012,Sex,21.7 [12.6-32.8],562,0,21.7,12.6,32.8
+249,NER,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Niger,2012,Sex,15.9 [9.2-24.2],562,1,15.9,9.2,24.2
+250,NGA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nigeria,2012,Sex,21.5 [6.3-45.4],566,0,21.5,6.3,45.4
+251,NGA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nigeria,2012,Sex,17.2 [6.1-36.4],566,1,17.2,6.1,36.4
+252,NIC,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nicaragua,2012,Sex,39.7 [15.4-68.2],558,0,39.7,15.4,68.2
+253,NIC,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nicaragua,2012,Sex,30.2 [13.3-53.4],558,1,30.2,13.3,53.4
+254,NIU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Niue,2012,Sex,11.0 [5.0-19.9],570,0,11.0,5.0,19.9
+255,NIU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Niue,2012,Sex,9.9 [4.6-17.6],570,1,9.9,4.6,17.6
+256,NLD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Netherlands (Kingdom of the),2012,Sex,14.6 [11.0-18.9],528,0,14.6,11.0,18.9
+257,NLD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Netherlands (Kingdom of the),2012,Sex,12.7 [9.6-16.2],528,1,12.7,9.6,16.2
+258,NOR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Norway,2012,Sex,36.4 [22.8-51.2],578,0,36.4,22.8,51.2
+259,NOR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Norway,2012,Sex,31.5 [20.7-43.9],578,1,31.5,20.7,43.9
+260,NPL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nepal,2012,Sex,8.9 [5.8-12.7],524,0,8.9,5.8,12.7
+261,NPL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nepal,2012,Sex,9.7 [6.4-13.8],524,1,9.7,6.4,13.8
+262,NRU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nauru,2012,Sex,44.3 [33.1-55.7],520,0,44.3,33.1,55.7
+263,NRU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Nauru,2012,Sex,33.7 [24.4-43.6],520,1,33.7,24.4,43.6
+264,NZL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),New Zealand,2012,Sex,22.1 [16.6-28.3],554,0,22.1,16.6,28.3
+265,NZL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),New Zealand,2012,Sex,18.0 [13.5-23.1],554,1,18.0,13.5,23.1
+266,OMN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Oman,2012,Sex,43.3 [33.3-54.1],512,0,43.3,33.3,54.1
+267,OMN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Oman,2012,Sex,32.3 [23.7-41.7],512,1,32.3,23.7,41.7
+268,PAK,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Pakistan,2012,Sex,46.6 [34.8-58.4],586,0,46.6,34.8,58.4
+269,PAK,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Pakistan,2012,Sex,25.9 [17.3-35.2],586,1,25.9,17.3,35.2
+270,PAN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Panama,2012,Sex,54.8 [38.0-71.2],591,0,54.8,38.0,71.2
+271,PAN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Panama,2012,Sex,39.8 [26.4-54.5],591,1,39.8,26.4,54.5
+272,PER,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Peru,2012,Sex,32.4 [18.6-48.0],604,0,32.4,18.6,48.0
+273,PER,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Peru,2012,Sex,26.4 [15.6-38.8],604,1,26.4,15.6,38.8
+274,PHL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Philippines,2012,Sex,34.2 [26.3-42.6],608,0,34.2,26.3,42.6
+275,PHL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Philippines,2012,Sex,22.8 [16.6-29.8],608,1,22.8,16.6,29.8
+276,PLW,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Palau,2012,Sex,37.5 [25.8-50.2],585,0,37.5,25.8,50.2
+277,PLW,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Palau,2012,Sex,22.4 [14.3-32.1],585,1,22.4,14.3,32.1
+278,PNG,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Papua New Guinea,2012,Sex,17.8 [8.3-30.6],598,0,17.8,8.3,30.6
+279,PNG,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Papua New Guinea,2012,Sex,10.7 [5.1-18.7],598,1,10.7,5.1,18.7
+280,POL,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Poland,2012,Sex,31.6 [23.9-39.6],616,0,31.6,23.9,39.6
+281,POL,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Poland,2012,Sex,27.6 [20.6-34.9],616,1,27.6,20.6,34.9
+282,PRI,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Puerto Rico,2012,Sex,41.4 [17.1-69.0],630,0,41.4,17.1,69.0
+283,PRI,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Puerto Rico,2012,Sex,33.9 [16.0-58.0],630,1,33.9,16.0,58.0
+284,PRK,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Democratic People's Republic of Korea,2012,Sex,25.6 [8.2-50.1],408,0,25.6,8.2,50.1
+285,PRK,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Democratic People's Republic of Korea,2012,Sex,20.7 [7.2-41.6],408,1,20.7,7.2,41.6
+286,PRT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Portugal,2012,Sex,51.6 [43.2-60.2],620,0,51.6,43.2,60.2
+287,PRT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Portugal,2012,Sex,43.1 [35.0-51.3],620,1,43.1,35.0,51.3
+288,PRY,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Paraguay,2012,Sex,32.2 [16.1-52.1],600,0,32.2,16.1,52.1
+289,PRY,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Paraguay,2012,Sex,26.9 [14.3-41.8],600,1,26.9,14.3,41.8
+290,PSE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),"occupied Palestinian territory, including east Jerusalem",2012,Sex,40.9 [30.1-52.3],275,0,40.9,30.1,52.3
+291,PSE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),"occupied Palestinian territory, including east Jerusalem",2012,Sex,29.9 [21.2-39.6],275,1,29.9,21.2,39.6
+292,QAT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Qatar,2012,Sex,59.4 [43.9-74.0],634,0,59.4,43.9,74.0
+293,QAT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Qatar,2012,Sex,47.0 [33.7-60.2],634,1,47.0,33.7,60.2
+294,ROU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Romania,2012,Sex,28.6 [18.7-39.3],642,0,28.6,18.7,39.3
+295,ROU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Romania,2012,Sex,25.9 [17.5-35.5],642,1,25.9,17.5,35.5
+296,RUS,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Russian Federation,2012,Sex,14.2 [6.8-24.2],643,0,14.2,6.8,24.2
+297,RUS,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Russian Federation,2012,Sex,14.1 [7.7-22.9],643,1,14.1,7.7,22.9
+298,RWA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Rwanda,2012,Sex,15.1 [8.9-22.8],646,0,15.1,8.9,22.8
+299,RWA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Rwanda,2012,Sex,10.4 [6.1-15.6],646,1,10.4,6.1,15.6
+300,SAU,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saudi Arabia,2012,Sex,63.4 [55.7-70.5],682,0,63.4,55.7,70.5
+301,SAU,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saudi Arabia,2012,Sex,49.0 [41.5-56.6],682,1,49.0,41.5,56.6
+302,SDN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sudan,2012,Sex,22.8 [12.9-35.0],729,0,22.8,12.9,35.0
+303,SDN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sudan,2012,Sex,17.4 [10.1-26.9],729,1,17.4,10.1,26.9
+304,SEN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Senegal,2012,Sex,23.4 [13.8-35.6],686,0,23.4,13.8,35.6
+305,SEN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Senegal,2012,Sex,12.4 [6.7-19.7],686,1,12.4,6.7,19.7
+306,SGP,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Singapore,2012,Sex,22.9 [17.6-28.8],702,0,22.9,17.6,28.8
+307,SGP,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Singapore,2012,Sex,23.7 [18.3-29.4],702,1,23.7,18.3,29.4
+308,SLB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Solomon Islands,2012,Sex,29.1 [19.8-38.9],90,0,29.1,19.8,38.9
+309,SLB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Solomon Islands,2012,Sex,20.2 [13.6-28.1],90,1,20.2,13.6,28.1
+310,SLE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sierra Leone,2012,Sex,18.8 [9.6-30.4],694,0,18.8,9.6,30.4
+311,SLE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sierra Leone,2012,Sex,10.4 [5.1-17.4],694,1,10.4,5.1,17.4
+312,SLV,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),El Salvador,2012,Sex,40.1 [26.5-55.2],222,0,40.1,26.5,55.2
+313,SLV,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),El Salvador,2012,Sex,28.9 [18.2-41.2],222,1,28.9,18.2,41.2
+314,SMR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),San Marino,2012,Sex,31.5 [10.7-57.1],674,0,31.5,10.7,57.1
+315,SMR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),San Marino,2012,Sex,26.1 [10.6-48.0],674,1,26.1,10.6,48.0
+316,SOM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Somalia,2012,Sex,23.2 [7.3-47.2],706,0,23.2,7.3,47.2
+317,SOM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Somalia,2012,Sex,14.2 [4.8-31.3],706,1,14.2,4.8,31.3
+318,SRB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Serbia,2012,Sex,51.7 [33.2-70.1],688,0,51.7,33.2,70.1
+319,SRB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Serbia,2012,Sex,40.8 [26.3-56.0],688,1,40.8,26.3,56.0
+320,SSD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),South Sudan,2012,Sex,19.5 [5.3-42.7],728,0,19.5,5.3,42.7
+321,SSD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),South Sudan,2012,Sex,14.0 [4.6-31.6],728,1,14.0,4.6,31.6
+322,STP,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sao Tome and Principe,2012,Sex,21.8 [14.5-30.4],678,0,21.8,14.5,30.4
+323,STP,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sao Tome and Principe,2012,Sex,13.6 [8.7-19.8],678,1,13.6,8.7,19.8
+324,SUR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Suriname,2012,Sex,48.5 [34.4-62.9],740,0,48.5,34.4,62.9
+325,SUR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Suriname,2012,Sex,37.2 [25.1-49.7],740,1,37.2,25.1,49.7
+326,SVK,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Slovakia,2012,Sex,25.6 [16.9-36.0],703,0,25.6,16.9,36.0
+327,SVK,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Slovakia,2012,Sex,23.2 [15.7-32.0],703,1,23.2,15.7,32.0
+328,SVN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Slovenia,2012,Sex,20.5 [14.6-27.7],705,0,20.5,14.6,27.7
+329,SVN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Slovenia,2012,Sex,16.8 [11.7-22.8],705,1,16.8,11.7,22.8
+330,SWE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sweden,2012,Sex,17.1 [12.0-23.1],752,0,17.1,12.0,23.1
+331,SWE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Sweden,2012,Sex,15.8 [11.5-20.9],752,1,15.8,11.5,20.9
+332,SWZ,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Eswatini,2012,Sex,25.3 [14.7-37.6],748,0,25.3,14.7,37.6
+333,SWZ,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Eswatini,2012,Sex,16.3 [9.1-25.3],748,1,16.3,9.1,25.3
+334,SYC,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Seychelles,2012,Sex,20.8 [13.0-29.9],690,0,20.8,13.0,29.9
+335,SYC,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Seychelles,2012,Sex,21.4 [14.0-30.2],690,1,21.4,14.0,30.2
+336,SYR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Syrian Arab Republic,2012,Sex,38.6 [15.3-66.0],760,0,38.6,15.3,66.0
+337,SYR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Syrian Arab Republic,2012,Sex,30.4 [12.9-53.2],760,1,30.4,12.9,53.2
+338,TCD,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Chad,2012,Sex,21.3 [9.0-38.0],148,0,21.3,9.0,38.0
+339,TCD,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Chad,2012,Sex,18.7 [9.4-31.5],148,1,18.7,9.4,31.5
+340,TGO,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Togo,2012,Sex,15.3 [9.2-22.8],768,0,15.3,9.2,22.8
+341,TGO,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Togo,2012,Sex,12.7 [7.7-18.6],768,1,12.7,7.7,18.6
+342,THA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Thailand,2012,Sex,22.9 [18.5-27.6],764,0,22.9,18.5,27.6
+343,THA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Thailand,2012,Sex,21.2 [17.2-25.5],764,1,21.2,17.2,25.5
+344,TJK,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tajikistan,2012,Sex,38.0 [24.5-53.0],762,0,38.0,24.5,53.0
+345,TJK,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tajikistan,2012,Sex,22.8 [13.4-34.1],762,1,22.8,13.4,34.1
+346,TKM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Turkmenistan,2012,Sex,15.4 [7.5-25.5],795,0,15.4,7.5,25.5
+347,TKM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Turkmenistan,2012,Sex,11.9 [5.9-20.0],795,1,11.9,5.9,20.0
+348,TLS,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Timor-Leste,2012,Sex,26.4 [12.4-44.6],626,0,26.4,12.4,44.6
+349,TLS,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Timor-Leste,2012,Sex,16.6 [7.3-29.4],626,1,16.6,7.3,29.4
+350,TON,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tonga,2012,Sex,37.3 [27.9-47.6],776,0,37.3,27.9,47.6
+351,TON,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tonga,2012,Sex,23.7 [16.5-31.6],776,1,23.7,16.5,31.6
+352,TTO,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Trinidad and Tobago,2012,Sex,49.2 [34.4-64.0],780,0,49.2,34.4,64.0
+353,TTO,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Trinidad and Tobago,2012,Sex,32.1 [21.2-44.4],780,1,32.1,21.2,44.4
+354,TUN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tunisia,2012,Sex,32.0 [16.3-51.6],788,0,32.0,16.3,51.6
+355,TUN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tunisia,2012,Sex,24.1 [12.8-37.8],788,1,24.1,12.8,37.8
+356,TUR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Türkiye,2012,Sex,51.0 [41.2-61.3],792,0,51.0,41.2,61.3
+357,TUR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Türkiye,2012,Sex,32.9 [24.5-41.7],792,1,32.9,24.5,41.7
+358,TUV,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tuvalu,2012,Sex,36.8 [23.3-51.1],798,0,36.8,23.3,51.1
+359,TUV,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Tuvalu,2012,Sex,22.6 [13.5-33.6],798,1,22.6,13.5,33.6
+360,TZA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United Republic of Tanzania,2012,Sex,7.4 [3.8-12.4],834,0,7.4,3.8,12.4
+361,TZA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United Republic of Tanzania,2012,Sex,7.1 [3.9-11.3],834,1,7.1,3.9,11.3
+362,UGA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Uganda,2012,Sex,8.1 [4.1-13.8],800,0,8.1,4.1,13.8
+363,UGA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Uganda,2012,Sex,6.5 [3.4-10.7],800,1,6.5,3.4,10.7
+364,UKR,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ukraine,2012,Sex,11.5 [6.7-17.7],804,0,11.5,6.7,17.7
+365,UKR,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Ukraine,2012,Sex,11.5 [7.0-17.1],804,1,11.5,7.0,17.1
+366,URY,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Uruguay,2012,Sex,34.0 [21.1-48.9],858,0,34.0,21.1,48.9
+367,URY,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Uruguay,2012,Sex,28.2 [17.5-40.1],858,1,28.2,17.5,40.1
+368,USA,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United States of America,2012,Sex,37.3 [31.5-43.0],840,0,37.3,31.5,43.0
+369,USA,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),United States of America,2012,Sex,27.0 [22.2-31.8],840,1,27.0,22.2,31.8
+370,UZB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Uzbekistan,2012,Sex,21.1 [15.1-27.9],860,0,21.1,15.1,27.9
+371,UZB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Uzbekistan,2012,Sex,15.9 [11.2-21.5],860,1,15.9,11.2,21.5
+372,VCT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saint Vincent and the Grenadines,2012,Sex,35.6 [23.1-49.9],670,0,35.6,23.1,49.9
+373,VCT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Saint Vincent and the Grenadines,2012,Sex,19.6 [11.9-29.1],670,1,19.6,11.9,29.1
+374,VEN,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Venezuela (Bolivarian Republic of),2012,Sex,46.7 [31.8-62.1],862,0,46.7,31.8,62.1
+375,VEN,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Venezuela (Bolivarian Republic of),2012,Sex,36.7 [24.9-50.0],862,1,36.7,24.9,50.0
+376,VNM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Viet Nam,2012,Sex,25.5 [19.5-32.0],704,0,25.5,19.5,32.0
+377,VNM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Viet Nam,2012,Sex,19.6 [14.6-25.1],704,1,19.6,14.6,25.1
+378,VUT,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Vanuatu,2012,Sex,11.0 [5.3-19.1],548,0,11.0,5.3,19.1
+379,VUT,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Vanuatu,2012,Sex,8.7 [4.3-15.0],548,1,8.7,4.3,15.0
+380,WSM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Samoa,2012,Sex,29.6 [19.6-41.1],882,0,29.6,19.6,41.1
+381,WSM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Samoa,2012,Sex,16.1 [9.6-23.8],882,1,16.1,9.6,23.8
+382,YEM,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Yemen,2012,Sex,29.0 [9.3-55.7],887,0,29.0,9.3,55.7
+383,YEM,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Yemen,2012,Sex,20.4 [7.5-41.1],887,1,20.4,7.5,41.1
+384,ZAF,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),South Africa,2012,Sex,50.6 [40.9-60.7],710,0,50.6,40.9,60.7
+385,ZAF,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),South Africa,2012,Sex,44.7 [35.5-54.3],710,1,44.7,35.5,54.3
+386,ZMB,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Zambia,2012,Sex,18.8 [12.0-26.9],894,0,18.8,12.0,26.9
+387,ZMB,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Zambia,2012,Sex,11.2 [7.0-16.7],894,1,11.2,7.0,16.7
+388,ZWE,Female,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Zimbabwe,2012,Sex,21.8 [9.3-38.8],716,0,21.8,9.3,38.8
+389,ZWE,Male,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),Zimbabwe,2012,Sex,13.4 [6.2-23.4],716,1,13.4,6.2,23.4
